@@ -329,9 +329,9 @@ class MotorTJAC(Motor):
     precisa_ip_brasil = False  # a ficha registra o teste na nuvem (OK 200): ver docs/fichas/TJAC.md
     parcial = PARCIAL
     esperado = {
-        # min_geral e min_locais: lidos na fixture de 23/10/2026 (ver tests/test_tjac.py).
-        "min_geral": 1,
-        "min_locais": 1,
+        # min_geral e min_locais: lidos na fixture de 23/10/2026 (20 dias gerais; 22 municípios).
+        "min_geral": 20,
+        "min_locais": 22,
         # Âncoras da ficha (1 a 3), conferidas à mão no PDF. Os locais (4 e 5) ficam nos testes.
         "ancoras": {
             "2026-01-01": "Confraternização Universal",
