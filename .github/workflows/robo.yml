@@ -6,7 +6,7 @@ name: robo-e-vigia
 # fontes não bloqueiam o GitHub (roda_na_nuvem = True).
 on:
   schedule:
-    - cron: "30 6 * * *"   # 03:30 em Brasília, depois do robô do Mac
+    - cron: "0 4 * * *"   # 01:00 em Brasília (04:00 UTC), depois do robô do Mac
   workflow_dispatch:
 
 permissions:

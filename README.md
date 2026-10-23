@@ -31,7 +31,7 @@ fontes oficiais ──► motores (um por tribunal) ──► validação ──
 
 - **Principal: Mac do mantenedor, todo dia às 00:00** (`scripts/mac/`). Muitos sites de
   tribunal bloqueiam IP estrangeiro ou de nuvem; o IP residencial brasileiro é aceito.
-- **Reserva e vigia: GitHub Actions às 03:30** (`.github/workflows/robo.yml`). Roda na
+- **Reserva e vigia: GitHub Actions às 01:00** (`.github/workflows/robo.yml`). Roda na
   nuvem só os motores marcados `roda_na_nuvem = True` e falha (com e-mail) se os dados
   estiverem com mais de 2 dias.
 
