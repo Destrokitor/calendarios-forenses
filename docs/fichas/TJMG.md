@@ -31,3 +31,9 @@ ROBOTS-NEGA https://www.tjmg.jus.br/
 ```
   (runs 39986365227 e 39986370049 do testar-urls)
 - **Cobertura:** completa (feriados do TJ e municipais de todas as comarcas no Anexo), com a ressalva de que suspensões avulsas (ex.: jogos da Copa, portarias novas) saem em portarias posteriores, não neste PDF.
+
+- **Motor (Etapa 2, 23/10/2026):** `robo/motores/tjmg.py`. Lidos 51 dias gerais, 298 locais (297 comarcas do Anexo + Belo Horizonte), 1.571 dias locais. Só o primeiro ANEXO ÚNICO (Port. 1.860) é lido.
+  - DUVIDA: 20/04 e 07/12 (parágrafo único do art. 1º) entraram como `sem_expediente` (o art. 4º prorroga prazos dos dias dos arts. 1º a 3º); revisar se são só pontes sem efeito sobre prazo.
+  - 7 a 20/01 entram como `suspensao_prazo` (art. 4º, parágrafo único); 1 a 6/01 e 20 a 31/12 como `recesso`.
+  - 5/6 nas comarcas do interior: derivado do art. 3º, § 1º (comarca com "Corpus Christi" em 4/6).
+  - Endereço do ano seguinte: o nome do PDF traz o número da portaria (`pc1798` + ano); o de 2027 não foi localizado, então `PORTARIAS` só tem 2026 e 2027 levanta AindaNaoPublicado. Procurar em www8.tjmg.jus.br/institucional/at/pdf/ a "Portaria Conjunta ... consolida o calendário de feriados ... 2027".

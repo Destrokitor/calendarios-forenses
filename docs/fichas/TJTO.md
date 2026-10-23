@@ -19,3 +19,4 @@
   - Run 39986359557: `OK 200 9257 text/html; charset=utf-8 1.6 https://www.tjto.jus.br/informacoes/feriados/21127-feriados-municipais-das-comarcas/download` (idem: aviso de manutenção, não o PDF)
   - A URL exata do DJ 5995 (…/03512a628c56…) NÃO foi testada na nuvem; foi testada outra edição do mesmo endpoint (DJ 6200). Motor: achar a edição por `publicados?ano=2025&mes=11` e baixar.
 - **Cobertura:** estaduais + Palmas completos; interior fora. Categoria: **parcial**.
+- **Próximo ano (não resolvido):** o motor (`robo/motores/tjto.py`) só conhece a edição de 2026 (`EDICOES`); para 2027 levanta `AindaNaoPublicado`. Caminho a testar: a lista `publicados?ano=<ano-1>&mes=11&page=1` (JSON com `numDiario`, `dtPublicacao`, `idFileStorage`), procurar a Portaria do "exercício de 2027" no DJ de novembro/dezembro de 2026 e baixar pelo `idFileStorage`. Não testado: a regra não pode ser confirmada antes de o ato sair.

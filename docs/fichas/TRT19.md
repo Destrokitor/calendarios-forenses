@@ -16,3 +16,7 @@
 - **Pode rodar na nuvem?** SIM. Prova literal (run 39986792087): `OK 200 148343 application/pdf 2.2 https://asp1.trt19.jus.br/docspdf/rhdocs/BOLETIM_20251008092236621.PDF`. Também `OK 200 563831 application/pdf 2.3 .../BOLETIM_20260306140251317.PDF` e `OK 200 390683 application/pdf 2.6 .../BOLETIM_20260618142102312.PDF` (run 39988767567; são outros atos, sem calendário). Site principal: `ROBOTS-NEGA https://www.trt19.jus.br`.
 - **Cobertura:** parcial (sem feriados municipais do interior).
 - **Categoria:** parcial
+
+- **Próximo ano (como localizar):** não localizado. O ato é publicado no DEJT/Boletim Interno (asp1.trt19.jus.br/docspdf/rhdocs/BOLETIM_<data-hora>.PDF); o endereço muda a cada edição e não há página índice conhecida. Procurar o "Ato GP ... feriados e pontos facultativos do exercício de <ano>" no Boletim Interno do fim do ano anterior.
+- **Motor:** `robo/motores/trt19.py`; testes em `tests/test_trt19.py`. Motor lê só o Ato de 2026; 2027 levanta AindaNaoPublicado.
+- **Travou em:** nada.
