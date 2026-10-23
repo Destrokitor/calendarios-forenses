@@ -1,0 +1,557 @@
+{
+ "gerado_em": "2026-10-23T15:28:29Z",
+ "tribunais": {
+  "STF": {
+   "nome": "Supremo Tribunal Federal",
+   "justica": "superior",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "STJ": {
+   "nome": "Superior Tribunal de Justiça",
+   "justica": "superior",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TST": {
+   "nome": "Tribunal Superior do Trabalho",
+   "justica": "superior",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TSE": {
+   "nome": "Tribunal Superior Eleitoral",
+   "justica": "superior",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "STM": {
+   "nome": "Superior Tribunal Militar",
+   "justica": "superior",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJAC": {
+   "nome": "Tribunal de Justiça (AC)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJAL": {
+   "nome": "Tribunal de Justiça (AL)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJAP": {
+   "nome": "Tribunal de Justiça (AP)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJAM": {
+   "nome": "Tribunal de Justiça (AM)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJBA": {
+   "nome": "Tribunal de Justiça (BA)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJCE": {
+   "nome": "Tribunal de Justiça (CE)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJDFT": {
+   "nome": "Tribunal de Justiça do Distrito Federal e dos Territórios",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJES": {
+   "nome": "Tribunal de Justiça (ES)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJGO": {
+   "nome": "Tribunal de Justiça (GO)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJMA": {
+   "nome": "Tribunal de Justiça (MA)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJMT": {
+   "nome": "Tribunal de Justiça (MT)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJMS": {
+   "nome": "Tribunal de Justiça (MS)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJMG": {
+   "nome": "Tribunal de Justiça (MG)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJPA": {
+   "nome": "Tribunal de Justiça (PA)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJPB": {
+   "nome": "Tribunal de Justiça (PB)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJPR": {
+   "nome": "Tribunal de Justiça (PR)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJPE": {
+   "nome": "Tribunal de Justiça (PE)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJPI": {
+   "nome": "Tribunal de Justiça (PI)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJRJ": {
+   "nome": "Tribunal de Justiça (RJ)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJRN": {
+   "nome": "Tribunal de Justiça (RN)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJRS": {
+   "nome": "Tribunal de Justiça (RS)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJRO": {
+   "nome": "Tribunal de Justiça (RO)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJRR": {
+   "nome": "Tribunal de Justiça (RR)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJSC": {
+   "nome": "Tribunal de Justiça (SC)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJSP": {
+   "nome": "Tribunal de Justiça (SP)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJSE": {
+   "nome": "Tribunal de Justiça (SE)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJTO": {
+   "nome": "Tribunal de Justiça (TO)",
+   "justica": "estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJMSP": {
+   "nome": "Tribunal de Justiça Militar (SP)",
+   "justica": "militar_estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJMMG": {
+   "nome": "Tribunal de Justiça Militar (MG)",
+   "justica": "militar_estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TJMRS": {
+   "nome": "Tribunal de Justiça Militar (RS)",
+   "justica": "militar_estadual",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRF1": {
+   "nome": "Tribunal Regional Federal da 1ª Região",
+   "justica": "federal",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRF2": {
+   "nome": "Tribunal Regional Federal da 2ª Região",
+   "justica": "federal",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRF3": {
+   "nome": "Tribunal Regional Federal da 3ª Região",
+   "justica": "federal",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRF4": {
+   "nome": "Tribunal Regional Federal da 4ª Região",
+   "justica": "federal",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRF5": {
+   "nome": "Tribunal Regional Federal da 5ª Região",
+   "justica": "federal",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRF6": {
+   "nome": "Tribunal Regional Federal da 6ª Região",
+   "justica": "federal",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT1": {
+   "nome": "Tribunal Regional do Trabalho da 1ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT2": {
+   "nome": "Tribunal Regional do Trabalho da 2ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT3": {
+   "nome": "Tribunal Regional do Trabalho da 3ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT4": {
+   "nome": "Tribunal Regional do Trabalho da 4ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT5": {
+   "nome": "Tribunal Regional do Trabalho da 5ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT6": {
+   "nome": "Tribunal Regional do Trabalho da 6ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT7": {
+   "nome": "Tribunal Regional do Trabalho da 7ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT8": {
+   "nome": "Tribunal Regional do Trabalho da 8ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT9": {
+   "nome": "Tribunal Regional do Trabalho da 9ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT10": {
+   "nome": "Tribunal Regional do Trabalho da 10ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT11": {
+   "nome": "Tribunal Regional do Trabalho da 11ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT12": {
+   "nome": "Tribunal Regional do Trabalho da 12ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT13": {
+   "nome": "Tribunal Regional do Trabalho da 13ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT14": {
+   "nome": "Tribunal Regional do Trabalho da 14ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT15": {
+   "nome": "Tribunal Regional do Trabalho da 15ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT16": {
+   "nome": "Tribunal Regional do Trabalho da 16ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT17": {
+   "nome": "Tribunal Regional do Trabalho da 17ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT18": {
+   "nome": "Tribunal Regional do Trabalho da 18ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT19": {
+   "nome": "Tribunal Regional do Trabalho da 19ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT20": {
+   "nome": "Tribunal Regional do Trabalho da 20ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT21": {
+   "nome": "Tribunal Regional do Trabalho da 21ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT22": {
+   "nome": "Tribunal Regional do Trabalho da 22ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT23": {
+   "nome": "Tribunal Regional do Trabalho da 23ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRT24": {
+   "nome": "Tribunal Regional do Trabalho da 24ª Região",
+   "justica": "trabalho",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREAC": {
+   "nome": "Tribunal Regional Eleitoral (AC)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREAL": {
+   "nome": "Tribunal Regional Eleitoral (AL)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREAP": {
+   "nome": "Tribunal Regional Eleitoral (AP)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREAM": {
+   "nome": "Tribunal Regional Eleitoral (AM)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREBA": {
+   "nome": "Tribunal Regional Eleitoral (BA)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRECE": {
+   "nome": "Tribunal Regional Eleitoral (CE)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREDF": {
+   "nome": "Tribunal Regional Eleitoral (DF)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREES": {
+   "nome": "Tribunal Regional Eleitoral (ES)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREGO": {
+   "nome": "Tribunal Regional Eleitoral (GO)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREMA": {
+   "nome": "Tribunal Regional Eleitoral (MA)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREMT": {
+   "nome": "Tribunal Regional Eleitoral (MT)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREMS": {
+   "nome": "Tribunal Regional Eleitoral (MS)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREMG": {
+   "nome": "Tribunal Regional Eleitoral (MG)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREPA": {
+   "nome": "Tribunal Regional Eleitoral (PA)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREPB": {
+   "nome": "Tribunal Regional Eleitoral (PB)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREPR": {
+   "nome": "Tribunal Regional Eleitoral (PR)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREPE": {
+   "nome": "Tribunal Regional Eleitoral (PE)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TREPI": {
+   "nome": "Tribunal Regional Eleitoral (PI)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRERJ": {
+   "nome": "Tribunal Regional Eleitoral (RJ)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRERN": {
+   "nome": "Tribunal Regional Eleitoral (RN)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRERS": {
+   "nome": "Tribunal Regional Eleitoral (RS)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRERO": {
+   "nome": "Tribunal Regional Eleitoral (RO)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRERR": {
+   "nome": "Tribunal Regional Eleitoral (RR)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRESC": {
+   "nome": "Tribunal Regional Eleitoral (SC)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRESP": {
+   "nome": "Tribunal Regional Eleitoral (SP)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRESE": {
+   "nome": "Tribunal Regional Eleitoral (SE)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  },
+  "TRETO": {
+   "nome": "Tribunal Regional Eleitoral (TO)",
+   "justica": "eleitoral",
+   "anos": {},
+   "status": "sem_motor"
+  }
+ }
+}
