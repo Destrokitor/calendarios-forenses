@@ -1,4 +1,4 @@
-"""Vigia: confere se os dados estão frescos. Roda no GitHub, independente do Mac.
+"""Vigia: confere se os dados estão frescos. Roda no GitHub.
 
 Falha (saída 1, e o GitHub manda e-mail) se:
   - `dados/cobertura.json` não existe ou foi gerado há mais de MAX_DIAS dias

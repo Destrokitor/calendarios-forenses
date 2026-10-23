@@ -29,11 +29,14 @@ fontes oficiais ──► motores (um por tribunal) ──► validação ──
 
 ## Onde roda
 
-- **Principal: Mac do mantenedor, todo dia às 00:00** (`scripts/mac/`). Muitos sites de
-  tribunal bloqueiam IP estrangeiro ou de nuvem; o IP residencial brasileiro é aceito.
-- **Reserva e vigia: GitHub Actions às 01:00** (`.github/workflows/robo.yml`). Roda na
-  nuvem só os motores marcados `roda_na_nuvem = True` e falha (com e-mail) se os dados
+Tudo na nuvem, nada depende do computador de ninguém.
+
+- **GitHub Actions, todo dia às 01:00 (Brasília)** (`.github/workflows/robo.yml`): roda os
+  motores, grava os dados e roda o vigia, que falha (com e-mail do GitHub) se os dados
   estiverem com mais de 2 dias.
+- Alguns sites de tribunal podem bloquear o IP do GitHub (que fica nos EUA). Esses motores
+  são marcados `precisa_ip_brasil = True` e rodam num servidor brasileiro na nuvem
+  (`--grupo brasil`). Quais são: ver `docs/SONDA.md`, medido com `scripts/sondar_dominios.py`.
 
 ### Bloqueio de IP
 O robô se identifica (`User-Agent` próprio), respeita `robots.txt`, faz uma requisição por
@@ -47,7 +50,7 @@ python3 -m unittest discover -s tests      # testes
 python3 -m robo.executar --so TJSP         # roda um tribunal
 python3 -m robo.executar                   # roda todos
 python3 -m robo.vigia                      # confere se está fresco
-./scripts/mac/instalar_agendamento.sh      # agenda 00:00 no Mac
+python3 scripts/sondar_dominios.py         # quais sites respondem daqui
 ```
 
 ## Estado

@@ -18,7 +18,7 @@ from .base import AindaNaoPublicado, Motor
 
 class MotorEXEMPLO(Motor):
     sigla = "TJXX"
-    roda_na_nuvem = True       # False se bloquear IP de nuvem (descobrir testando)
+    precisa_ip_brasil = False  # True se bloquear o GitHub (descobrir testando com a sonda)
     parcial = ""               # descreva se a cobertura for sabidamente incompleta
     esperado = {
         "min_geral": 10,

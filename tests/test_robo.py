@@ -59,9 +59,9 @@ class MotorAnoQueVem(MotorBom):
         return calendario_bom("TJSP", ano)
 
 
-class MotorSoMac(MotorBom):
+class MotorIpBrasil(MotorBom):
     sigla = "TJMG"
-    roda_na_nuvem = False
+    precisa_ip_brasil = True
 
     def coletar(self, ano, rede):
         return calendario_bom("TJMG", ano)
@@ -184,14 +184,16 @@ class Robo(unittest.TestCase):
         self.assertTrue(anos["2027"]["nao_publicado"])
         self.assertEqual(self.cobertura()["tribunais"]["TJSP"]["status"], "verificado")
 
-    def test_so_nuvem_pula_motor_que_so_roda_no_mac(self):
-        self.rodar([MotorBom(), MotorSoMac()], nuvem=True)
+    def test_grupos_separam_quem_precisa_de_ip_brasileiro(self):
+        self.rodar([MotorBom(), MotorIpBrasil()], grupo="geral")
         self.assertTrue(os.path.exists(self.arquivo()))
         self.assertFalse(os.path.exists(self.arquivo("TJMG")))
+        self.rodar([MotorBom(), MotorIpBrasil()], grupo="brasil")
+        self.assertTrue(os.path.exists(self.arquivo("TJMG")))
 
     def test_uma_falha_nao_derruba_os_outros_e_preserva_cobertura_alheia(self):
-        self.rodar([MotorBom(), MotorSoMac()])
-        self.rodar([MotorQuebrado(), MotorSoMac()], nuvem=True)  # TJMG não roda; deve manter o estado
+        self.rodar([MotorBom(), MotorIpBrasil()])
+        self.rodar([MotorQuebrado(), MotorIpBrasil()], grupo="geral")  # TJMG não roda; deve manter o estado
         cob = self.cobertura()["tribunais"]
         self.assertEqual(cob["TJMG"]["status"], "verificado")
         self.assertEqual(cob["TJSP"]["status"], "desatualizado")

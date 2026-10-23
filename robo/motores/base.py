@@ -23,7 +23,7 @@ class AindaNaoPublicado(Exception):
 
 class Motor:
     sigla = ""                   # ex.: "TJSP" (igual a registro.py)
-    roda_na_nuvem = True         # False se a fonte bloqueia IP de nuvem: só roda no Mac
+    precisa_ip_brasil = False    # True se a fonte bloqueia IP do GitHub (EUA): roda no servidor brasileiro
     parcial = ""                 # texto, se a cobertura for sabidamente incompleta
     esperado: Dict[str, Any] = {"min_geral": 1}   # ver validacao.validar
 

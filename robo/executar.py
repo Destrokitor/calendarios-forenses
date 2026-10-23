@@ -3,7 +3,8 @@
 Uso:
     python3 -m robo.executar                  # todos os motores
     python3 -m robo.executar --so TJSP        # um só
-    python3 -m robo.executar --nuvem          # só os que rodam na nuvem (GitHub Actions)
+    python3 -m robo.executar --grupo geral    # só os que rodam nos servidores do GitHub
+    python3 -m robo.executar --grupo brasil   # só os que exigem IP brasileiro (runner no Brasil)
 
 Regra de ouro: calendário que falha na validação NÃO é gravado. O arquivo anterior fica,
 e a cobertura passa a "desatualizado" com a data da última leitura boa.
@@ -58,7 +59,7 @@ def _status(motor: Optional[Motor], ano_corrente: Dict[str, Any]) -> str:
 
 
 def executar(raiz: str, motores: Dict[str, Motor], hoje: datetime.date, rede: Cliente,
-             so: Optional[str] = None, nuvem: bool = False) -> Dict[str, Any]:
+             so: Optional[str] = None, grupo: Optional[str] = None) -> Dict[str, Any]:
     caminho_cob = os.path.join(raiz, "dados", "cobertura.json")
     anterior = _ler_json(caminho_cob, {"tribunais": {}})
     cobertura: Dict[str, Any] = {"gerado_em": _agora(), "tribunais": {}}
@@ -71,7 +72,7 @@ def executar(raiz: str, motores: Dict[str, Motor], hoje: datetime.date, rede: Cl
         anos_antigos = antigo.get("anos", {})
         entrada: Dict[str, Any] = {"nome": t["nome"], "justica": t["justica"], "anos": dict(anos_antigos)}
 
-        selecionado = motor is not None and (so is None or so == sigla) and (not nuvem or motor.roda_na_nuvem)
+        selecionado = motor is not None and (so is None or so == sigla) and (grupo is None or motor.precisa_ip_brasil == (grupo == "brasil"))
         if selecionado:
             for ano in motor.anos(hoje):
                 reg = dict(anos_antigos.get(str(ano), {}))
@@ -110,10 +111,10 @@ def executar(raiz: str, motores: Dict[str, Motor], hoje: datetime.date, rede: Cl
 def main(argv: Optional[List[str]] = None) -> int:
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--so", help="sigla de um tribunal")
-    p.add_argument("--nuvem", action="store_true", help="só motores que rodam na nuvem")
+    p.add_argument("--grupo", choices=["geral", "brasil"], help="geral = GitHub; brasil = exige IP brasileiro")
     p.add_argument("--falhar-se-erro", action="store_true", help="saída 1 se algum motor falhar")
     args = p.parse_args(argv)
-    r = executar(RAIZ, descobrir(), datetime.date.today(), Cliente(), so=args.so, nuvem=args.nuvem)
+    r = executar(RAIZ, descobrir(), datetime.date.today(), Cliente(), so=args.so, grupo=args.grupo)
     for f in r["falhas"]:
         print("FALHOU:", f, file=sys.stderr)
     contagem: Dict[str, int] = {}

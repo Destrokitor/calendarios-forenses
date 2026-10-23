@@ -1,12 +1,11 @@
 name: robo-e-vigia
 
-# Meia-noite no Brasil seria 03:00 UTC. O robô principal roda no Mac do dono (IP brasileiro
-# residencial, que os sites aceitam). Este job é (1) o vigia, que avisa por e-mail se os
-# dados pararam de ser atualizados, e (2) a reserva, que roda na nuvem os motores cujas
-# fontes não bloqueiam o GitHub (roda_na_nuvem = True).
+# Roda os motores do grupo "geral" (fontes que aceitam o IP do GitHub) e depois o vigia, que
+# avisa por e-mail se algum dado parou de ser atualizado. Motores que exigem IP brasileiro
+# (precisa_ip_brasil = True) rodam em outro job, num servidor brasileiro (ver README).
 on:
   schedule:
-    - cron: "0 4 * * *"   # 01:00 em Brasília (04:00 UTC), depois do robô do Mac
+    - cron: "0 4 * * *"   # 01:00 em Brasília (04:00 UTC)
   workflow_dispatch:
 
 permissions:
@@ -29,8 +28,8 @@ jobs:
         run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
       - name: Testes
         run: python -W error -m unittest discover -s tests
-      - name: Rodar os motores que funcionam na nuvem
-        run: python -m robo.executar --nuvem
+      - name: Rodar os motores (grupo geral)
+        run: python -m robo.executar --grupo geral
         continue-on-error: true   # a falha de um motor não impede o vigia de avisar
       - name: Gravar dados novos
         run: |

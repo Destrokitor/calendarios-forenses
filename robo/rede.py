@@ -1,6 +1,6 @@
 """Download educado: um robô que se identifica, respeita robots.txt e não martela o site.
 
-Não disfarça o robô de navegador. Se uma fonte bloquear, a solução é outra fonte
+Identifica-se como robô no formato padrão da web ("Mozilla/5.0 (compatible; nome; +url)", o mesmo de buscadores), que alguns filtros exigem; não finge ser navegador de pessoa. Se uma fonte bloquear, a solução é outra fonte
 oficial do mesmo dado, não burlar o bloqueio (ver README, "Bloqueio de IP").
 """
 from __future__ import annotations
@@ -12,7 +12,7 @@ import urllib.request
 import urllib.robotparser
 from typing import Dict, Optional
 
-USER_AGENT = "calendarios-forenses-robo/1.0 (+https://github.com/Destrokitor/calendarios-forenses)"
+USER_AGENT = "Mozilla/5.0 (compatible; calendarios-forenses-robo/1.0; +https://github.com/Destrokitor/calendarios-forenses)"
 
 
 class ErroDeFonte(Exception):
