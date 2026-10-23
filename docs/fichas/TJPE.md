@@ -20,4 +20,4 @@
   - (Run 39986359557: `ROBOTS-NEGA https://portal.tjpe.jus.br/documents/d/portal/feriados-2026-pdf`)
   Nenhuma outra fonte oficial de host diferente foi achada (o DJe está sob o mesmo domínio).
 - **Cobertura:** mesmo que abrisse: parcial (feriados locais do interior fora; só Recife).
-- **Categoria: incompativel** (portal.tjpe.jus.br e www.tjpe.jus.br: ROBOTS-NEGA na nuvem). Se o dono quiser rodar o motor num servidor brasileiro (`precisa_ip_brasil`), reavaliar com `--grupo brasil`.
+- **Categoria: pronto_para_motor** (corrigido em 24/10: o PDF abriu na nuvem, `OK 200 1020363 application/pdf` em https://portal.tjpe.jus.br/documents/d/portal/feriados-2026-pdf; o ROBOTS-NEGA acima era erro do nosso leitor de robots.txt, já corrigido). Motor em `robo/motores/tjpe.py`, cobertura `parcial` (só Recife nominal).
