@@ -1,0 +1,29 @@
+name: testar-motor
+# Manual. Roda UM motor no GitHub, SEM gravar nada no repositório, e mostra o resultado.
+# É assim que se prova que o motor funciona na nuvem (e não só no computador de quem o escreveu).
+on:
+  workflow_dispatch:
+    inputs:
+      sigla:
+        description: "Sigla do tribunal (ex.: TJSP)"
+        required: true
+jobs:
+  testar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+      - run: python -W error -m unittest discover -s tests
+      - name: Rodar o motor
+        run: python -m robo.executar --so "${{ inputs.sigla }}" --falhar-se-erro
+      - name: Mostrar o resultado
+        if: always()
+        run: |
+          python - <<'PY'
+          import json
+          c = json.load(open("dados/cobertura.json"))["tribunais"]["${{ inputs.sigla }}"]
+          print(json.dumps(c, ensure_ascii=False, indent=1))
+          PY

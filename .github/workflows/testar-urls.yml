@@ -1,0 +1,17 @@
+name: testar-urls
+# Manual. Responde: "estas URLs abrem a partir do GitHub?" Use ao procurar fonte para um motor.
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "URLs separadas por espaço"
+        required: true
+jobs:
+  testar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/testar_urls.py ${{ inputs.urls }}
