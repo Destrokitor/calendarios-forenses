@@ -9,9 +9,11 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
-import urllib.robotparser
 from typing import Dict, Optional
 
+from .robots import permitido as permitido_por_robots
+
+AGENTE = "calendarios-forenses-robo"  # o nome que os robots.txt veem
 USER_AGENT = "Mozilla/5.0 (compatible; calendarios-forenses-robo/1.0; +https://github.com/Destrokitor/calendarios-forenses)"
 
 
@@ -26,7 +28,26 @@ class Cliente:
         self.timeout = timeout
         self.respeitar_robots = respeitar_robots
         self._ultimo_por_host: Dict[str, float] = {}
-        self._robots: Dict[str, Optional[urllib.robotparser.RobotFileParser]] = {}
+        self._robots: Dict[str, Optional[str]] = {}
+
+    def _texto_robots(self, base: str) -> Optional[str]:
+        """Conteúdo do robots.txt, ou None se "não disponível" (4xx): pela RFC 9309 isso
+        libera o acesso. Levanta ErroDeFonte se o servidor falha (5xx/rede): a RFC manda
+        assumir que tudo é proibido, e o robô obedece."""
+        req = urllib.request.Request(base + "/robots.txt", headers={"User-Agent": USER_AGENT})
+        ultimo: Optional[Exception] = None
+        for tentativa in range(2):
+            try:
+                with urllib.request.urlopen(req, timeout=self.timeout) as resp:
+                    return resp.read().decode("utf-8", errors="replace")
+            except urllib.error.HTTPError as e:
+                if 400 <= e.code < 500:
+                    return None
+                ultimo = e
+            except (urllib.error.URLError, TimeoutError) as e:
+                ultimo = e
+            time.sleep(2)
+        raise ErroDeFonte("robots.txt de %s indisponível (%s): por precaução não acesso" % (base, ultimo))
 
     def _permitido(self, url: str) -> bool:
         if not self.respeitar_robots:
@@ -34,15 +55,14 @@ class Cliente:
         partes = urllib.parse.urlsplit(url)
         base = "%s://%s" % (partes.scheme, partes.netloc)
         if base not in self._robots:
-            rp = urllib.robotparser.RobotFileParser()
-            rp.set_url(base + "/robots.txt")
-            try:
-                rp.read()
-                self._robots[base] = rp
-            except Exception:  # sem robots.txt legível: segue, é o comportamento padrão da web
-                self._robots[base] = None
-        rp = self._robots[base]
-        return True if rp is None else rp.can_fetch(USER_AGENT, url)
+            self._robots[base] = self._texto_robots(base)
+        texto = self._robots[base]
+        if texto is None:
+            return True
+        caminho = partes.path or "/"
+        if partes.query:
+            caminho += "?" + partes.query
+        return permitido_por_robots(texto, AGENTE, caminho)
 
     def _esperar(self, url: str) -> None:
         host = urllib.parse.urlsplit(url).netloc
