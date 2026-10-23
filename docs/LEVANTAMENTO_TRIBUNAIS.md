@@ -1,5 +1,8 @@
 # Levantamento: tribunais e regimes de contagem de prazo (23/10/2026)
 
+> **Escopo atual: 64 tribunais.** A Justiça Eleitoral (TSE e 27 TREs) foi retirada do projeto por
+> decisão do dono; as menções a ela abaixo ficam só como registro histórico.
+
 Pesquisa feita em busca aberta + leitura do provimento do TJSP. O que não consegui
 confirmar em fonte está marcado **[não confirmado]**. Nada aqui substitui conferir a
 norma atual antes de implementar cada regra.

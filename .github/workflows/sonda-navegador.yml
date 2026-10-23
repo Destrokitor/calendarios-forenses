@@ -10,7 +10,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install playwright && playwright install --with-deps chromium
-      - run: python scripts/sondar_navegador.py sonda_navegador.json dados_sonda/sonda_gh.json
+      - run: echo "sonda arquivada; ver docs/SONDA.md"
       - uses: actions/upload-artifact@v4
         with:
           name: sonda-navegador

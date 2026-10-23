@@ -68,12 +68,19 @@ class MotorIpBrasil(MotorBom):
 
 
 class Registro(unittest.TestCase):
-    def test_sao_92_tribunais_sem_repeticao(self):
+    def test_sao_64_tribunais_sem_repeticao_e_sem_eleitoral(self):
         siglas = [t["sigla"] for t in todos_os_tribunais()]
-        self.assertEqual(len(siglas), 92)
-        self.assertEqual(len(set(siglas)), 92)
-        for s in ("STF", "STJ", "TST", "TSE", "STM", "TJSP", "TJDFT", "TJMSP", "TRF6", "TRT24", "TREDF"):
+        self.assertEqual(len(siglas), 64)
+        self.assertEqual(len(set(siglas)), 64)
+        for s in ("STF", "STJ", "TST", "STM", "TJSP", "TJDFT", "TJMSP", "TRF6", "TRT24"):
             self.assertIn(s, siglas)
+        self.assertFalse([s for s in siglas if s.startswith("TRE") and not s.startswith("TRT")] , "eleitoral não entra")
+        self.assertNotIn("TSE", siglas)
+
+    def test_incompativeis_existem_no_registro(self):
+        from robo.registro import INCOMPATIVEIS
+        siglas = {t["sigla"] for t in todos_os_tribunais()}
+        self.assertTrue(set(INCOMPATIVEIS) <= siglas)
 
 
 class Validacao(unittest.TestCase):
@@ -147,7 +154,9 @@ class Robo(unittest.TestCase):
         self.assertEqual(cob["tribunais"]["TJSP"]["status"], "verificado")
         self.assertEqual(cob["tribunais"]["TJSP"]["anos"]["2026"]["locais"], 2)
         self.assertEqual(cob["tribunais"]["STF"]["status"], "sem_motor")
-        self.assertEqual(len(cob["tribunais"]), 92)
+        self.assertEqual(cob["tribunais"]["TJGO"]["status"], "incompativel")
+        self.assertIn("cálculo simplificado", cob["tribunais"]["TJGO"]["observacao"])
+        self.assertEqual(len(cob["tribunais"]), 64)
 
     def test_conteudo_igual_nao_reescreve_o_arquivo(self):
         self.rodar([MotorBom()])

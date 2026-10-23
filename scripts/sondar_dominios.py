@@ -23,7 +23,7 @@ UFS = {"AC": "ac", "AL": "al", "AP": "ap", "AM": "am", "BA": "ba", "CE": "ce", "
 
 
 def dominio(sigla: str) -> str:
-    if sigla in ("STF", "STJ", "TST", "TSE", "STM"):
+    if sigla in ("STF", "STJ", "TST", "STM"):
         return sigla.lower() + ".jus.br"
     if sigla.startswith("TJM"):
         return "tjm" + sigla[3:].lower() + ".jus.br"
@@ -33,8 +33,6 @@ def dominio(sigla: str) -> str:
         return "tj" + sigla[2:].lower() + ".jus.br"
     if sigla.startswith("TRF") or sigla.startswith("TRT"):
         return sigla.lower() + ".jus.br"
-    if sigla.startswith("TRE"):
-        return "tre-" + sigla[3:].lower() + ".jus.br"
     return ""
 
 

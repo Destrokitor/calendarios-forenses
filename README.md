@@ -21,8 +21,9 @@ fontes oficiais ──► motores (um por tribunal) ──► validação ──
   calendário no formato de `robo/modelo.py`. Nenhum usa IA.
 - **Validação** (`robo/validacao.py`): calendário lido pela metade, com data fora do ano,
   sem as datas-âncora conferidas à mão ou sem recesso **não é gravado**.
-- **Cobertura** (`dados/cobertura.json`): para cada um dos 92 tribunais, o estado atual:
-  `verificado`, `parcial`, `desatualizado`, `indisponivel` ou `sem_motor`, com a data da
+- **Cobertura** (`dados/cobertura.json`): para cada um dos 64 tribunais, o estado atual:
+  `verificado`, `parcial`, `desatualizado`, `indisponivel`, `incompativel` (o site do tribunal
+  recusa a consulta automática: o app avisa e sugere o cálculo simplificado) ou `sem_motor`, com a data da
   última leitura boa. O app mostra isso ao usuário. Nunca esconde falha.
 - **Robô** (`robo/executar.py`): roda os motores e atualiza tudo.
 - **Vigia** (`robo/vigia.py`): confere se os dados estão frescos; se não, o GitHub avisa por e-mail.
@@ -56,5 +57,5 @@ python3 scripts/sondar_dominios.py         # quais sites respondem daqui
 ## Estado
 
 Esqueleto pronto (contrato de dados, validação, robô, vigia, agendamento, testes). Motores:
-nenhum ainda; ver `dados/cobertura.json` e `docs/PROCESSO_MOTORES.md`. A lista dos 92
-tribunais e dos regimes de contagem está em `docs/LEVANTAMENTO_TRIBUNAIS.md`.
+nenhum ainda; ver `dados/cobertura.json` e `docs/PROCESSO_MOTORES.md`. A lista dos 64
+tribunais (sem Justiça Eleitoral, fora do escopo) e dos regimes de contagem está em `docs/LEVANTAMENTO_TRIBUNAIS.md`.

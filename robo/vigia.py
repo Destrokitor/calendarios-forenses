@@ -33,7 +33,7 @@ def verificar(raiz: str, agora: datetime.datetime) -> List[str]:
     if agora - _data(cob["gerado_em"]) > limite:
         problemas.append("cobertura gerada em %s: o robô parou de rodar" % cob["gerado_em"])
     for sigla, t in cob["tribunais"].items():
-        if t["status"] == "sem_motor":
+        if t["status"] in ("sem_motor", "incompativel"):
             continue
         corrente = t["anos"].get(str(agora.year), {})
         ok = corrente.get("ultima_ok")

@@ -1,8 +1,8 @@
-"""Lista de todos os tribunais cobertos pelo projeto (92) e quem ainda não tem motor.
+"""Lista de todos os tribunais cobertos pelo projeto (64) e quem ainda não tem motor.
 
-Fonte da contagem: ver docs/LEVANTAMENTO_TRIBUNAIS.md. A lista é construída aqui, e não
-à mão em outro lugar, para que `dados/cobertura.json` sempre mostre os 92, inclusive os
-que ainda estão sem motor ("indisponivel").
+Ficam de fora, por decisão do dono do projeto, a Justiça Eleitoral (TSE e os 27 TREs).
+A lista é construída aqui, e não à mão em outro lugar, para que `dados/cobertura.json`
+sempre mostre os 64, inclusive os que ainda estão sem motor.
 """
 from __future__ import annotations
 
@@ -22,7 +22,6 @@ def todos_os_tribunais() -> List[Dict[str, str]]:
         ("STF", "Supremo Tribunal Federal"),
         ("STJ", "Superior Tribunal de Justiça"),
         ("TST", "Tribunal Superior do Trabalho"),
-        ("TSE", "Tribunal Superior Eleitoral"),
         ("STM", "Superior Tribunal Militar"),
     ]:
         lista.append({"sigla": sigla, "nome": nome, "justica": "superior"})
@@ -41,7 +40,22 @@ def todos_os_tribunais() -> List[Dict[str, str]]:
     for n in range(1, 25):
         lista.append({"sigla": "TRT%d" % n, "nome": "Tribunal Regional do Trabalho da %dª Região" % n, "justica": "trabalho"})
 
-    for uf in _UFS:
-        lista.append({"sigla": "TRE" + uf, "nome": "Tribunal Regional Eleitoral (" + uf + ")", "justica": "eleitoral"})
-
     return lista
+
+
+# Tribunais cujo site recusa a consulta automática (HTTP 403 mesmo com o robô identificado).
+# Enquanto estiverem aqui o app avisa o usuário, em vez de fingir que sabe o calendário.
+# Para sair da lista: um motor tem de conseguir ler o calendário DE VERDADE a partir do
+# GitHub (ver docs/PROCESSO_MOTORES.md). Atualizada com evidência, nunca por palpite.
+AVISO_INCOMPATIVEL = (
+    "Este tribunal não permite a consulta automática do calendário. "
+    "Use o cálculo simplificado ou confira o prazo por conta própria."
+)
+
+INCOMPATIVEIS = {
+    sigla: "HTTP 403 na sonda de 2026-10-23"
+    for sigla in (
+        "TJAP", "TJES", "TJGO", "TJMG", "TJPB", "TJPI", "TJRN", "TJMSP",
+        "TRT1", "TRT4", "TRT5", "TRT8", "TRT10", "TRT13", "TRT17", "TRT19", "TRT20", "TRT21", "TRT22",
+    )
+}

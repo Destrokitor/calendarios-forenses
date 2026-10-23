@@ -22,7 +22,7 @@ from .modelo import ordenar, sem_carimbo
 from .motores import descobrir
 from .motores.base import AindaNaoPublicado, Motor
 from .rede import Cliente
-from .registro import todos_os_tribunais
+from .registro import AVISO_INCOMPATIVEL, INCOMPATIVEIS, todos_os_tribunais
 from .validacao import validar
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -48,9 +48,9 @@ def _gravar_json(caminho: str, dados: Any) -> None:
     os.replace(tmp, caminho)  # atômico: ninguém lê arquivo pela metade
 
 
-def _status(motor: Optional[Motor], ano_corrente: Dict[str, Any]) -> str:
+def _status(motor: Optional[Motor], ano_corrente: Dict[str, Any], sigla: str = "") -> str:
     if motor is None:
-        return "sem_motor"
+        return "incompativel" if sigla in INCOMPATIVEIS else "sem_motor"
     if ano_corrente.get("erro"):
         return "desatualizado" if ano_corrente.get("ultima_ok") else "indisponivel"
     if ano_corrente.get("ultima_ok"):
@@ -99,9 +99,12 @@ def executar(raiz: str, motores: Dict[str, Motor], hoje: datetime.date, rede: Cl
                 entrada["anos"][str(ano)] = reg
 
         corrente = entrada["anos"].get(str(hoje.year), {})
-        entrada["status"] = _status(motor, corrente)
+        entrada["status"] = _status(motor, corrente, sigla)
         if motor is not None and motor.parcial:
             entrada["observacao"] = motor.parcial
+        if motor is None and sigla in INCOMPATIVEIS:
+            entrada["observacao"] = AVISO_INCOMPATIVEL
+            entrada["motivo"] = INCOMPATIVEIS[sigla]
         cobertura["tribunais"][sigla] = entrada
 
     _gravar_json(caminho_cob, cobertura)

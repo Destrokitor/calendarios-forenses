@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T15:31:52Z",
+ "gerado_em": "2026-10-23T16:12:47Z",
  "tribunais": {
   "STF": {
    "nome": "Supremo Tribunal Federal",
@@ -15,12 +15,6 @@
   },
   "TST": {
    "nome": "Tribunal Superior do Trabalho",
-   "justica": "superior",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TSE": {
-   "nome": "Tribunal Superior Eleitoral",
    "justica": "superior",
    "anos": {},
    "status": "sem_motor"
@@ -47,7 +41,9 @@
    "nome": "Tribunal de Justiça (AP)",
    "justica": "estadual",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TJAM": {
    "nome": "Tribunal de Justiça (AM)",
@@ -77,13 +73,17 @@
    "nome": "Tribunal de Justiça (ES)",
    "justica": "estadual",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TJGO": {
    "nome": "Tribunal de Justiça (GO)",
    "justica": "estadual",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TJMA": {
    "nome": "Tribunal de Justiça (MA)",
@@ -107,7 +107,9 @@
    "nome": "Tribunal de Justiça (MG)",
    "justica": "estadual",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TJPA": {
    "nome": "Tribunal de Justiça (PA)",
@@ -119,7 +121,9 @@
    "nome": "Tribunal de Justiça (PB)",
    "justica": "estadual",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TJPR": {
    "nome": "Tribunal de Justiça (PR)",
@@ -137,7 +141,9 @@
    "nome": "Tribunal de Justiça (PI)",
    "justica": "estadual",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TJRJ": {
    "nome": "Tribunal de Justiça (RJ)",
@@ -149,7 +155,9 @@
    "nome": "Tribunal de Justiça (RN)",
    "justica": "estadual",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TJRS": {
    "nome": "Tribunal de Justiça (RS)",
@@ -197,7 +205,9 @@
    "nome": "Tribunal de Justiça Militar (SP)",
    "justica": "militar_estadual",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TJMMG": {
    "nome": "Tribunal de Justiça Militar (MG)",
@@ -251,7 +261,9 @@
    "nome": "Tribunal Regional do Trabalho da 1ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TRT2": {
    "nome": "Tribunal Regional do Trabalho da 2ª Região",
@@ -269,13 +281,17 @@
    "nome": "Tribunal Regional do Trabalho da 4ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TRT5": {
    "nome": "Tribunal Regional do Trabalho da 5ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TRT6": {
    "nome": "Tribunal Regional do Trabalho da 6ª Região",
@@ -293,7 +309,9 @@
    "nome": "Tribunal Regional do Trabalho da 8ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TRT9": {
    "nome": "Tribunal Regional do Trabalho da 9ª Região",
@@ -305,7 +323,9 @@
    "nome": "Tribunal Regional do Trabalho da 10ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TRT11": {
    "nome": "Tribunal Regional do Trabalho da 11ª Região",
@@ -323,7 +343,9 @@
    "nome": "Tribunal Regional do Trabalho da 13ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TRT14": {
    "nome": "Tribunal Regional do Trabalho da 14ª Região",
@@ -347,7 +369,9 @@
    "nome": "Tribunal Regional do Trabalho da 17ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TRT18": {
    "nome": "Tribunal Regional do Trabalho da 18ª Região",
@@ -359,25 +383,33 @@
    "nome": "Tribunal Regional do Trabalho da 19ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TRT20": {
    "nome": "Tribunal Regional do Trabalho da 20ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TRT21": {
    "nome": "Tribunal Regional do Trabalho da 21ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TRT22": {
    "nome": "Tribunal Regional do Trabalho da 22ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "HTTP 403 na sonda de 2026-10-23"
   },
   "TRT23": {
    "nome": "Tribunal Regional do Trabalho da 23ª Região",
@@ -388,168 +420,6 @@
   "TRT24": {
    "nome": "Tribunal Regional do Trabalho da 24ª Região",
    "justica": "trabalho",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREAC": {
-   "nome": "Tribunal Regional Eleitoral (AC)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREAL": {
-   "nome": "Tribunal Regional Eleitoral (AL)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREAP": {
-   "nome": "Tribunal Regional Eleitoral (AP)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREAM": {
-   "nome": "Tribunal Regional Eleitoral (AM)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREBA": {
-   "nome": "Tribunal Regional Eleitoral (BA)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TRECE": {
-   "nome": "Tribunal Regional Eleitoral (CE)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREDF": {
-   "nome": "Tribunal Regional Eleitoral (DF)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREES": {
-   "nome": "Tribunal Regional Eleitoral (ES)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREGO": {
-   "nome": "Tribunal Regional Eleitoral (GO)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREMA": {
-   "nome": "Tribunal Regional Eleitoral (MA)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREMT": {
-   "nome": "Tribunal Regional Eleitoral (MT)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREMS": {
-   "nome": "Tribunal Regional Eleitoral (MS)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREMG": {
-   "nome": "Tribunal Regional Eleitoral (MG)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREPA": {
-   "nome": "Tribunal Regional Eleitoral (PA)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREPB": {
-   "nome": "Tribunal Regional Eleitoral (PB)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREPR": {
-   "nome": "Tribunal Regional Eleitoral (PR)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREPE": {
-   "nome": "Tribunal Regional Eleitoral (PE)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TREPI": {
-   "nome": "Tribunal Regional Eleitoral (PI)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TRERJ": {
-   "nome": "Tribunal Regional Eleitoral (RJ)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TRERN": {
-   "nome": "Tribunal Regional Eleitoral (RN)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TRERS": {
-   "nome": "Tribunal Regional Eleitoral (RS)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TRERO": {
-   "nome": "Tribunal Regional Eleitoral (RO)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TRERR": {
-   "nome": "Tribunal Regional Eleitoral (RR)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TRESC": {
-   "nome": "Tribunal Regional Eleitoral (SC)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TRESP": {
-   "nome": "Tribunal Regional Eleitoral (SP)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TRESE": {
-   "nome": "Tribunal Regional Eleitoral (SE)",
-   "justica": "eleitoral",
-   "anos": {},
-   "status": "sem_motor"
-  },
-  "TRETO": {
-   "nome": "Tribunal Regional Eleitoral (TO)",
-   "justica": "eleitoral",
    "anos": {},
    "status": "sem_motor"
   }
