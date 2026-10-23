@@ -1,0 +1,19 @@
+# Ficha do tribunal: TJSC
+
+- **Nome:** Tribunal de Justiça de Santa Catarina
+- **Justiça / regime(s) de contagem:** Estadual; CPC. Feriados com "efeitos forenses" por Resolução GP n. 1/1985 (Carnaval e Quinta-feira Santa por resolução do TJ).
+- **Fonte(s) oficial(is):** Resolução GP n. 1, de 16/01/2026 (Presidente), pub. 19/01/2026, DJe p. 1–4, "Consolida o calendário de feriados para efeitos forenses ... para o ano de 2026". A busca textual do TJSC (página Angular, vazia sem JavaScript) expõe o texto num **endpoint JSON aberto**: https://busca.tjsc.jus.br/buscatextual/rest/documento/integra/1/188428 (application/json, 90.867 bytes; campo `resultado.resultados[0].documento.integra` = HTML do ato com tabela). Página humana: https://busca.tjsc.jus.br/buscatextual/integra.do?cdSistema=1&cdDocumento=188428&cdCategoria=1 . Também cartaz do calendário (imagem em PDF, NÃO serve para ler): https://www.tjsc.jus.br/documents/d/tjsc/0670-calendario-tjsc-para-impressao-a4-2026-pdf .
+- **Fixture(s) guardada(s):** tests/fixtures/tjsc/resolucao-gp-1-2026-integra.json (resposta do endpoint).
+- **Como o calendário é publicado:** tabela HTML dentro do JSON: colunas Data | Tipo (Nacional / Municipal / "Determinado por resolução do Tribunal de Justiça" / "Efeitos Forenses") | Fundamento | Comarcas afetadas. ~170 linhas, **inclui os feriados municipais por comarca** ("Comarcas afetadas" = nome do município/comarca; para os gerais "Tribunal de Justiça, Turmas Recursais e todas as comarcas do Estado"; Florianópolis: "Tribunal de Justiça, Turmas Recursais e a comarca da Capital"). Datas por extenso ("1° de janeiro", "1º de março", "1° de maio" — grafias com ° e º).
+- **Locais:** ~130 linhas municipais de ~100 comarcas/municípios (Joinville, Criciúma, Itapema...). Art. 2º: o calendário pode sofrer ajustes pontuais durante 2026 (mudança de data de feriado municipal); ajuste sai em nova norma (não verificado).
+- **Particularidades:** **Recesso NÃO está nesta resolução** — Art. 1º, parágrafo único: "O período de suspensão do expediente forense e dos prazos judiciais, a título de recesso judiciário, será regulamentado por resolução própria." Para 2025/26 foi a Resolução TJ n. 30/2025 (expediente suspenso 22/12/2025–06/01/2026; prazos 20/12/2025–20/01/2026, segundo a notícia do TJSC) — a de 2026/27 NÃO foi achada (provável publicação em novembro/dezembro de 2026). DUVIDA: dia 28/10 consta como "Dia do Funcionário Público — determinado por resolução do TJ" (confirmar efeito: feriado forense).
+- **Âncoras conferidas à mão (no JSON da resolução):**
+  1. 2026-02-16 e 2026-02-17 Segunda/Terça-feira de Carnaval — "Determinado por resolução do Tribunal de Justiça", todas as comarcas.
+  2. 2026-04-02 Quinta-feira da Semana Santa e 2026-04-03 Sexta-feira Santa — idem.
+  3. 2026-06-04 Corpus Christi — "Determinado por resolução do Tribunal de Justiça".
+  4. 2026-12-08 Dia da Justiça — tipo "Efeitos Forenses", todas as comarcas.
+  5. Local: 2026-03-23 Dia do Município de Florianópolis — "Tribunal de Justiça, Turmas Recursais e a comarca da Capital"; também 2026-03-09 Joinville.
+- **Pode rodar na nuvem?** SIM (o site tjsc.jus.br BLOQUEIA o meu computador com página de "bot", mas abre na nuvem).
+  - Run 39986359557: `OK 200 90867 application/json;charset=utf-8 4.7 https://busca.tjsc.jus.br/buscatextual/rest/documento/integra/1/188428`
+  - Run 39986359557: `OK 200 4501388 application/pdf 9.8 https://www.tjsc.jus.br/documents/d/tjsc/0670-calendario-tjsc-para-impressao-a4-2026-pdf` (cartaz-imagem; não usar)
+- **Cobertura:** feriados + locais completos; recesso fora (resolução própria, ainda não localizada para 2026/27). Categoria: **parcial** (motor viável; recesso precisa de outra fonte/regra, p.ex. a Resolução TJ do recesso quando sair; `exige_recesso` faria o validador reprovar).

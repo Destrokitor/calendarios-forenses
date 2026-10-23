@@ -1,0 +1,4 @@
+TRT7: nenhuma fonte oficial do calendario 2026 abre a partir da nuvem (GitHub Actions).
+Ver docs/fichas/TRT7.md. A unica copia aqui e a pagina inicial (abre, mas nao traz o calendario).
+URLs oficiais do calendario (Portaria TRT7.GP 518/2025, Portarias 64/2026 e 127/2026, pagina
+"Calendario de Feriados 2026") devolvem 404/403 na nuvem; o Portal de Servicos e barrado por robots.txt.

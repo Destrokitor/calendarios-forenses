@@ -53,9 +53,34 @@ AVISO_INCOMPATIVEL = (
 )
 
 INCOMPATIVEIS = {
-    sigla: "HTTP 403 na sonda de 2026-10-23"
-    for sigla in (
-        "TJAP", "TJES", "TJGO", "TJMG", "TJPB", "TJPI", "TJRN", "TJMSP",
-        "TRT1", "TRT4", "TRT5", "TRT8", "TRT10", "TRT13", "TRT17", "TRT19", "TRT20", "TRT21", "TRT22",
-    )
+    # sem nenhuma fonte oficial que abra a partir do GitHub (HTTP 403 / tela anti-robô / robots.txt
+    # que proíbe / conexão derrubada / tempo esgotado), testado em 2026-10-23 e 24
+    "TJES": "site e diário recusam o robô (403/robots.txt)",
+    "TJPB": "site e diário recusam o robô (403/robots.txt)",
+    "TJPI": "site recusa o robô; diário e transparência em tempo esgotado",
+    "TJRN": "site e diário recusam o robô (403/robots.txt)",
+    "TJAP": "site recusa o robô (403/robots.txt)",
+    "TJAM": "tempo esgotado em todas as fontes testadas",
+    "TJMS": "tempo esgotado em todas as fontes testadas",
+    "TJRJ": "erro de certificado SSL nas fontes oficiais (não desligamos a verificação)",
+    "TJRS": "tempo esgotado e 403 em todas as fontes testadas",
+    "TJRO": "o servidor de atos derruba a conexão do robô",
+    "TJPA": "o ato do calendário é PDF escaneado (só imagem); sem OCR não há leitura confiável",
+    "TJMSP": "site e robots.txt dão 403",
+    "TST": "site e calendário respondem com tela anti-robô, sem conteúdo",
+    "STM": "o PDF do calendário não abre (devolve HTML de 247 bytes); categoria do dia só por cor",
+    "TRT1": "site e diário recusam o robô (403/robots.txt)",
+    "TRT4": "site e diário recusam o robô (403/robots.txt)",
+    "TRT5": "site e diário recusam o robô (403/robots.txt)",
+    "TRT6": "tempo esgotado, até no robots.txt",
+    "TRT7": "endereços do calendário dão 404/403",
+    "TRT8": "site e diário recusam o robô (403/robots.txt)",
+    "TRT10": "site e diário recusam o robô (403/robots.txt)",
+    "TRT14": "os PDFs do calendário dão 403",
+    "TRT16": "PDFs e listas do calendário dão 403",
+    "TRT17": "site e diário recusam o robô (403/robots.txt)",
+    "TRT20": "site e diário recusam o robô (403/robots.txt)",
+    "TRT21": "site e diário recusam o robô (403/robots.txt)",
+    "TRT22": "site e diário recusam o robô (403/robots.txt)",
+    "TRT23": "site responde 400; nenhuma fonte alternativa achada",
 }

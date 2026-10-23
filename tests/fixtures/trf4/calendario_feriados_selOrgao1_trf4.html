@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="pt-br" >
+<head >
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<meta name="viewport" content="width=device-width initial-scale=1.0"><title>:: Portal da Justiça Federal da 4ª Região ::</title>
+
+<link href="css/fontes/Lato.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<link href="css/fontes/NotoMono.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<link href="/infra_css/infra-tooltip.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<link href="/infra_js/calendario/v1/infra-calendario.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<link href="css/infra-local.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<link href="css/mobile/infra-local.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<link href="css/infra-ajax.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<link href="css/alto-contraste.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<style type="text/css" >
+<!--/*--><![CDATA[/*><!--*/
+table th,td {
+  height:26px;
+  text-align:left;
+}
+#lblUltimaAtualizacao {font-size: 0.8em}
+.divCaixaFiltros {
+  background-color: #ebebeb;
+  padding: 15px;
+  width: 98%;
+}
+.selFiltroCronograma {
+  font-size: 18px;
+  height: 40px !important;
+  margin-right:10px;
+  padding: 5px;
+}
+/*]]>*/-->
+</style>
+
+<script type="text/javascript">var INFRA_PATH_CSS="/infra_css",INFRA_PATH_IMAGENS="/infra_css/imagens",INFRA_PATH_JS="/infra_js",INFRA_PATH_SVG="/infra_css/svg",INFRA_LUPA_TIPO_JANELA=1,INFRA_BARRA_TIPO_JANELA=1,INFRA_TIPO_ALERTA=1;</script>
+<script type="text/javascript" charset="utf-8" src="/infra_js/jquery/jquery-3.7.0.min.js?3.7.0"></script>
+<script type="text/javascript" charset="utf-8" src="/infra_js/jquery/jquery-ui-1.13.2/jquery-ui.min.js?1.13.2"></script>
+<script type="text/javascript" charset="utf-8" src="/infra_js/multiple-select/multiple-select.min.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="utf-8" src="/infra_js/ddslick/jquery.ddslick.min.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="utf-8" src="/infra_js/modal/jquery.modalLink-1.0.0.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraPagina.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraMenu.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraAcaoMenu.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraBotaoMenu.js?v3-3.3.2-2026-D2"></script>    
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraUtil.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraCookie.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraUpload.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraTabelaDinamica.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraLupas.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraSelectEditavel.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraAjax.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraTooltip.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/calendario/v1/InfraCalendario.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/arvore/InfraArvore.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/maskedpwd/MaskedPassword.min.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraUtilPaginaPortal4R.js?1966951741\"></script>
+
+
+<script type="text/javascript" charset="iso-8859-1" >
+<!--//--><![CDATA[//><!--
+
+var PREFIXO_CAMINHO = '';
+
+//--><!]]>
+</script>
+<script type="text/javascript" charset="iso-8859-1" src="infra/ValidacaoAcompanhamento.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="includes/infra-local.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="utf-8" src="includes/rybena.js?positionPlayer=right&positionBar=right"></script>
+
+<script type="text/javascript" charset="iso-8859-1" >
+<!--//--><![CDATA[//><!--
+
+function inicializar() {
+  document.getElementById('tdMes1').rowSpan = 2;document.getElementById('tdMes3').rowSpan = 2;document.getElementById('tdMes8').rowSpan = 2;document.getElementById('tdMes10').rowSpan = 2;document.getElementById('tdMes12').rowSpan = 3;document.getElementById('tdMes15').rowSpan = 2;  document.getElementById('trMes2').removeChild(document.getElementById('tdMes2'));document.getElementById('trMes4').removeChild(document.getElementById('tdMes4'));document.getElementById('trMes9').removeChild(document.getElementById('tdMes9'));document.getElementById('trMes11').removeChild(document.getElementById('tdMes11'));document.getElementById('trMes13').removeChild(document.getElementById('tdMes13'));document.getElementById('trMes14').removeChild(document.getElementById('tdMes14'));document.getElementById('trMes16').removeChild(document.getElementById('tdMes16'));}
+
+//--><!]]>
+</script>
+</head>
+
+<body  onload="inicializar();">
+<noscript><div id="divSemJavascript">O processamento de javascript foi desativado, ou seu navegador não dá suporte a este recurso. Algumas funções do portal podem ser prejudicadas.</div></noscript><div id="divAreaGlobal">
+<section>
+  <header>
+  <div id="divAreaGlobalTopo" >
+<div id="divBarraAcessibilidade">
+    <ul><!--
+      --><li><a id="AItemBarraAcessibilidade1" href="#divAreaGlobalConteudo" accesskey="1">Ir para o conteúdo <span class="Invertido">1</span></a></li><!--
+      --><li><a id="AItemBarraAcessibilidade2" href="controlador.php?acao=acessibilidade" accesskey="2">Informações Acessibilidade <span class="Invertido">2</span></a></li><!--
+      --><li><a id="AItemBarraAcessibilidade3" tabindex="0" accesskey="3">Alto Contraste <span class="Invertido">3</span></a></li><!--
+    --></ul>
+  </div>
+  </div>
+  </header>
+
+<div id="divAreaBannerTribunal">
+<div id="divAreaGlobalPesquisa" role="search">
+    <div id="divMarcaJF"><h1><a href="https://www.trf4.jus.br/trf4/"><span class="LeitorDeTela">Portal Unificado da Justiça Federal da 4ª Região</span></a></h1></div>
+
+      <div id="divBuscaPortal">
+        <h2>o que você procura?</h2>
+        <form id="frmBuscaPortal" name="frmBuscaPortal" action="controlador.php?acao=pesquisar_portal" method="post" class="formulario">
+        <fieldset><legend>Busca no Portal TRF4</legend>
+          <label id="lblBuscaPortal" for="txtBuscaPortal" class="LeitorDeTela">Expressão de busca</label>
+          <input type="text" id="txtBuscaPortal" role="searchbox" name="q" /><input id="sbmBuscaPortal" type="submit" class="botao" value="Buscar no Portal" />
+          <input type="hidden" name="hdnIdMenu" id="hdnIdMenu" />
+          <input id="partialfields" name="partialfields" type="hidden" value="" />
+        </fieldset>
+        </form>
+      </div>
+
+</div>
+</div>
+
+<div id="divAreaBannerMobile">
+  <h1><a href="https://www.trf4.jus.br/trf4/"><span class="LeitorDeTela">Portal Unificado da Justiça Federal da 4ª Região</span>
+    <div id="divMarcaMobile"></div>
+    <div id="divOrgaosMobile">TRF4 | JFRS | JFSC | JFPR</div>
+  </a></h1>
+</div>
+<div id="divBordaInferior"></div>
+<div id="divContainerPopup"></div>
+  <div id="divAreaBreadcrumbs" role="region" aria-label="Posição atual no site">  </div>
+
+  <div id="divInfraAreaGlobal"></div>
+  <div id="divAreaGlobalConteudo" role="main">
+
+
+<div class="conteudo" id="divConteudo"><span class="tituloPagina">Calendário de Feriados 2026</span><br /><hr /><br /><form method="post" action="controlador.php?acao=calendario_feriados_listar"><div class="divCaixaFiltros"><div style="margin-bottom:8px;">Faça a consulta abaixo:<br /></div><select name="selOrgao" class="selFiltroCronograma" onchange="this.form.submit();"><option value="1" selected="selected">TRF4</option><option value="2">JFRS</option><option value="3">JFSC</option><option value="4">JFPR</option></select><select name="ano" class="selFiltroCronograma" onchange="this.form.submit();"><option value="2026" selected="selected">2026</option><option value="2025">2025</option><option value="2024">2024</option><option value="2023">2023</option></select></div><br /><table width="99%" summary="Tabela de feriados - TRF4"><tr><th>MÊS</th><th style="width: 9%">DIA</th><th>FERIADO</th><th>LEGISLAÇÃO</th><th>TIPO</th></tr><tr id="trMes0"><td id="tdMes0">Janeiro</td><td>1º a 6</td><td>Recesso</td><td>Lei Federal Nº 5.010/1966 - Art. 62, inc. I</td><td>Nacional</td></tr><tr id="trMes1"><td id="tdMes1">Fevereiro</td><td>02</td><td>Dia de Nossa Senhora dos Navegantes e Iemanjá</td><td>Lei Municipal Nº 13.591/2023</td><td>Municipal</td></tr><tr id="trMes2"><td id="tdMes2">Fevereiro</td><td>16 a 17</td><td>Carnaval</td><td>Lei Federal Nº 5.010/1966 - art. 62, inc. III</td><td>Nacional</td></tr><tr id="trMes3"><td id="tdMes3">Abril</td><td>1º a 3</td><td>Semana Santa</td><td>Lei Federal Nº 5.010/1966 - art. 62, inc. II</td><td>Nacional</td></tr><tr id="trMes4"><td id="tdMes4">Abril</td><td>21</td><td>Tiradentes</td><td>Lei Federal Nº 662/1949 - art. 1º</td><td>Nacional</td></tr><tr id="trMes5"><td id="tdMes5">Maio</td><td>1º</td><td>Dia do Trabalho</td><td>Lei Federal Nº 662/1949 - art. 1º</td><td>Nacional</td></tr><tr id="trMes6"><td id="tdMes6">Junho</td><td>04</td><td>Corpus Christi</td><td>Lei Municipal Nº 4.453/1978</td><td>Municipal</td></tr><tr id="trMes7"><td id="tdMes7">Agosto</td><td>11</td><td>Dia do Advogado</td><td>Lei Federal Nº 5.010/1966 - art. 62, inc. IV</td><td>Nacional</td></tr><tr id="trMes8"><td id="tdMes8">Setembro</td><td>7</td><td>Independência do Brasil</td><td>Lei Federal Nº 662/1949 - art. 1º</td><td>Nacional</td></tr><tr id="trMes9"><td id="tdMes9">Setembro</td><td>20</td><td>Data Magna do Estado</td><td>Decreto Estadual Nº 36.180/1995</td><td>Estadual</td></tr><tr id="trMes10"><td id="tdMes10">Outubro</td><td>12</td><td>Nossa Senhora Aparecida</td><td>Lei Federal Nº 6.802/1980 - art. 1º</td><td>Nacional</td></tr><tr id="trMes11"><td id="tdMes11">Outubro</td><td>30</td><td>Dia do Servidor Público</td><td>Lei Federal Nº 8.112/1990 - art. 236 e Portaria  nº 233/2026</td><td>Nacional</td></tr><tr id="trMes12"><td id="tdMes12">Novembro</td><td>1º a 2</td><td>Dia de Todos os Santos e Finados</td><td>Lei Federal Nº 5.010/1966 - art. 62, inc. IV</td><td>Nacional</td></tr><tr id="trMes13"><td id="tdMes13">Novembro</td><td>15</td><td>Proclamação da República</td><td>Lei Federal Nº 662/1949 - art. 1º</td><td>Nacional</td></tr><tr id="trMes14"><td id="tdMes14">Novembro</td><td>20</td><td>Dia Nacional de Zumbi e da Consciência Negra</td><td>Lei Federal Nº 14.759/2023 - art. 1º</td><td>Nacional</td></tr><tr id="trMes15"><td id="tdMes15">Dezembro</td><td>8</td><td>Dia da Justiça</td><td>Lei Federal Nº 5.010/1966 - art. 62, inc. IV</td><td>Nacional</td></tr><tr id="trMes16"><td id="tdMes16">Dezembro</td><td>20 a 31</td><td>Recesso</td><td>Lei Federal Nº 5.010/1966 - Art. 62, inc. I</td><td>Nacional</td></tr></table></form><br />Acesse a tela e a portaria dos <a href="controlador.php?acao=pagina_visualizar&id_pagina=4435">Feriados Locais da Justiça Federal da 4ª Região</a>.<br /><br />Atualizado em 30/03/2026.</div><!--divConteudo-->
+
+  </div>
+
+  <div id="divAreaGlobalRodape">
+    <footer>
+      <div id="divMenuRodape"><ul><!--
+        --><li><a href="controlador.php?acao=principal#divAcessoRapido" >Acesso Rápido</a></li><!--
+        --><li><a href="controlador.php?acao=agendamento_atendimento_gabinete_enviar" >Atendimento Virtual dos Gabinetes</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=266" >Audiências e Sessões</a></li><!--
+        --><li><a href="controlador.php?acao=principal#divAreaAvisos" >Avisos</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=260" >Balcão Virtual</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=247" >Dúvidas Frequentes</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=264" target="_blank">eproc</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=250" >Institucional</a></li><!--
+      --></ul><!--
+      --><ul><!--        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=322" >Intranet</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_visualizar&id_pagina=2136" >LGPD</a></li><!--
+        --><li><a href="controlador.php?acao=noticia_portal" >Notícias da 4ª Região</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=253" >Ouvidoria</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=265" >Plantões</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_visualizar&id_pagina=2062" >Sei - Usuários Externos</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=262" >Endereços e Telefones</a></li><!--
+      --></ul></div><!--
+      --><div id="divMarcaRodape">
+      Portal Unificado da Justiça Federal da 4ª Região
+      </div>
+    </footer>
+    <div id="divBarraFinal"></div>  </div>
+
+</section>
+</div>
+<div id="divAreaImpressao" class="Oculto"></div>
+<div id="divDetalhesPoliticaPrivacidade"><div id="divContainerPoliticaPrivacidade"><div id="divTextoAvisoPrivacidade">Este Portal utiliza a tecnologia de <i>cookies</i> para melhorar sua experiência de navegação.<br /> Para maiores informações, acesse nossa <a href="controlador.php?acao=pagina_visualizar&id_pagina=2200">página de Política de Privacidade</a>.</div><div id="divBotaoAvisoPrivacidade"><input type="button" id="btnAceitoPoliticaPrivacidade" value="Aceito" onclick="marcarAvisoPoliticaPrivacidadeAceito();" /> </div></div></div></body>
+</html>

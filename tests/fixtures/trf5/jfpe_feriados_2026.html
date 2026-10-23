@@ -1,0 +1,1235 @@
+<div id="google_translate_element" class="boxTradutor" style="display:none"></div>
+
+
+
+<script type="text/javascript">
+var comboGoogleTradutor = null; 
+
+function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+        pageLanguage: 'pt',
+        includedLanguages: 'en,es,pt',
+        layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL
+    }, 'google_translate_element');
+
+    comboGoogleTradutor = document.getElementById("google_translate_element").querySelector(".goog-te-combo");
+}
+
+function changeEvent(el) {
+    if (el.fireEvent) {
+        el.fireEvent('onchange');
+    } else {
+        var evObj = document.createEvent("HTMLEvents");
+
+        evObj.initEvent("change", false, true);
+        el.dispatchEvent(evObj);
+    }
+}
+
+function trocarIdioma(sigla) {
+    if (comboGoogleTradutor) {
+        comboGoogleTradutor.value = sigla;
+        changeEvent(comboGoogleTradutor);//Dispara a troca
+    }
+} 
+</script>
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+
+<head>
+
+<meta charset="utf-8">
+	<meta name="rights" content="JFPE">
+	<meta name="author" content="Carla Maria">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Justiça Federal em Pernambuco - JFPE ">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Portal JFPE - Feriados</title>
+	<link href="/media/templates/site/cassiopeia_jfpepaginaprincipal/images/favicon-192.png" rel="icon" type="image/png" sizes="192x192">
+	<link href="/media/templates/site/cassiopeia_jfpepaginaprincipal/images/favicon-48.png" rel="icon" type="image/png" sizes="48x48">
+	<link href="/favicon.ico" rel="alternate icon" type="image/vnd.microsoft.icon">
+	<link href="/media/templates/site/cassiopeia_jfpepaginaprincipal/images/apple-touch-icon.png" rel="apple-touch-icon">
+
+<link href="/media/system/css/joomla-fontawesome.min.css?781a72" rel="lazy-stylesheet"><noscript><link href="/media/system/css/joomla-fontawesome.min.css?781a72" rel="stylesheet"></noscript>
+	<link href="/media/templates/site/cassiopeia_jfpepaginaprincipal/css/template.min.css?781a72" rel="stylesheet">
+	<link href="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/css/global/colors_standard.min.css?781a72" rel="stylesheet">
+	<link href="/media/mod_menu/css/mod-menu.min.css?781a72" rel="stylesheet">
+	<style>:root {
+    --hue: 214;
+    --template-bg-light: #f0f4fb;
+    --template-text-dark: #495057;
+    --template-text-light: #ffffff;
+    --template-link-color: var(--link-color);
+    --template-special-color: #001B4C;
+    
+}</style>
+
+<script type="application/json" class="joomla-script-options new">{"system.paths":{"root":"","rootFull":"https:\/\/www.jfpe.jus.br\/","base":"","baseFull":"https:\/\/www.jfpe.jus.br\/"},"csrf.token":"409028ee9a1994f6df62f7e708f944e7"}</script>
+	<script src="/media/system/js/core.min.js?781a72"></script>
+	<script src="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/js/template.min.js?781a72" type="module"></script>
+	<script src="/media/mod_menu/js/menu.min.js?781a72" type="module"></script>
+	<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.jfpe.jus.br/#/schema/BreadcrumbList/17","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.jfpe.jus.br/index.php","name":"Voltar"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.jfpe.jus.br/index.php/feriados.html","name":"Feriados"}}]}</script>
+	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.jfpe.jus.br/#/schema/Organization/base","name":"Portal JFPE","url":"https://www.jfpe.jus.br/"},{"@type":"WebSite","@id":"https://www.jfpe.jus.br/#/schema/WebSite/base","url":"https://www.jfpe.jus.br/","name":"Portal JFPE","publisher":{"@id":"https://www.jfpe.jus.br/#/schema/Organization/base"}},{"@type":"WebPage","@id":"https://www.jfpe.jus.br/#/schema/WebPage/base","url":"https://www.jfpe.jus.br/index.php/feriados.html","name":"Portal JFPE - Feriados","description":"Justiça Federal em Pernambuco - JFPE ","isPartOf":{"@id":"https://www.jfpe.jus.br/#/schema/WebSite/base"},"about":{"@id":"https://www.jfpe.jus.br/#/schema/Organization/base"},"inLanguage":"pt-BR","breadcrumb":{"@id":"https://www.jfpe.jus.br/#/schema/BreadcrumbList/17"}},{"@type":"Article","@id":"https://www.jfpe.jus.br/#/schema/com_content/article/216","name":"Feriados","headline":"Feriados","inLanguage":"pt-BR","isPartOf":{"@id":"https://www.jfpe.jus.br/#/schema/WebPage/base"}}]}</script>
+
+
+<link href="/media/templates/site/cassiopeia/css/style_JFPE.css?v=3098" rel="stylesheet" />
+<link href="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/DataTables/datatables.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"/>
+<!--<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">-->
+<link href="/media/templates/site/cassiopeia/css/owl.carousel.min.css" rel="stylesheet">
+<link href="/media/templates/site/cassiopeia/css/owl.theme.default.min.css" rel="stylesheet">
+<link href="/media/templates/site/cassiopeia/css/pesquisaGeral.css" rel="stylesheet">
+<link href="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/css/style_JFPE.css?v=3098" rel="stylesheet" />
+<!--<script src="/media/templates/site/cassiopeia/js/jquery-3.3.1.min.js"></script>-->
+<script src="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/js/jquery-4.0.0.min.js"></script>
+ 
+ 
+ <style>
+      <!----CSS do IA Nisia--->
+main {
+    position: fixed;
+    display: inline-flex;
+    right: 20px;
+    bottom: 15px;
+    z-index: 5000;
+}
+ 
+#botao-chama-chat {
+    background-color: #fff;
+    border-radius: 80px;
+    display: inline-flex;
+    width: 75px;
+    height: 75px;
+    align-items: center;
+    justify-content: center;
+    animation: chat 1.5s;
+    cursor: pointer;
+    box-shadow: 0 5px 15px 2px #00000045;
+}
+ 
+#botao-chama-chat-dialogo {
+    display: inline-flex;
+    background-color: #fff;
+    border-radius: 10px 10px 0 10px;
+    width: 73px;
+    height: 49px;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+    animation: chat 1.5s;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    box-shadow: 0 5px 15px 2px #00000045;
+}
+ 
+@keyframes chat {
+    0% { transform: scale(0.1); opacity: 0; }
+    80% { transform: scale(0.1); opacity: 0; }
+    98% { transform: scale(1.1); opacity: 1; }
+    100% { transform: scale(1); opacity: 1; }
+}
+
+.modal-dialog{
+	--modal-width: 927px !important;
+}
+
+ </style>
+
+</head>
+
+<body >
+<div id="google_translate_element" class="boxTradutor" style="display:none"></div>
+<div class="headermenu mobileonly">
+    <img class="logo" alt="logo" src="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/images/logo.svg" style="margin-right: 9px;">
+    <img class="togglemobilemenu hamburger" alt="hamburger" src="/media/templates/site/cassiopeia/images/harmburger.svg">
+    <div class="clearfix"></div>
+</div>
+<div class="headermenucontent">
+    
+<div id="mod-custom214" class="mod-custom custom">
+    <div class="row">
+<div class="col"><img src="/media/templates/site/cassiopeia/images/rodape/trf5.svg" alt="Justiça Federal em Pernambuco" style="max-width: 84%;" /></div>
+</div></div>
+
+  <br/>
+ 
+<div id="mod-custom212" class="mod-custom custom">
+    <div class="row topo" style="width: 20rem;">
+<div class="col-10 links nopadding"><a href="https://www.trf5.jus.br/" target="_blank" rel="noopener noreferrer" aria-label="TRF5 - abre em nova aba" title="Acessar o site do Tribunal Regional Federal da 5ª Região" style="color: #fff!important; padding: 9px;"> TRF5 </a> <a href="https://www.jfal.jus.br/" tabindex="0" title="Portal da Seção Judiciária de Alagoas"><span class="botao" style="color: #fff!important;">JFAL </span></a> <a href="http://www.jfce.jus.br/" target="_blank" rel="noopener" tabindex="0" title="Portal da Seção Judiciária do Ceará"><span class="botao" style="padding: 6px; color: #fff!important;">JFCE </span></a> <a href="http://www.jfpb.jus.br/" target="_blank" rel="noopener" tabindex="0" title="Portal da Seção Judiciária da Paraíba"><span class="botao" style="color: #fff!important;">JFPB </span></a> <a href="http://www.jfrn.jus.br/" target="_blank" rel="noopener" tabindex="0" title="Portal da Seção Judiciária do Rio Grande do Norte"><span class="botao" style="padding: 6px; color: #fff!important;">JFRN </span></a> <a href="http://www.jfse.jus.br/" target="_blank" rel="noopener" tabindex="0" title="Portal da Seção Judiciária de Sergipe"><span class="botao" style="color: #fff!important;">JFSE </span></a></div>
+</div></div>
+
+  <br/>
+  
+<div id="mod-custom213" class="mod-custom custom">
+    <div class="row">
+<div class="col" style="padding-left: 24px;"><img src="/media/templates/site/cassiopeia/images/rodape/a-1.svg" alt="Aumentar a letra" class="btnFontMais" style="max-width: 61% !important;" tabindex="0" /></div>
+<div class="col"><img src="/media/templates/site/cassiopeia/images/rodape/a-2.svg" alt="Diminuir a letra" class="btnFontMenos" style="max-width: 61% !important;" tabindex="0" /></div>
+<div class="col"><img src="/media/templates/site/cassiopeia/images/rodape/a-3.svg" alt="Contraste" class="btnDaltonismo" style="max-width: 61% !important;" tabindex="0" /></div>
+<div class="col"><img src="/media/templates/site/cassiopeia/images/rodape/a-4.svg" alt="Voltar ao Normal" class="btnVoltarNormal" style="max-width: 61% !important;" tabindex="0" /></div>
+<div class="col"><img src="/media/templates/site/cassiopeia/images/rodape/a-5.svg" alt="tradutor" class="btnTradutor" style="max-width: 61% !important;" tabindex="0" /></div>
+</div></div>
+
+  <br/>
+    <img class="togglemobilemenu close_menu" alt="fechar menu" src="/media/templates/site/cassiopeia/images/close_menu.svg">
+    <div class="itens">
+        <!-- MENU PRINCIPAL -->
+        <ul id="mod-menu1" class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/index.php" title="Ir para Início">Início</a></li><li class="nav-item item-105"><a href="/index.php/institucional.html" title="Ir para Institucional">Institucional</a></li><li class="nav-item item-106"><a href="/index.php/processos.html" title="Ir para Processos">Processos</a></li><li class="nav-item item-107"><a href="/index.php/publicacoes.html" title="Ir para Publicações">Publicações</a></li><li class="nav-item item-108"><a href="/index.php/imprensa.html" title="Ir para Imprensa">IMPRENSA</a></li><li class="nav-item item-109"><a href="/index.php/transparencia.html" title="Ir para Transparência">TRANSPARÊNCIA</a></li><li class="nav-item item-110"><a href="/index.php/lgpd.html" title="Ir para LGPD">LGPD</a></li><li class="nav-item item-111"><a href="/index.php/concursos-e-selecoes.html" title="Ir para Concursos e Seleções">CONCURSOS E SELEÇÕES</a></li><li class="nav-item item-112"><a href="/index.php/turmas-recursais.html" title="Ir para Turmas Recursais">TURMAS RECURSAIS</a></li><li class="nav-item item-113"><a href="/index.php/carta-de-servicos.html" title="Ir para Carta de Serviços">CARTA DE SERVIÇOS</a></li><li class="nav-item item-114"><a href="/index.php/acessibilidade-e-inclusao.html" title="Ir para Acessilidade e Inclusão">ACESSIBILIDADE E INCLUSÃO</a></li></ul>
+
+    </div>
+  <br/><br/>
+   
+</div>    
+    <div class="container_cabecalho hidemobile">
+                    <div class="row topo">
+<div class="col-10 links nopadding"><a href="https://www.trf5.jus.br/"
+        target="_blank" tabindex="0" title="Tribunal Regional Federal da 5ª Região" 
+        rel="noopener"><span class="botao" style="padding: 8px;">TRF5</span></a>
+    <a href="http://www.jfal.jus.br/" target="_blank" tabindex="0"
+        title="Portal da Seção Judiciária de Alagoas" rel="noopener"><span
+            class="botao">JFAL </span></a> <a href="http://www.jfce.jus.br/"
+        target="_blank" tabindex="0" title="Portal da Seção Judiciária do Ceará"
+        rel="noopener"><span class="botao" style="padding: 6px;">JFCE </span></a> <a
+        href="http://www.jfpb.jus.br/" target="_blank" tabindex="0"
+        title="Portal da Seção Judiciária da Paraíba" rel="noopener"><span
+            class="botao">JFPB </span></a> <a href="http://www.jfrn.jus.br/"
+        target="_blank" tabindex="0" title="Portal da Seção Judiciária do Rio Grande do Norte"
+        rel="noopener"><span class="botao" style="padding: 6px;">JFRN </span></a> <a
+        href="http://www.jfse.jus.br/" target="_blank" tabindex="0"
+        title="Portal da Seção Judiciária de Sergipe"
+        rel="noopener"><span class="botao">JFSE </span></a></div>
+<div class="col-2 text-right acessibilidade"><img class="btnFontMais" src="/media/templates/site/cassiopeia/images/acessibilidade/acessibilidade_ap.svg" tabindex="0" alt="Aumentar a letra" > <img class="btnFontMenos" src="/media/templates/site/cassiopeia/images/acessibilidade/acessibilidade_am.svg" tabindex="0" alt="Diminuir a letra" > <img class="btnDaltonismo" src="/media/templates/site/cassiopeia/images/acessibilidade/acessibilidade_c.svg" tabindex="0" alt="Contraste" > <img class="btnVoltarNormal" src="/media/templates/site/cassiopeia/images/acessibilidade/acessibilidade_back.svg" tabindex="0" alt="Voltar ao Normal" > <img class="btnTradutor" title="Tradutor" src="/media/templates/site/cassiopeia/images/acessibilidade/acessibilidade_t.svg" tabindex="0" alt="Tradutor" title="Tradutor"></div>
+</div>
+<div id="barraIdiomas" class="hidemobile" style="display:none; margin-right:9px ; font-size: 10px; text-align: end;">
+        <a href="javascript:trocarIdioma('en')">Inglês</a> / 
+        <a href="javascript:trocarIdioma('es')">Espanhol</a> / 
+        <a href="javascript:trocarIdioma('pt')">Português</a>
+        <br>A tradução não é de responsabilidade do TRF5.
+    </div>
+<div class="row">
+<!--<div class="col-2 buscafield" style="display: flex; align-items: center; padding: 0;"><a style="text-align: center; text-decoration: none;" href="https://sei.trf5.jus.br/sei/controlador_externo.php?acao=ouvidoria&amp;id_orgao_acesso_externo=1" target="_blank" rel="noopener">
+<i class="fa-solid fa-envelope" style="color: #5776b0;"></i>
+<div style="font-size: 13px; color: #5776b0;">SIC/</div>
+<br>
+<div style="font-size: 13px; margin-top: -28px; color: #5776b0;">Ouvidoria</div>
+</a></div>-->
+<!--<div class="col-8 text-center"><img style="width: 500px;" src="/media/templates/site/cassiopeia/images/jfpe-logo.svg" alt="Justiça Federal em Pernambuco"></div>-->
+<!--<div class="col-2 busca_home text-center">
+<div class="row">
+<div class="inner-addon">
+<i class="fa-solid fa-magnifying-glass"></i>
+<input class="form-control inputPesquisaHomeWeb" type="text" placeholder="Consultar por"></div>
+</div>
+</div>-->
+</div>
+
+                  
+    </div>
+      <div id="fixado" class="hidemobile ">
+    <div class="container-fluid" style="display: flex;justify-content: center;">
+        <div class="row menu">
+            <div class="col-2">
+                <a href="https://www.jfpe.jus.br/" target="_self" title="Logo Marca da Justiça Federal em Pernambuco"><img src="/media/templates/site/cassiopeia_jfpepaginaprincipal/images/logo.svg" alt="logo" style="width:113px;"></a>
+            </div>
+                    
+            <div class="col-10">
+                <ul class="list-inline" style="width: 68rem;">
+                    <!-- MENU PRINCIPAL -->
+                    <ul id="mod-menu1" class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/index.php" title="Ir para Início">Início</a></li><li class="nav-item item-105"><a href="/index.php/institucional.html" title="Ir para Institucional">Institucional</a></li><li class="nav-item item-106"><a href="/index.php/processos.html" title="Ir para Processos">Processos</a></li><li class="nav-item item-107"><a href="/index.php/publicacoes.html" title="Ir para Publicações">Publicações</a></li><li class="nav-item item-108"><a href="/index.php/imprensa.html" title="Ir para Imprensa">IMPRENSA</a></li><li class="nav-item item-109"><a href="/index.php/transparencia.html" title="Ir para Transparência">TRANSPARÊNCIA</a></li><li class="nav-item item-110"><a href="/index.php/lgpd.html" title="Ir para LGPD">LGPD</a></li><li class="nav-item item-111"><a href="/index.php/concursos-e-selecoes.html" title="Ir para Concursos e Seleções">CONCURSOS E SELEÇÕES</a></li><li class="nav-item item-112"><a href="/index.php/turmas-recursais.html" title="Ir para Turmas Recursais">TURMAS RECURSAIS</a></li><li class="nav-item item-113"><a href="/index.php/carta-de-servicos.html" title="Ir para Carta de Serviços">CARTA DE SERVIÇOS</a></li><li class="nav-item item-114"><a href="/index.php/acessibilidade-e-inclusao.html" title="Ir para Acessilidade e Inclusão">ACESSIBILIDADE E INCLUSÃO</a></li></ul>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="container-breadcrumbs" style="display:block !important; margin-top: 36px;"><nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__divider float-start">
+                <span class="divider icon-location icon-fw" aria-hidden="true"></span>
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/index.php" class="pathway"><span>Voltar</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>Feriados</span></li>    </ol>
+    </nav>
+</div>	</div>
+   <main>
+            <div class="com-content-article item-page">
+    <meta itemprop="inLanguage" content="pt-BR">
+    
+    
+        
+        
+    
+    
+        
+                                                <div class="com-content-article__body">
+        <div class="container demonstrativo bg_azul_fundo">
+<div class="row conteudo selecionado">
+<div class="col-12">
+<div class="row">
+<div class="titulo">Feriados</div>
+</div>
+<div class="container">
+<div class="card-body" style="background-color: #e4e8f3; border-color: #5776B0;">
+<div class="row" style="margin-top: 2rem;">
+<div class="col" style="border-color: #5776b0 !important; text-align: center; color: #ffffff; background-color: #5776b0; padding-top: 10px;">
+<h5>Feriados na Sede da Justiça Federal em Pernambuco (Recife)</h5>
+<a href="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/docs_pdf/biblioteca/portarias/Portaria_126_2026.pdf" target="_blank" rel="noopener noreferrer" style="color: #ffffff !important;" title="Portaria nº 126/DF da JFPE, 18/06/2026"> Portaria nº 126/DF da JFPE, 18/06/2026</a></div>
+</div>
+<div class="row" style="color: #ffffff; margin-top: 10px; background-color: #5776b0;">
+<div class="col" style="margin-top: 10px; margin-left: 29px; width: 600px;">
+<h5 style="text-align: center; color: #fff; font-weight: 400 !important; font-size: 17px;">FERIADOS NACIONAIS</h5>
+</div>
+</div>
+<div class="row">
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 46px;"><strong>01 a 06 de janeiro</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 6px; border: 1px solid #5776b0 !important; text-align: justify;"><br />Recesso Forense<br /><a href="https://www.planalto.gov.br/ccivil_03/leis/l5010.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Recesso Forense">Lei nº 5.010, 30 maio 1966, art.62<br /><br /></a></div>
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 21px;"><strong><br />16 a 17 de fevereiro<br /></strong><br /><br /></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 10px; border: 1px solid #5776b0 !important; text-align: justify;"><br />Carnaval<br /><a href="https://www.planalto.gov.br/ccivil_03/leis/l5010.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Carnaval">Lei nº 5.010, 30 maio 1966, Art. 62<br /><br /></a></div>
+</div>
+<div class="row">
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 22px;"><strong><br />18 de fevereiro<br /><br /><br /></strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 40px; border: 1px solid #5776b0 !important; text-align: justify;">4ª Feira de Cinzas (Ponto facultativo) <br />Art. 2º do Ato nº 626 - TRF5, 07 nov. 2025<br /><br /></div>
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 20px;"><strong><br />01 a 05 da abril<br /><br /><br /></strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 10px; border: 1px solid #5776b0 !important; text-align: justify;"><br />Semana Santa <br /><a href="https://www.planalto.gov.br/ccivil_03/leis/l5010.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Semana Santa">Lei nº 5.010, 30 de maio 1966, Art. 62<br /><br /></a></div>
+</div>
+<div class="row">
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 42px;"><strong>21 de abril</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 29px; border: 1px solid #5776b0 !important; text-align: justify;">Tiradentes <br /><a href="https://www.planalto.gov.br/ccivil_03/leis/2002/l10607.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Tiradentes">Lei nº 10.607, 19 dez. 2002<br /><br /></a></div>
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 41px;"><strong>01 de maio</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 10px; border: 1px solid #5776b0 !important; text-align: justify;"><br />Dia do Trabalho <br /><a href="https://www.planalto.gov.br/ccivil_03/leis/2002/l10607.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Dia do Trabalho">Lei nº 10.607, 19 dez. 2002<br /><br /></a></div>
+</div>
+<div class="row">
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 41px;"><strong>04 de junho</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 30px; border: 1px solid #5776b0 !important; text-align: justify;">Corpus Cristi (Ponto Facultativo)<br />Art. 2º do Ato nº 626 - TRF5, 07 nov. 2025<br /><br /></div>
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 41px;"><strong>23 de junho</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 30px; border: 1px solid #5776b0 !important; text-align: justify;">Véspera de São João (Ponto Facultativo)<br />Art. 2º do Ato nº 626 - TRF5, 07 nov. 2025<br /><br /></div>
+</div>
+<div class="row">
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 41px;"><strong>11 de agosto</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 10px; border: 1px solid #5776b0 !important; text-align: justify;"><br />Criação dos Cursos Jurídicos <br /><a href="https://www.planalto.gov.br/ccivil_03/leis/l5010.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Criação dos Cursos Jurídicos">Lei nº 5.010, 30 maio 1966, art.62<br /><br /></a></div>
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 43px;"><strong>07 de setembro</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 10px; border: 1px solid #5776b0 !important; text-align: justify;"><br />Independência do Brasil<br /><a href="https://www.planalto.gov.br/ccivil_03/leis/2002/l10607.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Independência do Brasil">Lei nº 10.607, 19 dez. 2002<br /><br /></a></div>
+</div>
+<div class="row">
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 39px;"><strong>12 de outubro</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 10px; border: 1px solid #5776b0 !important; text-align: justify;"><br />Nossa Senhora Aparecida (Padroeira do Brasil) <br /><a href="https://www.planalto.gov.br/ccivil_03/leis/l6802.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Nossa Senhora Aparecida (Padroeira do Brasil)">Lei nº 6.802, 30 jun. 1980<br /><br /></a></div>
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 45px;"><strong>28 de outubro </strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 21px; border: 1px solid #5776b0 !important; text-align: justify;">Dia do Servidor Público <br /><a href="http://www6.senado.gov.br/sicon/MudaVisualizacaoDocumentos.action" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Dia do Servidor Público">Decreto-Lei nº 5.936, 28 out. 1943</a><br /><a href="https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Lei nº 8.112">Lei nº 8.112, 11 dez. 1990, art. 236<br /><br /></a></div>
+</div>
+<div class="row">
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 44px;"><strong>01 de novembro</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 10px; border: 1px solid #5776b0 !important; text-align: justify;"><br />Dia de Todos os Santos<br /><a href="https://www.planalto.gov.br/ccivil_03/leis/l5010.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Dia de Todos os Santos">Lei nº 5.010, 30 maio 1966, art.62<br /><br /></a></div>
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 42px;"><strong>02 de novembro</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 16px; border: 1px solid #5776b0 !important; text-align: justify;">Dia de Finados <br /><a href="https://www.planalto.gov.br/ccivil_03/leis/2002/l10607.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Dia de Finados">Lei nº 10.607, 19 dez. 2002</a><br /><a href="https://www.planalto.gov.br/ccivil_03/leis/l5010.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Lei nº 5.010">Lei nº 5.010, 30 maio 1966, art.62<br /><br /></a></div>
+</div>
+<div class="row">
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 41px;"><strong>15 de novembro</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 10px; border: 1px solid #5776b0 !important; text-align: justify;"><br />Proclamação da República <br /><a href="https://www.planalto.gov.br/ccivil_03/leis/2002/l10607.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Proclamação da República">Lei nº 10.607, 19 dez. 2002<br /><br /></a></div>
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 48px;"><strong>20 de novembro</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 10px; border: 1px solid #5776b0 !important; text-align: justify;"><br />Dia Nacional de Zumbi e da Consciência Negra <br /><a href="https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14759.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Dia Nacional de Zumbi e da Consciência Negra">Lei nº 14.759, 21 dez. 2023<br /><br /></a></div>
+</div>
+<div class="row">
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 51px;"><strong>08 de dezembro</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 10px; border: 1px solid #5776b0 !important; text-align: justify;"><br />Dia da Justiça <br /><a href="http://www.planalto.gov.br/ccivil_03/leis/1970-1979/L6741.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Dia da Justiça">Lei nº 6.741, 17 dez. 1979</a><br /><a href="https://www.planalto.gov.br/ccivil_03/leis/l5010.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Dia da Justiça">Lei nº 5.010, 30 maio 1966, art.62<br /><br /></a></div>
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 41px;"><strong>20 a 31 de dezembro</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 10px; border: 1px solid #5776b0 !important; text-align: justify;"><br />Recesso Forense <br /><a href="https://www.planalto.gov.br/ccivil_03/leis/l5010.htm" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Recesso Forense">Lei nº 5.010, 30 maio 1966, art.62<br /><br /></a></div>
+</div>
+<div class="row" style="color: #ffffff; margin-top: 10px; background-color: #5776b0;">
+<div class="col" style="margin-top: 10px; margin-left: 29px; width: 600px;">
+<h5 style="text-align: center; color: #fff; font-weight: 400 !important; font-size: 17px;">FERIADO ESTADUAL</h5>
+</div>
+</div>
+<div class="row">
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 31px;"><strong>06 de março</strong></div>
+<div class="col-sm-12 col-md-10 col-xs-12 border" style="color: #5776b0; padding-top: 19px; border: 1px solid #5776b0 !important; text-align: justify;">Data Magna do Estado Pernambuco<br /><a href="http://legis.alepe.pe.gov.br/texto.aspx?id=34393&amp;tipo=" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Data Magna do Estado Pernambuco">Lei Estadual nº 16.241, 14 de dez. 2017, art. 49<br /><br /></a></div>
+</div>
+<div class="row" style="color: #ffffff; margin-top: 10px; background-color: #5776b0;">
+<div class="col" style="margin-top: 10px; margin-left: 29px; width: 600px;">
+<h5 style="text-align: center; color: #fff; font-weight: 400 !important; font-size: 17px;">FERIADOS MUNICIPAIS</h5>
+</div>
+</div>
+<div class="row">
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 41px;"><strong>24 de junho</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 14px; border: 1px solid #5776b0 !important; text-align: justify;">São João<br /><a href="https://leismunicipais.com.br/a1/pe/r/recife/lei-ordinaria/1967/978/9777/lei-ordinaria-n-9777-1967-institui-feriados-religiosos-obedecendo-ao-disposto-no-decreto-lei-n-86-de-27-de-dezembro-de-1966?q=9777" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="São João">Lei Municipal nº 9.777, 08 jun. 1967 /</a><br /><a href="http://www.legiscidade.recife.pe.gov.br/lei/09777/?keyword=Lei%20n%C2%BA%209.777" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="São João"> Revigorada em: 12/05/1987<br /><br /></a></div>
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 43px;"><strong>08 de dezembro</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 19px; border: 1px solid #5776b0 !important; text-align: justify;">Nossa Senhora da Conceição<br /><a href="https://leismunicipais.com.br/a1/pe/r/recife/lei-ordinaria/1967/978/9777/lei-ordinaria-n-9777-1967-institui-feriados-religiosos-obedecendo-ao-disposto-no-decreto-lei-n-86-de-27-de-dezembro-de-1966?q=9777" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Nossa Senhora da Conceição">Lei Municipal nº 9.777, 08 jun. 1967 /</a><br /><a href="http://www.legiscidade.recife.pe.gov.br/lei/09777/?keyword=Lei%20n%C2%BA%209.777" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Nossa Senhora da Conceição"> Revigorada em: 12/05/1987<br /><br /></a></div>
+</div>
+<div class="row">
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 43px;"><strong>16 de julho</strong></div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="color: #5776b0; padding-top: 10px; border: 1px solid #5776b0 !important; text-align: justify;">Nossa Senhora do Carmo (Padroeira do Recife)<br /><a href="https://leismunicipais.com.br/a1/pe/r/recife/lei-ordinaria/1967/978/9777/lei-ordinaria-n-9777-1967-institui-feriados-religiosos-obedecendo-ao-disposto-no-decreto-lei-n-86-de-27-de-dezembro-de-1966?q=9777" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Nossa Senhora do Carmo (Padroeira do Recife)">Lei Municipal nº 9.777, 08 jun. 1967 /</a><br /><a href="http://www.legiscidade.recife.pe.gov.br/lei/09777/?keyword=Lei%20n%C2%BA%209.777" target="_blank" rel="noopener noreferrer" style="color: #5776b0;" title="Nossa Senhora do Carmo (Padroeira do Recife)"> Revigorada em: 12/05/1987<br /><br /></a></div>
+<div class="col-md-2 col-sm-12" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 60px;">&nbsp;</div>
+<div class="col-sm-12 col-md-4 col-xs-12 border" style="border: 1px solid  #5776b0 !important; text-align: center; color: #5776b0; padding-top: 30px;">&nbsp;</div>
+</div>
+<div class="row" style="color: #ffffff; margin-top: 10px; background-color: #5776b0;">
+<div class="col" style="margin-top: 10px; margin-left: 29px; width: 600px;">
+<h5 style="text-align: center;">Feriados nas Subseções Judiciárias da JFPE (<a href="/index.php/feriados.html?view=article&amp;id=217:feriadossubsecoes&amp;catid=274" target="_self" style="color: #fff !important;" title="Feriados nas Subseções Judiciárias da JFPE">clique aqui</a>)</h5>
+</div>
+</div>
+<div class="row" style="border: 1px solid #5776b0 !important;">
+<div class="col col-sm-12 col-md-4 col-xs-12" style="text-align: justify; color: #5776b0; padding-top: 10px;">Feriados em anos anteriores:
+<div class="d-flex justify-content-justify" style="width: 50rem;"><nav aria-label="...">
+<ul class="pagination feriadosAno">
+<li class="page-item" style="padding: 7px;"><a href="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/docs_pdf/biblioteca/portarias/20210319Feriado_2017.PDF" target="_blank" class="page-link" style="background-color: #5776b0; color: #fff !important; border-color: #5776b0;" title="Feriados Ano 2017">2017</a></li>
+<li class="page-item" style="padding: 7px;"><a href="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/docs_pdf/biblioteca/portarias/20210319Feriados_2018.PDF" target="_blank" class="page-link" style="background-color: #5776b0; color: #fff !important; border-color: #5776b0;" title="Feriados Ano 2018">2018</a></li>
+<li class="page-item" style="padding: 7px;"><a href="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/docs_pdf/biblioteca/portarias/20210319Feriados_2019.PDF" target="_blank" class="page-link" style="background-color: #5776b0; color: #fff !important; border-color: #5776b0;" title="Feriados Ano 2019">2019</a></li>
+<li class="page-item" style="padding: 7px;"><a href="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/docs_pdf/biblioteca/portarias/20210319Feriados_2020.PDF" target="_blank" class="page-link" style="background-color: #5776b0; color: #fff !important; border-color: #5776b0;" title="Feriados Ano 2020">2020</a></li>
+<li class="page-item" style="padding: 7px;"><a href="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/docs_pdf/biblioteca/portarias/Portaria_178_2021.pdf" target="_blank" class="page-link" style="background-color: #5776b0; color: #fff !important; border-color: #5776b0;" title="Feriados Ano 2021">2021</a></li>
+<li class="page-item" style="padding: 7px;"><a href="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/docs_pdf/biblioteca/portarias/Portaria_16_2022.pdf" target="_blank" class="page-link" style="background-color: #5776b0; color: #fff !important; border-color: #5776b0;" title="Feriados Ano 2022">2022</a></li>
+<li class="page-item" style="padding: 7px;"><a href="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/docs_pdf/biblioteca/portarias/Portaria_234_2022.pdf" target="_blank" class="page-link" style="background-color: #5776b0; color: #fff !important; border-color: #5776b0;" title="Feriados Ano 2023">2023</a></li>
+<li class="page-item" style="padding: 7px;"><a href="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/docs_pdf/biblioteca/portarias/Portaria_07_2024.pdf" target="_blank" class="page-link" style="background-color: #5776b0; color: #fff !important; border-color: #5776b0;" title="Feriados Ano 2024">2024</a></li>
+<li class="page-item" style="padding: 7px;"><a href="https://slideshow.jfpe.jus.br/ArquivosSlideshow//anexos/Portaria/202412/Portaria_297_2024-1e6a7cca0b2d.pdf" target="_blank" rel="noopener" class="page-link" style="background-color: #5776b0; color: #fff !important; border-color: #5776b0;" title="Feriados Ano 2024">2025</a></li>
+</ul>
+</nav></div>
+</div>
+</div>
+<br /><br /></div>
+</div>
+<p style="color: #5776b0;">* Elaborada e atualizada pela equipe da Biblioteca da JFPE</p>
+<div class="row">&nbsp;</div>
+<div class="row">&nbsp;</div>
+</div>
+</div>
+</div>     </div>
+
+        
+                                        </div>
+
+        </main>
+            <div class="paginaConteudo"> </div>
+
+</div>
+
+
+
+
+<style>
+ .nomeSecoes .nav-link.active, .nomeSecoes .show>.nav-link {
+    color: #5776b0 !important;
+    background-color: #fff !important;
+    
+}
+</style>
+
+
+<!--mod_jfpe_rodape-->
+<div class="footer" >
+    <div class="container">
+  <img class="fixadorodape" src="/media/templates/site/cassiopeia/images/rodape/scroll.svg" alt="Subir para o topo" style="width: 66px; height: 33px;
+">
+        <div class="row">
+                  <div class="col-sm-12 col-md-3">
+                <div class="row" style="position: relative;">
+                    <div class="box fullwidth h158 align-self-center" style="position: relative">
+                        <div class="icone icone_azul" style="position: absolute; top: -35px; left: calc(50% - 80px);"><img src="/media/templates/site/cassiopeia/images/rodape/acessibilidade_icones.svg" alt="Imagem Visual Auditiva" style="width: 126px; height: 66px;
+"></div>
+                         Este site é preparado para  pessoas com deficiências  visual e auditiva<br>
+                        <div class="acessibilidade">
+                            <a href="https://www.gov.br/pt-br/apps/vlibras" style="text-decoration: none!important;" tabindex="0" target="_blank"><span>Libras</span></a>
+                            <img class="botao btnFontMais" src="/media/templates/site/cassiopeia/images/rodape/a-1.svg" tabindex="0" alt="Aumentar a letra" >
+                            <img class="botao btnFontMenos" src="/media/templates/site/cassiopeia/images/rodape/a-2.svg" tabindex="0" alt="Diminuir a letra" >
+                            <img class="botao btnDaltonismo" src="/media/templates/site/cassiopeia/images/rodape/a-3.svg" tabindex="0" alt="Contraste" >
+                            <img class="botao btnVoltarNormal" src="/media/templates/site/cassiopeia/images/rodape/a-4.svg" tabindex="0" alt="Voltar ao Normal" >
+
+                            <img class="botao btnTradutor" src="/media/templates/site/cassiopeia/images/rodape/a-5.svg" tabindex="0" alt="Tradutor" >
+                            <div id="barraIdiomasInferior" class="hidemobile" style="display:none; color: #fff; margin-right:9px ; font-size: 10px; ">
+                                <a style="color:#ffffff" href="javascript:trocarIdioma('en')">Inglês</a> /
+                                <a style="color:#ffffff" href="javascript:trocarIdioma('es')">Espanhol</a> /
+                                <a style="color:#ffffff" href="javascript:trocarIdioma('pt')">Português</a>
+                                <br>A tradução não é de responsabilidade do JFPE.                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-9">
+                <div class="row">
+                    <div class="box links h72 c4" style="position: relative; flex-grow: 1">
+                        <div class="titulo_links_footer" style="position: absolute; top: -10px; left: calc(50% - 100px);">Acessos Diretos</div>
+                        <!--<a href="https://www.trf5.jus.br/" target="_blank" style="text-decoration: none!important;"><span class="botao" style="color: #ffffff !important; font-weight: bold;">TRF5&nbsp;&nbsp;</span></a>-->
+						
+
+  <a href="https://www.trf5.jus.br/" target="_blank" rel="noopener" style="text-decoration: none!important;"
+   onclick="document.getElementById('trf5').scrollIntoView({behavior:'smooth'});">
+  <span class="botao" style="color: #ffffff !important; font-weight: bold;padding: 12px;">TRF5</span></a>
+                        <a href="http://www.jfal.jus.br/" target="_blank" title="Justiça Federal de Alagoas" style="text-decoration: none!important;"><span class="botao" style="color: #ffffff !important; font-weight: bold;">JFAL&nbsp;&nbsp;</span></a>
+                        <a href="http://www.jfce.jus.br/" target="_blank" title="Justiça Federal do Ceará" style="text-decoration: none!important;"><span class="botao" style="color: #ffffff !important; font-weight: bold;">JFCE&nbsp;&nbsp;</span></a>
+                        <a href="http://www.jfpb.jus.br/" target="_blank" title="Justiça Federal da Paraíba" style="text-decoration: none!important;"><span class="botao" style="color: #ffffff !important; font-weight: bold;">JFPB&nbsp;&nbsp;</span></a>
+                        <a href="http://www.jfrn.jus.br/" target="_blank" title="Justiça Federal do Rio Grande do Norte" style="text-decoration: none!important;"><span class="botao" style="color: #ffffff !important; font-weight: bold;">JFRN&nbsp;&nbsp;</span></a>
+                        <a href="http://www.jfse.jus.br/" target="_blank" title="Justiça Federal de Sergipe" style="text-decoration: none!important;"><span class="botao" style="color: #ffffff !important; font-weight: bold;">JFSE&nbsp;&nbsp;</span></a>
+                        <div class="clearfix"></div>
+                    </div>
+                    <a class="botao box small links c1" style="font-weigth:bold;font-size:25px;text-decoration: none;width: 270px; flex-grow:1;" target="_blank" href="https://sei.trf5.jus.br/" title="SEI! Sistema Eletrônico de Informações"><img src="/media/templates/site/cassiopeia/images/rodape/sei.svg" alt="SEI! Sistema Eletrônico de Informações" width="60" heigth="60"></a>
+                    <!--<a class="botao box small links c1 white" style="text-decoration: none;" target="_blank" href="https://www4.trf5.jus.br/eventosinternet/">
+                            <div class="icone_small"><img src="/templates/portalTRF5/images/icone_star.svg"></div>
+                            <div>Eventos<br><span class="small">TRF5</span></div>
+                        </a>-->
+                </div>
+                <div class="row">
+                    <a class="botao box small c1 h72 col" style="text-decoration: none!important;" href="/index.php/comissao-de-prevencao-e-enfretamento-do-assedio-moral-e-sexual.html" title="Comissão de Combate ao Assédio Moral e Sexual">
+                        <div class="icone_small"><img src="/media/templates/site/cassiopeia/images/rodape/comissaoprevencaoenfrentamentomoralesexual.svg" alt="Comissão de Combate ao Assédio" style="margin-left:10px;"></div>COMISSÃO DE COMBATE AO ASSÉDIO MORAL E SEXUAL                    </a>
+                    <a class="botao box small c1 h72 col" style="text-decoration: none!important;" href="/index.php/comissao-de-acessibilidade-e-inclusao-da-jfpe.html" title="Comissão de Acessibilidade e Inclusão">
+                        <div class="icone_small"><img src="/media/templates/site/cassiopeia/images/rodape/comissaoacessibilidadeinclusao.svg" alt="Comissão de Acessibilidade e Inclusão" style="margin-left:10px;"></div>COMISSÃO DE ACESSIBILIDADE E INCLUSÃO                    </a>
+                    <a class="botao box small c1 h72 col" style="text-decoration: none!important;"  href="/index.php/comissao-grupo-de-apoio-as-mulheres-vitimas-de-violencia.html" title="Grupo de Apoio as Mulheres vítimas de violência">
+                        <div class="icone_small"><img src="/media/templates/site/cassiopeia/images/rodape/comissaogrupoapoiomulheresvitimasviolencia.svg" alt="Grupo de Apoio as Mulheres vítimas de violência" style="margin-left:10px;"></div>GRUPO DE APOIO ÀS MULHERES VÍTIMAS DE VIOLÊNCIA                    </a>
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
+
+            <a class="botao box small h72  col" style="text-decoration: none!important;" href="/index.php/institucional.html?view=article&id=9:contracheque&catid=66" title="Recursos Humanos">RECURSOS HUMANOS</a>
+            <a class="botao box small h72  col" style="text-decoration: none!important;" href="/index.php/imprensa/index.php?option=com_content&view=article&id=519&catid=531" title="Jornal Mural Diario">JORNAL MURAL DIARIO</a>
+            <a class="botao box small h72  col" style="text-decoration: none!important;" target="_blank" href="/index.php/menu-julia" title="Julia">JULIA</a>
+            <a href="/index.php/menu-lgpd.html" class="botao box small h72 col" style="text-decoration: none!important;" title="Acessar a LGPD - Lei Geral de Proteção de Dados Pessoais">LGPD<br /></a>
+
+        </div>
+        <div class="row">
+            <div class="col" style="padding: 0">
+                <a class="botao box small h41" style="text-decoration: none!important;" href="https://outlook.office365.com/owa/" target="_blank" title="E-mail Outlook Office 365">
+                    <div class="icone_small"><img src="/media/templates/site/cassiopeia/images/rodape/mail.svg" alt="E-mail Outlook Office 365" style="margin-left:10px;"></div>
+                    OUTLOOK OFFICE 365                </a>
+            </div>
+            <div class="col" style="padding: 0">
+                <a class="botao box small h42" style="text-decoration: none!important;" href="https://outlook.cloud.microsoft/mail/" target="_blank" title="E-mail Outlook Webmail">
+                    <div class="icone_small"><img src="/media/templates/site/cassiopeia/images/rodape/mail.svg" alt="E-mail Outlook Webmail" style="margin-left:10px;"></div>
+                    OUTLOOK WEBMAIL                </a>
+            </div>
+			      <div class="col" style="padding: 0">
+                <a class="botao box small h41 white" style="text-decoration: none!important;" href="https://portalbi.trf5.jus.br/portal-bi/" target="_blank" >
+                    <div class="icone_small"><img src="/media/templates/site/cassiopeia/images/rodape/pbi.svg" alt="Portal Business" style="margin-left:10px;"></div>
+                   <span style="color:#5776b0 !important;"> PORTAL BUSINESS INTELIGENCE</span>
+                </a>
+            </div>
+			
+
+        </div>
+
+
+
+
+
+        <div class="row  mt-sm-3">
+            <div class="col-12 mt-sm-3" style=" font-family: 'RobotoLight'">
+                	<ul class="nav nav-pills mb-3 nomeSecoes" id="pills-tab" role="tablist">
+  <li class="nav-item cidade" role="presentation" >
+    <button class="nav-link active" id="pills-Recife-tab" data-bs-toggle="pill"
+      data-bs-target="#pills-Recife" type="button" role="tab"
+      aria-controls="pills-Recife" aria-selected="true" tabindex="0" style="background: none;color: #fff;outline: none;">Recife</button>
+  </li>
+  <li class="nav-item cidade" role="presentation">
+    <button class="nav-link" id="pills-Acorverde-tab" data-bs-toggle="pill"
+      data-bs-target="#pills-Acorverde" type="button" role="tab"
+      aria-controls="pills-Acorverde" aria-selected="true" tabindex="0" style="background: none;color: #fff;outline: none;">Arcoverde</button>
+  </li>
+  <li class="nav-item cidade" role="presentation">
+    <button class="nav-link" id="pills-Cabo-tab" data-bs-toggle="pill"
+      data-bs-target="#pills-Cabo" type="button" role="tab"
+      aria-controls="pills-Cabo" aria-selected="true" tabindex="0" style="background: none;color: #fff;outline: none;">Cabo</button>
+  </li>
+  <li class="nav-item cidade" role="presentation">
+    <button class="nav-link" id="pills-Caruaru-tab" data-bs-toggle="pill"
+      data-bs-target="#pills-Caruaru" type="button" role="tab"
+      aria-controls="pills-disaCaruaru" aria-selected="true" tabindex="0" style="background: none;color: #fff;outline: none;"
+      >Caruaru</button>
+  </li>
+  <li class="nav-item cidade" role="presentation">
+    <button class="nav-link" id="pills-Garanhuns-tab" data-bs-toggle="pill"
+      data-bs-target="#pills-Garanhuns" type="button" role="tab"
+      aria-controls="pills-Garanhuns" aria-selected="true" tabindex="0" style="background: none;color: #fff;outline: none;"
+      >Garanhuns</button>
+  </li>
+  <li class="nav-item cidade" role="presentation">
+    <button class="nav-link" id="pills-Goiana-tab" data-bs-toggle="pill"
+      data-bs-target="#pills-Goiana" type="button" role="tab"
+      aria-controls="pills-Goiana" aria-selected="true" tabindex="0" style="background: none;color: #fff;outline: none;"
+      >Goiana</button>
+  </li>
+  <li class="nav-item cidade" role="presentation">
+    <button class="nav-link" id="pills-Jaboatão-tab" data-bs-toggle="pill"
+      data-bs-target="#pills-Jaboatão" type="button" role="tab"
+      aria-controls="pills-Jaboatão" aria-selected="true" tabindex="0" style="background: none;color: #fff;outline: none;"
+      >Jaboatão</button>
+  </li>
+  <li class="nav-item cidade" role="presentation">
+    <button class="nav-link" id="pills-Ouricuri-tab" data-bs-toggle="pill"
+      data-bs-target="#pills-Ouricuri" type="button" role="tab"
+      aria-controls="pills-Ouricuri" aria-selected="true" tabindex="0" style="background: none;color: #fff;outline: none;"
+      >Ouricuri</button>
+  </li>
+
+  <li class="nav-item cidade" role="presentation">
+    <button class="nav-link" id="pills-Palmares-tab" data-bs-toggle="pill"
+      data-bs-target="#pills-Palmares" type="button" role="tab"
+      aria-controls="pills-Palmares" aria-selected="true" tabindex="0" style="background: none;color: #fff;outline: none;"
+      >Palmares</button>
+  </li>
+  <li class="nav-item cidade" role="presentation">
+    <button class="nav-link" id="pills-Petrolina-tab" data-bs-toggle="pill"
+      data-bs-target="#pills-Petrolina" type="button" role="tab"
+      aria-controls="pills-Petrolina" aria-selected="true" tabindex="0" style="background: none;color: #fff;outline: none;"
+      >Petrolina</button>
+  </li>
+  <li class="nav-item cidade" role="presentation">
+    <button class="nav-link" id="pills-Salgueiro-tab" data-bs-toggle="pill"
+      data-bs-target="#pills-Salgueiro" type="button" role="tab"
+      aria-controls="pills-Salgueiro" aria-selected="true" tabindex="0" style="background: none;color: #fff;outline: none;"
+      >Salgueiro</button>
+  </li>
+  <li class="nav-item cidade" role="presentation">
+    <button class="nav-link" id="pills-Serra-tab" data-bs-toggle="pill"
+      data-bs-target="#pills-Serra" type="button" role="tab"
+      aria-controls="pills-Serra" aria-selected="true" tabindex="0" style="background: none;color: #fff;outline: none;"
+      >Serra</button>
+  </li>
+</ul>
+<div class="tab-content" id="pills-tabContent">
+  <div class="tab-pane fade show active" id="pills-Recife" role="tabpanel"
+    aria-labelledby="pills-Recife-tab" tabindex="0" style="padding: 10px;border-top: 1px solid #fff;margin-left: -13px;padding-left: -1px;"> <div
+      class="row text-white">
+      <div class="col-md-4"> <span style="font-size: 15px;"><a href="https://www.google.com/maps/place/F%C3%B3rum+Min.+Artur+Marinho+%7C+Se%C3%A7%C3%A3o+Judici%C3%A1ria+De+Pernambuco+%7C+TRF5+%7C+Justi%C3%A7a+Federal/@-8.0728497,-34.9380305,17z/data=!3m1!4b1!4m6!3m5!1s0x7ab1eb3986d6f8f:0xfe740788a336c68c!8m2!3d-8.072855!4d-34.9354556!16s%2Fg%2F1tsjdvzl?entry=ttu" target="_blank" tabindex="0" title="Endereço da Seção de Recife" style="color:#fff !important; text-decoration: none;">Av. Recife, 6250 -
+          Fórum Ministro Artur Marinho<i class="fa-solid fa-location-dot" style="margin-left: 5px;"></i></a>
+          <br> Bairro do Jiquiá - Recife - PE
+          <br>CEP: 50865-900 | CNPJ: 05.441.804/0001- 40</span></div>
+      <div class="col-md-8" style="text-align: right;">
+        <span styla="font-size: 15px;">PABX: 81 3213-6000<br> 12:00 às 17:00
+          (Balcão Virtual e Presencial)<br />10:00 às 17:00 (Telefone e Canais
+          de Comunicação)</span>
+      </div>
+    </div>
+    <div class="row text-white"
+      style="border-top: 1px dotted #fff; margin-top: 10px;">
+      <div class="col-md-4" style="padding-top: 10px;">
+        <span styla="font-size: 15px;"> Sede 2<br /><a href="https://www.google.com/maps/place/Justi%C3%A7a+Federal+F%C3%B3rum+Desembargador+Neves+Filho/@-8.1382943,-34.9164332,19z/data=!4m15!1m8!3m7!1s0x7ab1e2f99b8c42b:0x232c64b7e90c4ab8!2sAv.+Mal.+Mascarenhas+de+Morais,+6211+-+Imbiribeira,+Recife+-+PE,+51210-001!3b1!8m2!3d-8.1384071!4d-34.9164359!16s%2Fg%2F11cpkymsdw!3m5!1s0x7ab18b65fd1480b:0xf83d264462e8324c!8m2!3d-8.1384068!4d-34.9170476!16s%2Fg%2F1ygvt04ll?entry=ttu" target="_blank" tabindex="0" title=" Endereço da Sede 2 em Recife" style="color:#fff!important; text-decoration: none;">Av. Mascarenhas de Morais nº
+          6211, Imbiribeira, Recife-PE<i class="fa-solid fa-location-dot" style="margin-left: 5px;"></i></a><br />CEP: 51210-001
+        </span>
+      </div>
+      <div class="col-md-8" style="text-align: right;padding-top: 10px;">
+        <span styla="font-size: 15px;">Telefone: 81 3213-6500/3213-6510 <br>
+          12:00 às 17:00 (Balcão Virtual e Presencial) <br>10:00 às 17:00
+          (Telefone e Canais de Comunicação)<br />09:00 às 14:00 (Atermação -
+          Presencial)<br />09:00 às 16:00 (Atermação - Telefone e Canais de
+          Comunicação)</span>
+      </div>
+    </div>
+  </div>	
+	  <div class="tab-pane fade" id="pills-Acorverde" role="tabpanel"
+    aria-labelledby="pills-Acorverde-tab" tabindex="0" style="padding: 10px;border-top: 1px solid #fff;margin-left: -13px;padding-left: -1px;">  
+	<div
+      class="row text-white">
+      <div class="col-md-4"> <span styla="font-size: 15px;"><a href="https://www.google.com/maps/place/Justi%C3%A7a+Federal+-+Subse%C3%A7%C3%A3o+Judici%C3%A1ria+de+Arcoverde/@-8.4285101,-37.0627279,17z/data=!4m14!1m7!3m6!1s0x7a81bf298004273:0x7b0e5f9b6aab7d07!2sJusti%C3%A7a+Federal+-+Subse%C3%A7%C3%A3o+Judici%C3%A1ria+de+Arcoverde!8m2!3d-8.4285154!4d-37.060153!16s%2Fg%2F11dyzf57tc!3m5!1s0x7a81bf298004273:0x7b0e5f9b6aab7d07!8m2!3d-8.4285154!4d-37.060153!16s%2Fg%2F11dyzf57tc?entry=ttu" target="_blank" tabindex="0" title="Endereço da Seção de Arcoverde" style="color:#fff!important; text-decoration: none;">Rodovia BR 232, s/n
+	  <i class="fa-solid fa-location-dot" style="margin-left: 5px;"></i></a>
+          - Km 258
+          <br>CEP: 56511-000 <br /> Localização: distante 258 Km da capital
+          <br /> Acesso: BR-232</span></div>
+      <div class="col-md-8" style="text-align: right;">
+        <span styla="font-size: 15px;">PABX: 87 3321-1300 <br> E-mail:
+          direcao28@jfpe.jus.br <br>08:00 às 13:00 (Balcão Virtual e
+          Presencial)<br />08:00 às 15:00 (Telefone e Canais de
+          Comunicação)</span>
+      </div>
+    </div>
+	</div>
+  <div class="tab-pane fade" id="pills-Cabo" role="tabpanel"
+    aria-labelledby="pills-Cabo-tab" tabindex="0" style="padding: 10px;border-top: 1px solid #fff;margin-left: -13px;padding-left: -1px;">    <div class="row text-white" style="margin-top: -2px;">
+      <div class="col-md-6">
+          <span style="font-size: 15px;"><a href="https://www.google.com/maps/place/Justi%C3%A7a+Federal+F%C3%B3rum+Desembargador+Neves+Filho/@-8.1382943,-34.9164332,19z/data=!4m15!1m8!3m7!1s0x7ab1e2f99b8c42b:0x232c64b7e90c4ab8!2sAv.+Mal.+Mascarenhas+de+Morais,+6211+-+Imbiribeira,+Recife+-+PE,+51210-001!3b1!8m2!3d-8.1384071!4d-34.9164359!16s%2Fg%2F11cpkymsdw!3m5!1s0x7ab18b65fd1480b:0xf83d264462e8324c!8m2!3d-8.1384068!4d-34.9170476!16s%2Fg%2F1ygvt04ll?entry=ttu" target="_blank" tabindex="0" title="Endereço da Seção do Cabo de Santo Agostinho" style="color:#fff!important; text-decoration: none;">  Av. Mascarenhas de Morais nº 6211, Imbiribeira, Recife-PE
+		    <i class="fa-solid fa-location-dot" style="margin-left: 5px;"></i></a>
+              <br>CEP: 51210-001 </span>
+      </div>
+      <div class="col-md-6" style="text-align: right;">
+          <span style="font-size: 15px;">Telefone: 81 3213-6708 (34ª Vara) - 81 3213-6718 (35ª Vara) - 14:00 às 17:00  <br> E-mail: direcao34@jfpe.jus.br / direcao35@jfpe.jus.br<br/>Atendimento presencial e balcão virtual das secretarias:12:00 às 17:00
+		  <br/>Atendimento presencial de atermação:9:00 às 14:00 <br/>Telefone da Atermação: 81 3213-6700 - 9:00 às 16:00</span>
+      </div>
+  </div>
+  <div class="row text-white" style="border-top: 1px dotted #fff; margin-top: 10px;">
+      <div class="col-md-4" style="padding-top: 10px;">
+          <span style="font-size: 15px;"><a href="https://www.google.com/maps/search/Empresarial+Cabo+Corporate+Center+-+Torre+An%C3%ADbal+Cardoso,+salas+306+e+307+-+Rodovia+PE-60,+Km+03,+Cidade+Garap%C3%BA,+Cabo+de+Santo+Agostinho/@-8.1066162,-35.4996265,10z/data=!3m1!4b1?entry=ttu" target="_blank" title="Endereço da Seção do Cabo de Santo Agostinho" style="color:#fff; text-decoration: none;"> Rodovia PE-60, Km 03, Cidade Garapú, Cabo de Santo Agostinho. Empresarial Cabo Corporate Center, salas 306 e 307, Torre Aníbal Cardoso. 
+		   <i class="fa-solid fa-location-dot" style="margin-left: 5px;"></i></a>
+          </span>
+      </div>
+      <div class="col-md-8" style="text-align: right;padding-top: 10px;">
+          <span style="font-size: 15px;">Telefone: 81 3213-6714 9:00 às 14:00 <br> E-mail: atendimentovara34@jfpe.jus.br / atendimentovara35@jfpe.jus.br <br>Atendimento presencial: 09:00 às 14:00</span>
+      </div>
+  </div></div>
+  <div class="tab-pane fade" id="pills-Caruaru" role="tabpanel"
+    aria-labelledby="pills-Caruaru-tab" tabindex="0" style="padding: 10px;border-top: 1px solid #fff;margin-left: -13px;padding-left: -1px;">    <div class="row text-white">
+      <div class="col-md-6"> <span style="font-size: 15px;"><a href="https://www.google.com/maps/place/Justi%C3%A7a+Federal+Caruaru/@-8.2568417,-35.9686485,18z/data=!4m14!1m7!3m6!1s0x7a9897c8392d387:0xcfb82dd355ef7a9f!2sJusti%C3%A7a+Federal+Caruaru!8m2!3d-8.2569346!4d-35.9673342!16s%2Fg%2F11b6glyw0x!3m5!1s0x7a9897c8392d387:0xcfb82dd355ef7a9f!8m2!3d-8.2569346!4d-35.9673342!16s%2Fg%2F11b6glyw0x?entry=ttu" target="_blank" tabindex="0" title="Endereço da Seção de Caruaru" style="color:#fff!important; text-decoration: none;">Rua Professor Lourival Vilanova, nº 196, <br />Bairro Universitário, Caruaru - PE
+	      <i class="fa-solid fa-location-dot" style="margin-left: 5px;"></i></a>
+              <br>CEP: 55016-745 <br /> Localização: distante 130 Km da capital <br /> Acesso: BR-232<br />Horário de Atendimento: <br/>08:00 às 13:00 (Balcão Virtual e Presencial)<br/> 08:00 às 15:00 (Telefone e Canais de Comunicação)</span></div>
+      <div class="col-md-6" style="text-align: right;">
+          <span style="font-size: 15px;">PABX: 81 3722-8100 <br> E-mail: direcao16@jfpe.jus.br<br>direcao24@jfpe.jus.br<br />direcao31@jfpe.jus.br<br />direcao37@jfpe.jus.br<br />protocolo.caruaru@jfpe.jus.br
+          </span>
+      </div>
+  </div></div>
+  <div class="tab-pane fade" id="pills-Garanhuns" role="tabpanel"
+    aria-labelledby="pills-Garanhuns-tab" tabindex="0" style="padding: 10px;border-top: 1px solid #fff;margin-left: -13px;padding-left: -1px;">   <div class="row text-white">
+      <div class="col-md-4"> <span style="font-size: 15px;"><a href="https://www.google.com/maps/place/Justi%C3%A7a+Federal+-+Garanhuns+-+PE+(23%C2%AA+e+32%C2%AA+Varas)/@-8.8716236,-36.4604009,17z/data=!4m14!1m7!3m6!1s0x7c74c4007cb3401:0x5d3bd5145b8b9617!2sJusti%C3%A7a+Federal+-+Garanhuns+-+PE+(23%C2%AA+e+32%C2%AA+Varas)!8m2!3d-8.8716289!4d-36.457826!16s%2Fg%2F1tdg801r!3m5!1s0x7c74c4007cb3401:0x5d3bd5145b8b9617!8m2!3d-8.8716289!4d-36.457826!16s%2Fg%2F1tdg801r?entry=ttu" target="_blank" tabindex="0" title="Endereço da Seção de Garanhuns" style="color:#fff!important; text-decoration: none;">Rua Vital Brasil, nº 44, Novo Heliópolis,
+	  <br/>Garanhuns-PE <i class="fa-solid fa-location-dot" style="margin-left: 5px;"></i> </a>
+              <br>CEP: 55297-210 <br /> Localização: distante 228 Km da capital <br /> Acesso: PE-117, BR-104, PE-126, BR-101 (via Palmares), BR-423 e BR-232 (via Caruaru) </span></div>
+      <div class="col-md-8" style="text-align: right;">
+          <span style="font-size: 15px;">PABX: 87 3762 8600 <br> E-mail: direcao23@jfpe.jus.br<br>direcao32@jfpe.jus.br
+              <br>08:00 às 13:00 (Balcão Virtual e Presencial)<br/>08:00 às 15:00 (Telefone e Canais de Comunicação)</span>
+      </div>
+  </div></div>
+  <div class="tab-pane fade" id="pills-Goiana" role="tabpanel"
+    aria-labelledby="pills-Goiana-tab" tabindex="0" style="padding: 10px;border-top: 1px solid #fff;margin-left: -13px;padding-left: -1px;">   <div class="row text-white">
+      <div class="col-md-6"> <span style="font-size: 15px;"><a href="https://www.google.com/maps/place/Justi%C3%A7a+Federal+em+Pernambuco/@-7.5604109,-35.0189941,15z/data=!4m7!3m6!1s0x7ab628c292037a1:0x2b60449e1f2548f3!8m2!3d-7.5575149!4d-35.0002205!15sCiBTdWJzZcOnw6NvIEp1ZGljacOhcmlhIGRlIEdvaWFuYVoiIiBzdWJzZcOnw6NvIGp1ZGljacOhcmlhIGRlIGdvaWFuYZIBGWZlZGVyYWxfZ292ZXJubWVudF9vZmZpY2WaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmxaMlpMTUVSQkVBReABAA!16s%2Fg%2F1ptwhrdnp?entry=ttu" target="_blank" tabindex="0" title="Endereço da Seção de Goiana" style="color:#fff!important; text-decoration: none;">Rua Marechal Deodoro da Fonseca, nº 25, Centro, Goiana - PE
+	  <i class="fa-solid fa-location-dot" style="margin-left: 5px;"></i></a>
+              <br>CEP: 55900-000 <br /> Localização: distante 70 km da capital <br /> Acesso: BR-101 </span></div>
+      <div class="col-md-6" style="text-align: right;">
+          <span style="font-size: 15px;">Telefone: 81 3351-2000 / Fax: 81 3351-2000 <br> E-mail: direcao25@jfpe.jus.br<br>
+             08:00 às 13:00 (Balcão Virtual e Presencial)<br/>08:00 às 15:00 (Telefone e Canais de Comunicação)</span>
+      </div>
+  </div></div>
+  <div class="tab-pane fade" id="pills-Jaboatão" role="tabpanel"
+    aria-labelledby="pills-Jaboatão-tab" tabindex="0" style="padding: 10px;border-top: 1px solid #fff;margin-left: -13px;padding-left: -1px;">     <div class="row text-white">
+      <div class="col-md-6"> <span style="font-size: 15px;"> <a href="https://www.google.com/maps/place/Justi%C3%A7a+Federal+F%C3%B3rum+Desembargador+Neves+Filho/@-8.1382943,-34.9164332,19z/data=!4m15!1m8!3m7!1s0x7ab1e2f99b8c42b:0x232c64b7e90c4ab8!2sAv.+Mal.+Mascarenhas+de+Morais,+6211+-+Imbiribeira,+Recife+-+PE,+51210-001!3b1!8m2!3d-8.1384071!4d-34.9164359!16s%2Fg%2F11cpkymsdw!3m5!1s0x7ab18b65fd1480b:0xf83d264462e8324c!8m2!3d-8.1384068!4d-34.9170476!16s%2Fg%2F1ygvt04ll?entry=ttu" target="_blank" tabindex="0" title="Endereço da Seção de Jaboatão dos Gauararapes" style="color:#fff!important; text-decoration: none;">Av. Mascarenhas de Morais nº 6211, Imbiribeira - Recife-PE
+	  	  <i class="fa-solid fa-location-dot" style="margin-left: 5px;"></i></a></br>Recife-PE <br/>CEP: 51210-001
+          </span></div>
+      <div class="col-md-6" style="text-align: right;">
+          <span style="font-size: 15px;">Telefone: 81 3213.6900<br/>E-mail: direcao29@jfpe.jus.br<br>direcao30@jfpe.jus.br<br/> 12:00 às 17:00 (Balcão Virtual e Presencial)<br/>10:00 às 17:00 (Canais de Comunicação)
+<br/>9:00 às 14:00 (Atermação - Presencial)<br/>9:00 às 16:00 (Atermação - Telefone)
+          </span>
+      </div>
+
+  </div></div>
+  <div class="tab-pane fade" id="pills-Ouricuri" role="tabpanel"
+    aria-labelledby="pills-Ouricuri-tab" tabindex="0" style="padding: 10px;border-top: 1px solid #fff;margin-left: -13px;padding-left: -1px;">         <div class="row text-white">
+      <div class="col-md-4"> <span style="font-size: 15px;"> <a href="https://www.google.com/maps/place/Subse%C3%A7%C3%A3o+Judici%C3%A1ria+de+Ouricuri,+27%C2%AAVara+Federal/@-7.8823096,-40.0819558,17z/data=!3m1!4b1!4m6!3m5!1s0x79f8cb506d98499:0x68623d297fa83af7!8m2!3d-7.8823149!4d-40.0793809!16s%2Fg%2F11cssyvw62?entry=ttu" target="_blank" title="Endereço da Seção de Ouricuri" style="color:#fff!important; text-decoration: none;">Praça Gov. Muniz Falcão, 165, Ouricuri - PE
+	  <i class="fa-solid fa-location-dot" style="margin-left: 5px;"></i></a>
+              <br>CEP: 56200-000 <br /> Localização: distante 622 km da capital <br /> Acesso: BR-316 </span></div>
+      <div class="col-md-8" style="text-align: right;">
+          <span style="font-size: 15px;">Telefone: 87 3967-4700 <br> E-mail: direcao27@jfpe.jus.br<br>
+              08:00 às 13:00 (Balcão Virtual e Presencial)<br/>08:00 às 15:00 (Telefone e Canais de Comunicação)</span>
+      </div>
+  </div>
+</div>
+  <div class="tab-pane fade" id="pills-Palmares" role="tabpanel"
+    aria-labelledby="pills-Palmares-tab" tabindex="0" style="padding: 10px;border-top: 1px solid #fff;margin-left: -13px;padding-left: -1px;">   <div class="row text-white">
+      <div class="col-md-4"> <span style="font-size: 15px;"> <a href="https://www.google.com/maps/place/Justi%C3%A7a+Federal+em+Palmares+-+26%C2%AA+Vara+Federal/@-8.6852357,-35.5744054,3a,75y,128.07h,85.76t/data=!3m7!1e1!3m5!1sUBNaDQgSHxwAF1UWj6JJ1A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.239999999999995%26panoid%3DUBNaDQgSHxwAF1UWj6JJ1A%26yaw%3D128.07!7i16384!8i8192!4m18!1m8!3m7!1s0x700a01983d68d29:0x6eac7f4d0e14e03e!2sJusti%C3%A7a+Federal+em+Palmares+-+26%C2%AA+Vara+Federal!8m2!3d-8.6853124!4d-35.5741908!10e5!16s%2Fg%2F11c45sc9km!3m8!1s0x700a01983d68d29:0x6eac7f4d0e14e03e!8m2!3d-8.6853124!4d-35.5741908!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11c45sc9km?entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D" target="_blank" tabindex="0" title="Endereço da Seção de Palmares" style="color:#fff!important; text-decoration: none;">Rua Quilombo dos Palmares, nº 555, Quilombo 1, Palmares–PE
+	  <i class="fa-solid fa-location-dot" style="margin-left: 5px;"></i></a>
+              <br>CEP: 55540-000 <br /> Localização: distante 123 km da capital <br /> Acesso: BR-101 </span></div>
+      <div class="col-md-8" style="text-align: right;">
+          <span style="font-size: 15px;">Telefone: 81 3364-5000 / 81 3213-6000 <br> E-mail: direcao26@jfpe.jus.br<br>
+              08:00 às 13:00 (Balcão Virtual e Presencial)<br/>08:00 às 15:00 (Telefone e Canais de Comunicação)</span>
+      </div>
+  </div></div>
+  <div class="tab-pane fade" id="pills-Petrolina" role="tabpanel"
+    aria-labelledby="pills-Petrolina-tab" tabindex="0" style="padding: 10px;border-top: 1px solid #fff;margin-left: -13px;padding-left: -1px;">  <div class="row text-white">
+      <div class="col-md-4"> <span style="font-size: 15px;"><a href="https://www.google.com/maps/place/Justi%C3%A7a+Federal/@-9.3945809,-40.5002776,17z/data=!3m1!4b1!4m6!3m5!1s0x7737068bfffffff:0xca18e7d1c41f102a!8m2!3d-9.3945862!4d-40.4977027!16s%2Fg%2F1ptvs112j?entry=ttu" target="_blank" title="Endereço da Seção de Petrolina" style="color:#fff!important; text-decoration: none;"> Praça Santos Dumont, Petrolina – PE
+	   <i class="fa-solid fa-location-dot" style="margin-left: 5px;"></i></a>
+              <br>CEP: 56304-200 <br /> Localização: distante 712 km da capital <br /> Acesso: BR-232 e BR-428 </span></div>
+      <div class="col-md-8" style="text-align: right;">
+          <span style="font-size: 15px;">Telefone: 87 3038 2000 <br> E-mail: direcao08@jfpe.jus.br<br>direcao17@jfpe.jus.br<br /> protocolo.petrolina@jfpe.jus.br<br />
+             08:00 às 13:00 (Balcão Virtual e Presencial)<br/>08:00 às 15:00 (Telefone e Canais de Comunicação)</span>
+      </div>
+  </div></div>
+  <div class="tab-pane fade" id="pills-Salgueiro" role="tabpanel"
+    aria-labelledby="pills-Salgueiro-tab" tabindex="0" style="padding: 10px;border-top: 1px solid #fff;margin-left: -13px;padding-left: -1px;">  <div class="row text-white">
+      <div class="col-md-4"> <span style="font-size: 15px;"><a href="https://www.google.com/maps/place/Justi%C3%A7a+Federal+em+Pernambuco+-+20%C2%AA+Vara/@-8.0731666,-41.571579,8z/data=!4m10!1m2!2m1!1sSubse%C3%A7%C3%A3o+Judici%C3%A1ria+de+Salgueiro!3m6!1s0x7a09192c6a8118f:0x432047f6ae7dde15!8m2!3d-8.0730262!4d-39.1324458!15sCiNTdWJzZcOnw6NvIEp1ZGljacOhcmlhIGRlIFNhbGd1ZWlyb1olIiNzdWJzZcOnw6NvIGp1ZGljacOhcmlhIGRlIHNhbGd1ZWlyb5IBF2NvdXJ0X2V4ZWN1dGl2ZV9vZmZpY2VymgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJ0Y2xwTU1URm5SUkFC4AEA!16s%2Fg%2F1pv0tv6kk?entry=ttu" target="_blank" tabindex="0" title="Endereço da Seção de Salgueiro" style="color:#fff!important; text-decoration: none;"> Rua João Veras de Siqueira, s/n, Nossa Senhora Aparecida Salgueiro – PE
+	  <i class="fa-solid fa-location-dot" style="margin-left: 5px;"></i></a>
+              <br>CEP: 56000-000 <br /> Localização: distante 512 Km da capital <br /> Acesso: BR-232 </span></div>
+      <div class="col-md-8" style="text-align: right;">
+          <span style="font-size: 15px;">Telefone: 87 3871-8100 <br> E-mail: direcao20@jfpe.jus.br<br>
+              08:00 às 13:00 (Balcão Virtual e Presencial)<br/>08:00 às 15:00 (Telefone e Canais de Comunicação)</span>
+      </div>
+  </div></div>
+  <div class="tab-pane fade" id="pills-Serra" role="tabpanel"
+    aria-labelledby="pills-Serra-tab" tabindex="0" style="padding: 10px;border-top: 1px solid #fff;margin-left: -13px;padding-left: -1px;"> <div class="row text-white">
+      <div class="col-md-4"> <span style="font-size: 15px;"> <a href="https://www.google.com/maps/place/Justi%C3%A7a+Federal+De+Serra+Talhada/@-7.9942695,-38.2960714,17z/data=!3m1!4b1!4m6!3m5!1s0x7a71640fe615b5f:0x82306270985cfed0!8m2!3d-7.9942748!4d-38.2934965!16s%2Fg%2F11fxvxbr_7?entry=ttu" target="_blank" tabindex="0" title="Endereço da Seção de Serra Talhada" style="color:#fff!important; text-decoration: none;">Rua Vereador Silvino Cordeiro, s/n, AABB, Serra Talhada– PE
+	   <i class="fa-solid fa-location-dot" style="margin-left: 5px;"></i></a>
+              <br>CEP: 56912-110 <br /> Localização: distante 412km da capital <br /> Acesso: BR-232 </span></div>
+      <div class="col-md-8" style="text-align: right;">
+          <span style="font-size: 15px;">Telefone: 87 3831 9701 <br> E-mail: direcao18@jfpe.jus.br<br>direcao38@jfpe.jus.br<br />
+             08:00 às 13:00 (Balcão Virtual e Presencial)<br/> 08:00 às 15:00 (Telefone e Canais de Comunicação)</span>
+      </div>
+  </div></div>
+</div>
+            </div>
+        </div>
+
+
+
+    </div>
+
+    <div class="row container footerlogo mt-sm-3" style="align-items: center; margin: auto">
+    <div class="col">
+        <img src="/media/templates/site/cassiopeia/images/rodape/trf5.svg" alt="Justiça Federal em Pernambuco">
+    <div class="col">
+        <div class="social">
+            <a href="https://twitter.com/JF_PE" target="_blank"  tabindex="0" style="color: #5776b0 !important;">
+                <img src="/media/templates/site/cassiopeia/images/rodape/branco_x.svg" alt="Acesse o Twitter da Justiça Federal em Pernambuco">
+            </a>
+            <a href="https://www.instagram.com/jfpe_oficial/" target="_blank" >
+               <img src="/media/templates/site/cassiopeia/images/rodape/instagram.svg" alt="Acesse o Instagram da Justiça Federal em Pernambuco" style="max-width: 34px">
+            </a>
+
+        </div>
+    </div>
+        <div class="mapadosite" title="Acessar o mapa do Portal da Justiça Federal em Pernambuco" style="margin-left: -415px;margin-top: -4px;">Mapa do Site</div>
+        <div class="mapadosite_conteudo">
+          <div class="fecha_mapa">
+              <img src="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/images/fecha_mapa.png" tabindex="0" alt="Fecha Mapa" style="width: 65px;height: 33px;">
+          </div>
+          <div class="box">Mapa do site</div>
+          <div class="superior">
+              <ul>
+                  <a href="/index.php/index.php/institucional.html" tabindex="0" title="INSTITUCIONAL">
+                      <li class="titulo" tabindex="0">INSTITUCIONAL</li>
+                  </a>
+                  <a href="/index.php/menu-biblioteca.html" tabindex="0" title="Biblioteca" class="textoMenu">
+                      <li tabindex="0">Biblioteca</li>
+                  </a>
+                  <a href="https://autogestao.trf5.jus.br/" target="_blank" tabindex="0" >
+                      <li tabindex="0">AutoGestão em Saúde</li>
+                  </a>
+                  <a href="/index.php/institucional.html?view=article&id=10:direcaodoforoturmasrecursis&catid=65" tabindex="0" title="Direção do Foto e Turmas Recursais">
+                      <li tabindex="0">Direção do Foto e Turmas Recursais</li>
+                  </a>
+                  <a href="/index.php/institucional.html?view=article&id=29:composicaovaras&catid=85" tabindex="0" title="Composição das Varas">
+                      <li tabindex="0">Composição das Varas</li>
+                  </a>
+                  <a href="/index.php/institucional.html?view=article&id=11:conpetenciadasvaras&catid=68" tabindex="0" title="Competência das Varas">
+                      <li tabindex="0">Competência das Varas</li>
+                  </a>
+                 <a href="/index.php/institucional.html?view=article&id=12:jurisdicaodasvaras&catid=69" tabindex="0" title="Jurisdição das Varas">
+                      <li tabindex="0">Jurisdição das Varas</li>
+                  </a>
+                  <a href="/index.php/institucional.html?view=article&id=13:turmasrecursaisjefs&catid=70" tabindex="0"  target="_blank" title="Turmas Recursais dos JEFs">
+                      <li tabindex="0">Turmas Recursais dos JEFs</li>
+                  </a>
+                  <a href="/index.php/institucional.html?view=article&id=9:contracheque&catid=66" tabindex="0" title="Contracheque">
+                      <li tabindex="0">Contracheque</li>
+                  </a>
+                  <a href="https://espacomemoria.jfpe.jus.br/" target="_blank" tabindex="0" >
+                      <li tabindex="0">Espaço Memória</li>
+                  </a>
+                  <a href="/index.php/institucional.html?view=article&id=38:secaosubsecao&catid=95" tabindex="0" title="Seção e Subseção">
+                      <li tabindex="0">Seção e Subseção</li>
+                  </a>
+                  <a href="/index.php/institucional.html?view=article&id=4:meta2ranking1grau&catid=63" tabindex="0" title="Meta 2 - Ranking 1ª Grau">
+                      <li tabindex="0">Meta 2 - Ranking 1ª Grau</li>
+                  </a>
+                  <a href="https://www.cnj.jus.br/pesquisas-judiciarias/justica-em-numeros/" tabindex="0" >
+                      <li tabindex="0">Diversos</li>
+                  </a>
+        <a href="https://www.jfpe.jus.br/pid/" target="_blank" tabindex="0" >
+                      <li tabindex="0">Ponto de Inclusão(PID)</li>
+                  </a>
+        <a href="/index.php/cooperacao-judiciaria.html" tabindex="0" title="Cooperação Judiciária">
+                      <li tabindex="0">Cooperação Judiciária</li>
+                  </a>
+              </ul>
+              <ul style="margin-right:10px;">
+                  <a href="/index.php/portal-dos-servicos-publicos3" tabindex="0">
+                      <li class="titulo" tabindex="0">PROCESSOS</li>
+                  </a>
+                  <a href="/index.php/processos.html?view=article&id=501&catid=514" target="_self" tabindex="0" title="istemas Processuais da JFPE">
+                      <li tabindex="0">Sistemas Processuais da JFPE</li>
+                  </a>
+                  <a href="/index.php/processos.html?view=article&id=207&catid=264" target="_self" tabindex="0" title="Consulta Processo">
+                      <li tabindex="0">Consulta Processo</li>
+                  </a>
+                  <a href="/index.php/processos.html?view=article&id=505&catid=518" target="_self" tabindex="0" title="Matérias Sobrestadas TR's/PE">
+                      <li tabindex="0">Matérias Sobrestadas TR's/PE</li>
+                  </a>
+                  <a href="/index.php/processos.html?view=article&id=506&catid=519" target="_self" tabindex="0" title="Editais de Eliminação">
+                      <li tabindex="0">Editais de Eliminação</li>
+                  </a>
+                  <a href="/index.php/processos.html/index.php?option=com_content&view=article&id=208&catid=265" target="_self" tabindex="0" title="Cálculo de Custas">
+                      <li tabindex="0">Cálculo de Custas</li>
+                  </a>
+                  <a href="/index.php/processos/index.php?option=com_content&view=article&id=221&catid=277" tabindex="0" title="Jurisprudência de TR">
+                      <li tabindex="0">Jurisprudência de TR</li>
+                  </a>
+                  <a href="/index.php/processos/index.php?option=com_content&view=article&id=514&catid=514" target="_self" tabindex="0" title="Sistema de Numeração de Processos">
+                      <li tabindex="0">Sistema de Numeração de Processos</li>
+                  </a>
+                  <a href="/index.php/processos.html?view=article&id=513&catid=525" title="Número de Processo Guia de Depósito">
+                      <li tabindex="0">Número de Processo Guia de Depósito</li>
+                  </a>
+                  <a href="/index.php/processos.html/index.php?option=com_content&view=article&id=515&catid=527" target="_self" tabindex="0" title="Audiência Pública - Resíduos Sólidos">
+                      <li tabindex="0">Audiência Pública - Resíduos Sólidos</li>
+                  </a>
+              </ul>
+              <ul>
+                  <li class="titulo">PUBLICAÇÕES</li>
+                  <a href="/index.php/publicacoes.html?view=article&id=14:informacoesvarsfederais&catid=2" tabindex="0" title="Informações das Varas Federais">
+                      <li tabindex="0">Informações das Varas Federais</li>
+                  </a>
+                  <a href="https://revista.jfpe.jus.br/index.php/RJSJPE/index" target="_blank" tabindex="0" >
+                      <li tabindex="0">Revista Jurídica JFPE</li>
+                  </a>
+                  <a href="/index.php/publicacoes.html?view=article&id=518:nucleodeconciliacao&catid=530" target="_self" tabindex="0" title="Núcleo de Conciliação">
+                      <li tabindex="0">Núcleo de Conciliação</li>
+                  </a>
+              </ul>
+             <ul>
+                  <li class="titulo">IMPRENSA</li>
+                  <a href="/index.php/imprensa.html?view=article&id=529:todasasnoticias&catid=541" tabindex="0" title="Notícias">
+                      <li tabindex="0">Notícias</li>
+                  </a>
+                  <a href="/index.php/imprensa/index.php?option=com_content&view=article&id=519&catid=531" target="_blank" tabindex="0" title="Justiça Informa">
+                      <li tabindex="0">Justiça Informa</li>
+                  </a>
+                  <a href="/ndex.php/imprensa.html/index.php?option=com_content&view=article&id=528&catid=540" target="_self" tabindex="0" title="Fale com a Comunicação">
+                      <li tabindex="0">Fale com a Comunicação</li>
+                  </a>
+                  <a href="https://x.com/JF_PE" target="_blank" tabindex="0" >
+                      <li tabindex="0">Twitter JFPE</li>
+                  </a>
+                  <a href="https://www.instagram.com/jfpe_oficial/" target="_blank" tabindex="0" >
+                      <li tabindex="0">Instagram JFPE</li>
+                  </a>
+                  <a href="https://www.trf5.jus.br/" target="_blank" tabindex="0" >
+                      <li tabindex="0">Notícias do TRF5ª</li>
+                  </a>
+                <a href="https://www.cnj.jus.br/" target="_blank" tabindex="0" >
+                      <li tabindex="0">Notícias do CNJ</li>
+                  </a>
+                <a href="https://www.cjf.jus.br/cjf/" target="_blank" tabindex="0" >
+                      <li tabindex="0">Notícias do CJF</li>
+                  </a>
+              </ul>
+              <ul>
+                  <a href="/index.php/portal-transparencia" tabindex="0">
+                      <li class="titulo">TRANSPARÊNCIA</li>
+                  </a>
+                  <a href="https://www.trf5.jus.br/index.php/portal-transparencia" tabindex="0" target="_blank" >
+                      <li tabindex="0">Transparência</li>
+                  </a>
+                  <a href="/index.php/transparencia.html?view=article&id=198:licitacoes&catid=255" tabindex="0" title="Licitações">
+                      <li tabindex="0">Licitações</li>
+                  </a>
+                  <a href="/index.php/transparencia.html?view=article&id=274:contratoslicitacoes&catid=318" tabindex="0" title="Contratos / Aditivos">
+                      <li tabindex="0">Contratos / Aditivos</li>
+                  </a>
+                  <a href="/index.php/menu-servicos-publicos.html?view=article&id=222:menuleiloes&catid=278" tabindex="0" title="Leilões">
+                      <li tabindex="0">Leilões</li>
+                  </a>
+                  <a href="/index.php/transparencia.html?view=article&id=261:acoesconcretizacaolai&catid=315" tabindex="0" title="Ações Concretização da LAI">
+                      <li tabindex="0">Ações Concretização da LAI</li>
+                  </a>
+                  <a href="/index.php/transparencia.html?view=article&id=262:auditoriaInterna&catid=316" tabindex="0" title="Auditoria Interna">
+                      <li tabindex="0">Auditoria Interna</li>
+                  </a>
+                  <a href="/index.php/transparencia.html?view=article&id=263:transparenciaprestacaocontas&catid=317" tabindex="0" title="Transparência e Prestação de Contas">
+                      <li tabindex="0">Transparência e Prestação de Contas</li>
+                  </a>
+                  <a href="/index.php/transparencia.html?view=article&id=279:menugovernancagestaoestrategia&catid=319" tabindex="0" title="Governança e Gestão Estratégia">
+                      <li tabindex="0">Governança e Gestão Estratégia</li>
+                  </a>
+                  <a href="/index.php/transparencia.html?view=article&id=306:servidoresemteletrabalho&catid=324" tabindex="0" title="Servidores em Teletrabalho">
+                      <li tabindex="0">Servidores em Teletrabalho</li>
+                  </a>
+				    <a href="/index.php/transparencia.html?view=article&id=307:planoanualcontratacoes&catid=325" tabindex="0" title="Plano Anual de Contratações">
+                      <li tabindex="0">Plano Anual de Contratações</li>
+                  </a>
+				    <a href="/index.php/transparencia.html?view=article&id=308:orientacoesTCUAcordao&catid=326" tabindex="0" title="Orientações TCU Acórdão">
+                      <li tabindex="0">Orientações TCU Acórdão</li>
+                  </a>
+              </ul>
+              <ul>
+                      <li class="titulo">LGPD</li>            
+          <a href="/index.php/lgpd.html?view=article&id=464:sobrelgpd&catid=478" tabindex="0" title="Sobre LGPD">
+                      <li tabindex="0">Sobre LGPD</li>
+                  </a>
+          <a href="/index.php/lgpd.html?view=article&id=465:requisitostratamentolegitimodados&catid=479" tabindex="0" title="Requisitos para o Tratamento legítimo">
+                      <li tabindex="0">Requisitos para o Tratamento legítimo</li>
+                  </a>
+          <a href="/index.php/lgpd.html?view=article&id=466:obrigacoescontroladores&catid=480" tabindex="0" title="Obrigações dos Cotroladores">
+                      <li tabindex="0">Obrigações dos Cotroladores</li>
+                  </a>
+          <a href="/index.php/lgpd.html?view=article&id=467:direitostitular&catid=481" tabindex="0" title="Direito do Titular">
+                      <li tabindex="0">Direito do Titular</li>
+                  </a>
+          <a href="/index.php/lgpd.html?view=article&id=468:encarregados&catid=482" tabindex="0" title="Encarregado">
+                      <li tabindex="0">Encarregado</li>
+                  </a>
+          <a href="/index.php/lgpd.html?view=article&id=469:legislacaorelacionada&catid=483" tabindex="0" title="Legislação Relacionada">
+                      <li tabindex="0">Legislação Relacionada</li>
+                  </a>
+          <a href="/index.php/lgpd.html?view=article&id=467:direitostitular&catid=481" tabindex="0" title="Canal do Titular do Dado">
+                      <li tabindex="0">Canal do Titular do Dado</li>
+                  </a>
+        </a>
+          <a href="/index.php/lgpd.html?view=article&id=470:politicaprotecaodadospessoais&catid=484" tabindex="0" title="Política de Proteção de Dados Pessoais">
+                      <li tabindex="0">Política de Proteção de Dados Pessoais</li>
+                  </a>
+                  </ul>
+         <ul class="mapaTurmaRecursais" style="margin-top: -291px;">
+                  <li class="titulo">TURMAS RECURSAIS</li>
+                  <a href="/index.php/turmas-recursais.html?view=article&id=453:1turmarecursal&catid=468" tabindex="0" title="1ª Turma Recursal">
+                      <li tabindex="0">1ª Turma Recursal</li>
+                  </a>
+                  <a href="/index.php/turmas-recursais.html?view=article&id=455:2turmarecursal&catid=470" tabindex="0" title="2ª Turma Recursal">
+                      <li tabindex="0">2ª Turma Recursal</li>
+                  </a>
+                  <a href="/index.php/turmas-recursais.html?view=article&id=457:3turmarecursal&catid=472&idUnidade=3" tabindex="0" title="3ª Turma Recursal">
+                      <li tabindex="0">3ª Turma Recursal</li>
+                  </a>
+              </ul>
+             <ul class="mapaCartasServico" style="margin-top: -191px;">
+                  <li class="titulo">CARTAS DE SERVIÇOS</li>
+                  <a href="/index.php/carta-de-servicos.html"  tabindex="0"title="Carta de Serviço">
+                      <li tabindex="0">Carta de Serviço</li>
+                  </a>
+         
+              </ul>
+         <ul class="mapaAcessibilidade" style="margin-top: -125px;">
+                  <li class="titulo">ACESSIBILIDADE E INCLUSÃO</li>
+                  <a href="/index.php/acessibilidade-e-inclusao.html" tabindex="0" title="Acessibilidade e Inclusão">
+                      <li tabindex="0">Cartilha Direito à Inclusão</li>
+                  </a>
+         
+              </ul>
+                   <ul class="mapaConcursos" style="margin-top: -24px;">
+                  <li class="titulo">CONCURSOS E SELEÇÕES</li>
+                  <a href="/index.php/concursos-e-selecoes.html/index.php?option=com_content&view=article&id=475&catid=506" tabindex="0" title="Concurso para Estagiários">
+                      <li tabindex="0">Concurso para Estagiários</li>
+                  </a>
+                  <a href="/index.php/concursos-e-selecoes.html/index.php?option=com_content&view=article&id=476&catid=506" tabindex="0" title="Concursos Servidores">
+                      <li tabindex="0">Concursos Servidores</li>
+                  </a>
+				       <a href="/index.php/concursos-e-selecoes.html/index.php?option=com_content&view=article&id=477&catid=506" tabindex="0" title="Concurso para Residência Judicial">
+                      <li tabindex="0">Concurso para Residência Judicial</li>
+                  </a>
+                  <a href="/index.php/concursos-e-selecoes.html/index.php?option=com_content&view=article&id=478&catid=506" tabindex="0" title="Concurso de Seleção para Conciliadores">
+                      <li tabindex="0">Concurso de Seleção para Conciliadores</li>
+                  </a>
+				      <a href="/index.php/concursos-e-selecoes.html/index.php?option=com_content&view=article&id=479&catid=506" tabindex="0" title="eleção de Prestador de Serviço Voluntário (PSV)">
+                      <li tabindex="0">Seleção de Prestador de Serviço Voluntário (PSV)</li>
+                  </a>
+              </ul>
+              <div class="clearfix"></div>
+          </div>
+      </div>
+    </div>
+					
+</div>
+</div>
+
+
+
+ 
+
+<!-- Modal Gerenciamento Cookies -->
+<div class="box-cookies hide">
+            <div class="lgpd-info">
+                <div class="msg-cookies">
+                    <p>Utilizamos cookies e tecnologias semelhantes e, ao continuar navegando, você concorda com estas condições.</p>
+                </div>
+                <div class="btn-cookies">
+                    <button type="button" id="btnConfigurations">Configurações</button>
+                    <button type="button" id="btnAcceptCookiesEssenciais">Aceitar Essenciais</button>
+                    <button type="button" id="btnAcceptCookies">Permitir Todos</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="btnCookiesSettings" style="position: fixed; overflow: hidden; bottom: 1rem; z-index: 9999999; ">
+            <button type="button" class="btn btn-info" data-bs-toggle="modal" data-bs-target="#exampleModalCenter" style="white-space: nowrap;" title="Gerenciar Cookies">🍪 Gerenciar Cookies</button>
+        </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">Gerenciamento de Cookies</h5>
+        <button
+          type="button"
+          class="btn-close"
+          data-bs-dismiss="modal"
+          aria-label="Close"
+        ></button>
+      </div>
+      <div class="modal-body">
+        <form id="formCookies">
+          <div class="accordion">
+            <div class="accordion-item" style="border: 1px solid #ccc;background-color: #fff !important;">
+              <div class="accordion-header" id="accordionExample">
+                <div class="row">
+                    <div class="col-9">	     <h5 class="mb-0 flex-grow-1">
+                        <button class="btn btn-link"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#collapseOne"
+                                aria-expanded="true"
+                                aria-controls="collapseOne" style="background-color: #fff;">
+                                                Cookies Essenciais
+                                              </button>
+                    </h5></div>
+                    <div class="col-3">		   <div class="cookiesEssencias"
+                        style="margin-top: 10px;/*! width: 44rem; */font-size: 15px; background-color: #fff;">Sempre Ativo</div></div>
+                </div>
+              </div>
+              <div
+                id="collapseOne"
+                class="accordion-collapse collapse show"
+                data-bs-parent="#accordionExample"
+              >
+                <div class="accordion-body" style="background-color: #fff !important;color: #000 !important;">
+                    Os cookies necessários ajudam a tornar um site utilizável, permitindo funções básicas como navegação e acesso a áreas seguras do site. O site não pode funcionar corretamente sem esses cookies.
+                </div>
+              </div>
+            </div>
+
+            <div class="accordion-item" style="border: 1px solid #ccc;background-color: #fff !important;">
+              <div class="accordion-header" id="accordionExample2" style="height: 42px;">
+                <div class="row">
+                    <div class="col-10"><h5 lass="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="padding: 7px; margin-left: 10px;">
+                          Cookies de Desempenho
+                        </button>
+                      </h5></div>
+                    <div class="col-2"><label class="switch" for="desempenhoCookie">
+                        <input type="checkbox" id="desempenhoCookie" name="desempenhoCookie" value="_ga;_gid;_gat">
+                        <div class="slider round">
+                          <span style="opacity: 0">Desempenho</span>
+                        </div>
+                      </label></div>
+                </div>
+              </div>
+              <div
+                id="collapseTwo"
+                class="accordion-collapse collapse"
+                data-bs-parent="#accordionExample"
+              >
+                <div class="accordion-body" style="background-color: #fff !important;color: #000 !important;">
+                    Os cookies de desempenho são utilizados para entender e analisar os índices de desempenho do principal elemento do site, auxiliando na identificação de problemas técnicos. Eles também são utilizados para criar novas funcionalidades e melhorar a experiência de navegação do usuário. Esses cookies permitem contar as visitas e fontes de tráfego, para que possamos medir e melhorar o desempenho do nosso site. Eles nos ajudam a saber quais páginas são as mais e menos populares e ver como os visitantes se movimentam pelo site. Todas as informações que esses cookies coletam são agregadas e, portanto, anônimas. Se você não permitir esses cookies, não saberemos quando você visitou nosso site e não poderemos monitorar seu desempenho.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item"style="border: 1px solid #ccc;background-color: #fff !important;">
+                <div class="accordion-header" id="accordionExample3" style="height: 42px;">
+
+                <div class="row">
+                    <div class="col-10">  	<h5>
+                        <button class="btn btn-link collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#collapseThree"
+                                aria-expanded="false"
+                                aria-controls="collapseThree" style="padding: 7px; margin-left: 10px;">Outros</button>
+                    </h5></div>
+                    <div class="col-2">   
+                        <label class="switch"
+                               for="outrosCookie">
+                            <input type="checkbox"
+                                   id="outrosCookie"
+                                   name="outrosCookie"
+                                   value="NID;_ga_R55DNGGL90;a743531b687c3a6e66b9161fa9e106ef;trf501f89bc9;trf512c50b9f027;50dbe68c4155694712f2447097fd36f4">
+                                <div class="slider round">
+                                    <span style="opacity: 0;">Outros</span>
+                                </div>
+                        </label></div>
+                </div>
+            
+                </div>
+                <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample3">
+                    <div class="accordion-body" style="background-color: #fff !important;color: #000 !important;">
+                        Outros são cookies que não pertencem a nenhuma outra categoria ou estão em processo de categorização.
+                    </div>
+                  </div>
+            </div>
+          </div>
+		   <div class="modal-footer">
+				<button id="rejeitarCookiesBtn" type="button" class="btn btn-secondary" data-bs-dismiss="modal" style="color: #fff !important;background-color: #636c72e8 !important;border-color: #636c72e8 !important;">
+					Rejeitar Cookies
+				</button>
+				<button type="submit" class="btn btn-primary btnConfirmarCookies" >Confirmar</button>
+		   </div>
+        </form>
+      </div>
+     
+    </div>
+  </div>
+</div>
+<!-- Fim Gerenciamento Cookies -->
+
+ 	
+<div vw class="enabled">
+    <div vw-access-button class="active"></div>
+    <div vw-plugin-wrapper>
+      <div class="vw-plugin-top-wrapper"></div>
+    </div>
+</div> 
+
+
+<div id="myModal" class="modalJFPE" style="display: none;"><span id="closeModal" class="closeJFPE">×</span> <img class="modal-contentJFPE" id="img" alt="Image" style="margin-top: 91px;" />
+<div id="caption"></div>
+</div>
+
+<div class="modal" id="exampleModal" tabindex="-1">
+  <div class="modal-dialog modal-dialog-scrollable modal-xl">
+    <div class="modal-content">
+      <!--<div class="modal-header">
+        <h5 class="modal-title">Leonardo Vilar | Servidor</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>-->
+      <div class="modal-body" style="background-color: #dde2ee;">
+      </div>
+      <div class="modal-footer" style="background-color: #dde2ee;">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+ <div id="myModalBiblioteca" class="modalLivro" style="display: none;"><span id="closeModalBiblioteca" class="closeLivro">×</span> <div class="modal-contentLivro" id="conteudoLivro"></div>
+</div>
+
+<script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+<script>
+    new window.VLibras.Widget('https://vlibras.gov.br/app');
+</script>
+
+<!--<script src="https://code.jquery.com/jquery-4.0.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-migrate@4.0.2/dist/jquery-migrate.js"></script>-->
+
+<script src="/media/templates/site/cassiopeia/js/owl.carousel.min.js"></script>
+<script src="/media/templates/site/cassiopeia/js/jquery.mask.min.js"></script>
+<script src="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/js/moment.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<!--<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>-->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/DataTables/datatables.min.js"></script>
+<script src="/media/templates/site/cassiopeia/js/jquery.mask.min.js"></script>
+<script src="/media/templates/site/cassiopeia/js/buscaProcessual.js"></script>
+<script src="/media/templates/site/cassiopeia/js/buscaGeral.js"></script>
+<script src="/media/templates/site/cassiopeia/js/pesquisaGeral.js"></script>
+<script src="/media/templates/site/cassiopeia/js/pesquisaProcessual.js"></script>
+<script src="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/js/acessibilidade.js"></script>
+<script src="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/js/custom-JFPE.js"></script>
+<script src="/media/templates/site/cassiopeia_jfpepaginaprincipal_secundarias_jfpe/js/custom.js"></script>
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+ 
+  <!---IA Nisia--->
+<main>
+    <div id="botao-chama-chat" style="position: fixed; right: 20px; bottom: 20px;" onclick="openChatWhatsapp()">
+        <img height="90px" style="border-radius: 50px;" alt="Ícone do chatbot" src="/media/templates/site/cassiopeia_jfpepaginaprincipal/images/avatar-nisia.jpg" />
+    </div>
+
+    <div id="botao-chama-chat-dialogo" style="position: fixed; right: 88px; bottom: 88px;" onclick="openChatWhatsapp()">
+        <span>Fale com Nísia!</span>
+    </div>
+</main>
+
+<script>
+
+window.openChatWhatsapp = function () {
+    window.open("https://api.whatsapp.com/send?phone=558134259990", "_blank");
+};
+</script>
+     <noscript>Seu navegador não suporta JavaScript!</noscript>
+</body>
+
+</html>

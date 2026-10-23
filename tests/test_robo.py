@@ -154,8 +154,8 @@ class Robo(unittest.TestCase):
         self.assertEqual(cob["tribunais"]["TJSP"]["status"], "verificado")
         self.assertEqual(cob["tribunais"]["TJSP"]["anos"]["2026"]["locais"], 2)
         self.assertEqual(cob["tribunais"]["STF"]["status"], "sem_motor")
-        self.assertEqual(cob["tribunais"]["TJGO"]["status"], "incompativel")
-        self.assertIn("cálculo simplificado", cob["tribunais"]["TJGO"]["observacao"])
+        self.assertEqual(cob["tribunais"]["TJES"]["status"], "incompativel")
+        self.assertIn("cálculo simplificado", cob["tribunais"]["TJES"]["observacao"])
         self.assertEqual(len(cob["tribunais"]), 64)
 
     def test_conteudo_igual_nao_reescreve_o_arquivo(self):

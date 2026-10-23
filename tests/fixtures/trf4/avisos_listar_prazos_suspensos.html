@@ -1,0 +1,959 @@
+<!DOCTYPE html>
+<html lang="pt-br" >
+<head >
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<meta name="viewport" content="width=device-width initial-scale=1.0"><title>:: Portal da Justiça Federal da 4ª Região ::</title>
+
+<link href="css/fontes/Lato.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<link href="css/fontes/NotoMono.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<link href="/infra_css/infra-tooltip.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<link href="/infra_js/calendario/v1/infra-calendario.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<link href="css/infra-local.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<link href="css/mobile/infra-local.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<link href="css/infra-ajax.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<link href="css/alto-contraste.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<link href="css/aviso.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<link href="css/mobile/aviso.css?v3-3.3.2-2026-D2" rel="stylesheet" type="text/css" media="all"/>
+<style type="text/css" >
+<!--/*--><![CDATA[/*><!--*/
+/*]]>*/-->
+</style>
+
+<script type="text/javascript">var INFRA_PATH_CSS="/infra_css",INFRA_PATH_IMAGENS="/infra_css/imagens",INFRA_PATH_JS="/infra_js",INFRA_PATH_SVG="/infra_css/svg",INFRA_LUPA_TIPO_JANELA=1,INFRA_BARRA_TIPO_JANELA=1,INFRA_TIPO_ALERTA=1;</script>
+<script type="text/javascript" charset="utf-8" src="/infra_js/jquery/jquery-3.7.0.min.js?3.7.0"></script>
+<script type="text/javascript" charset="utf-8" src="/infra_js/jquery/jquery-ui-1.13.2/jquery-ui.min.js?1.13.2"></script>
+<script type="text/javascript" charset="utf-8" src="/infra_js/multiple-select/multiple-select.min.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="utf-8" src="/infra_js/ddslick/jquery.ddslick.min.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="utf-8" src="/infra_js/modal/jquery.modalLink-1.0.0.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraPagina.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraMenu.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraAcaoMenu.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraBotaoMenu.js?v3-3.3.2-2026-D2"></script>    
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraUtil.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraCookie.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraUpload.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraTabelaDinamica.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraLupas.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraSelectEditavel.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraAjax.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraTooltip.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/calendario/v1/InfraCalendario.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/arvore/InfraArvore.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/maskedpwd/MaskedPassword.min.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="/infra_js/InfraUtilPaginaPortal4R.js?1860536538\"></script>
+
+
+<script type="text/javascript" charset="iso-8859-1" >
+<!--//--><![CDATA[//><!--
+
+var PREFIXO_CAMINHO = '';
+
+//--><!]]>
+</script>
+<script type="text/javascript" charset="iso-8859-1" src="infra/ValidacaoAcompanhamento.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="iso-8859-1" src="includes/infra-local.js?v3-3.3.2-2026-D2"></script>
+<script type="text/javascript" charset="utf-8" src="includes/rybena.js?positionPlayer=right&positionBar=right"></script>
+
+<script type="text/javascript" charset="iso-8859-1" >
+<!--//--><![CDATA[//><!--
+
+
+//--><!]]>
+</script>
+</head>
+
+<body  onload="inicializar();">
+<noscript><div id="divSemJavascript">O processamento de javascript foi desativado, ou seu navegador não dá suporte a este recurso. Algumas funções do portal podem ser prejudicadas.</div></noscript><div id="divAreaGlobal">
+<section>
+  <header>
+  <div id="divAreaGlobalTopo" >
+<div id="divBarraAcessibilidade">
+    <ul><!--
+      --><li><a id="AItemBarraAcessibilidade1" href="#divAreaGlobalConteudo" accesskey="1">Ir para o conteúdo <span class="Invertido">1</span></a></li><!--
+      --><li><a id="AItemBarraAcessibilidade2" href="controlador.php?acao=acessibilidade" accesskey="2">Informações Acessibilidade <span class="Invertido">2</span></a></li><!--
+      --><li><a id="AItemBarraAcessibilidade3" tabindex="0" accesskey="3">Alto Contraste <span class="Invertido">3</span></a></li><!--
+    --></ul>
+  </div>
+  </div>
+  </header>
+
+<div id="divAreaBannerTribunal">
+<div id="divAreaGlobalPesquisa" role="search">
+    <div id="divMarcaJF"><h1><a href="https://www.trf4.jus.br/trf4/"><span class="LeitorDeTela">Portal Unificado da Justiça Federal da 4ª Região</span></a></h1></div>
+
+      <div id="divBuscaPortal">
+        <h2>o que você procura?</h2>
+        <form id="frmBuscaPortal" name="frmBuscaPortal" action="controlador.php?acao=pesquisar_portal" method="post" class="formulario">
+        <fieldset><legend>Busca no Portal TRF4</legend>
+          <label id="lblBuscaPortal" for="txtBuscaPortal" class="LeitorDeTela">Expressão de busca</label>
+          <input type="text" id="txtBuscaPortal" role="searchbox" name="q" /><input id="sbmBuscaPortal" type="submit" class="botao" value="Buscar no Portal" />
+          <input type="hidden" name="hdnIdMenu" id="hdnIdMenu" />
+          <input id="partialfields" name="partialfields" type="hidden" value="" />
+        </fieldset>
+        </form>
+      </div>
+
+</div>
+</div>
+
+<div id="divAreaBannerMobile">
+  <h1><a href="https://www.trf4.jus.br/trf4/"><span class="LeitorDeTela">Portal Unificado da Justiça Federal da 4ª Região</span>
+    <div id="divMarcaMobile"></div>
+    <div id="divOrgaosMobile">TRF4 | JFRS | JFSC | JFPR</div>
+  </a></h1>
+</div>
+<div id="divBordaInferior"></div>
+<div id="divContainerPopup"></div>
+  <div id="divAreaBreadcrumbs" role="region" aria-label="Posição atual no site">  </div>
+
+  <div id="divInfraAreaGlobal"></div>
+  <div id="divAreaGlobalConteudo" role="main">
+
+
+<div class="infraAreaGlobal" id="divInfraAreaGlobal"><div class="conteudo" id="divConteudo"><span class="tituloPagina"></span><br /><br />  <div id="divAreaAvisos"><h2>avisos da 4ª região</h2><ul class="Orgaos">
+    <li>
+      <h3>TRF4</h3>
+      <ul class="AvisosOrgao">
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4553">
+          <div class="DataCartolaAviso">21/10/2026 | PRAZOS</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Prazos foram suspensos por interrupção temporária do acesso externo aos sistemas da Justiça Federal da 4ª Região</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4551">
+          <div class="DataCartolaAviso">20/10/2026 | Gerais</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Fórum Interinstitucional Previdenciário Regional</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4549">
+          <div class="DataCartolaAviso">19/10/2026 | SISTCON</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">7ª Encontro do Diálogos em Mediação</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4537">
+          <div class="DataCartolaAviso">28/09/2026 | PRAZOS</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">TRF4 suspende prazos no 1º e 2º Graus no RS nesta segunda-feira (28/09)</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4532">
+          <div class="DataCartolaAviso">23/09/2026 | Sistcon</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">6ª Encontro do Diálogos em Mediação será realizado em  30/09</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4530">
+          <div class="DataCartolaAviso">22/09/2026 | PRAZOS PR</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">TRF4 suspende prazos no 1º e 2º Graus no PR nesta terça-feira (22/09)</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4526">
+          <div class="DataCartolaAviso">21/09/2026 | PRAZOS RS</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">TRF4 suspende prazos no 1º e 2º Graus no RS na segunda-feira (21/09) e na terça-feira (22/09)</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4519">
+          <div class="DataCartolaAviso">11/09/2026 | Sistcon</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">17ª Reunião do Fórum Regional Interinstitucional Ambiental</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4510">
+          <div class="DataCartolaAviso">04/09/2026 | Sistcon</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">14ª reunião do Fórum Interinstitucional do Direito à Saúde</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4493">
+          <div class="DataCartolaAviso">13/08/2026 | COJEF</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">35º FIPrev acontece dia 11/09</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4468">
+          <div class="DataCartolaAviso">01/07/2026 | PGF Negocia</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">PGF Negocia amplia enfoque para regularização de débitos junto ao IBAMA</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4458">
+          <div class="DataCartolaAviso">23/06/2026 | Gerais</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Eliminação do 76º Lote de Precatórios findos do TRF3</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4457">
+          <div class="DataCartolaAviso">23/06/2026 | Gerais</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Eliminação do 75º Lote de Precatórios findos do TRF3</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4455">
+          <div class="DataCartolaAviso">18/06/2026 | PRAZOS</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Prazos suspensos em 17/06 no TRF4</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4452">
+          <div class="DataCartolaAviso">16/06/2026 | Gerais</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Edital de eliminação nº 8</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4430">
+          <div class="DataCartolaAviso">26/05/2026 | Gerais</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Convite para Audiência Pública</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4425">
+          <div class="DataCartolaAviso">22/05/2026 | Gerais</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">34º Fórum Regional Interinstitucional Previdenciário - FIPrev</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4417">
+          <div class="DataCartolaAviso">14/05/2026 | SISTCON</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">16ª Reunião do Fórum Regional Interinstitucional Ambiental</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4390">
+          <div class="DataCartolaAviso">16/04/2026 | Gerais</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">CNJ divulga edital de transação por adesão</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4379">
+          <div class="DataCartolaAviso">30/03/2026 | expediente</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Feriado do Dia do Servidor Público</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4372">
+          <div class="DataCartolaAviso">16/03/2026 | PRAZOS</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Aviso aos usuários do sistema de Justiça: suspensão de prazos</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4305">
+          <div class="DataCartolaAviso">27/11/2025 | Gerais</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Eliminação de documentos e processos administrativos</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4283">
+          <div class="DataCartolaAviso">11/11/2025 | Reconstrói Rio Bonito do Iguaçu</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Reconstrói Rio Bonito do Iguaçu</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4266">
+          <div class="DataCartolaAviso">17/10/2025 | Dia do Servidor Público</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Não haverá expediente no dia 31/10</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4235">
+          <div class="DataCartolaAviso">11/09/2025 | segurança</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">CNJ comunica uso obrigatório de Fator de Autenticação nos sistemas jus.br</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4207">
+          <div class="DataCartolaAviso">13/08/2025 | SAÚDE</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Alteração de Competência</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4167">
+          <div class="DataCartolaAviso">01/07/2025 | ELIMINAÇÃO</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Edital de Eliminação do TRF4</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4059">
+          <div class="DataCartolaAviso">21/02/2025 | DESTINAÇÃO DE BENS E RECURSOS</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Cadastramento de Entidades para fins de destinação de bens e recursos (matéria cível)</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4048">
+          <div class="DataCartolaAviso">05/02/2025 | SESSÕES VIRTUAIS</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">As sessões virtuais estão em processo de adequação à Resolução CNJ nº 591/2024, pelo prazo de 180 dias, a contar do dia 03-02-2025.</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4042">
+          <div class="DataCartolaAviso">21/01/2025 | Eproc</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Saiba mais: eproc ainda não está integrado ao Diário de Justiça Eletrônico Nacional (DJEN)</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3949">
+          <div class="DataCartolaAviso">19/08/2024 | PIX</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Depósito judicial e QR Code por meio de PIX</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3827">
+          <div class="DataCartolaAviso">02/05/2024 | AMICUS CURIAE</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Incidente de Arguição de Inconstitucionalidade</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=2189">
+          <div class="DataCartolaAviso">08/04/2022 | EPROC</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Regulamentação do eproc no âmbito da 4ª Região</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=2175">
+          <div class="DataCartolaAviso">21/02/2022 | LGPD</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Lei Geral de Proteção de Dados Pessoais</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=2109">
+          <div class="DataCartolaAviso">23/08/2021 | COMPETÊNCIA</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Competência Delegada</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=1991">
+          <div class="DataCartolaAviso">01/01/2021 | ALERTA</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Alerta sobre e-mails falsos em nome do TRF da 4ª Região</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=1964">
+          <div class="DataCartolaAviso">01/01/2021 | CORTE ESPECIAL</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Incidente de Arguição de Inconstitucionalidade/Concurso de Remoção/Habilitação de amicus curiae</div>
+        </a></li>
+        <li class="Aviso Outros"><a href="controlador.php?acao=aviso_visualizar&id_aviso=1841">
+          <div class="DataCartolaAviso">01/01/2021 | COMPETÊNCIA</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Comarcas com Competência Federal Delegada</div>
+        </a></li>
+        <li class="Aviso Outros"><a href="controlador.php?acao=aviso_visualizar&id_aviso=1377">
+          <div class="DataCartolaAviso">01/01/2021 | CONSULTA IRDR</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Incidentes de Resolução de Demandas Repetitivas</div>
+        </a></li>
+      </ul>
+    </li>
+    <li>
+      <h3>JFRS</h3>
+      <ul class="AvisosOrgao">
+        <li class="Aviso JFRS"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4546">
+          <div class="DataCartolaAviso">15/10/2026 | Palmeira das Missões</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">JF Palmeira: telefones inoperantes</div>
+        </a></li>
+        <li class="Aviso JFRS"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4542">
+          <div class="DataCartolaAviso">01/10/2026 | NOVA PRATA</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Atividades suspensas na UAA de Nova Prata</div>
+        </a></li>
+        <li class="Aviso JFRS"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4490">
+          <div class="DataCartolaAviso">18/10/2026 | Atendimento e prazos</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">UAA Frederico Westphalen: suspensão de prazos e atendimento</div>
+        </a></li>
+        <li class="Aviso JFRS"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3957">
+          <div class="DataCartolaAviso">01/03/2026 | Gestão Documental</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Editais e listagens de documentos administrativos e autos a serem eliminados na JFRS</div>
+        </a></li>
+        <li class="Aviso JFRS"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3951">
+          <div class="DataCartolaAviso">01/03/2026 | Atendimento ao Público</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Horário de atendimento e canais de contatos da JFRS</div>
+        </a></li>
+      </ul>
+    </li>
+    <li>
+      <h3>JFSC</h3>
+      <ul class="AvisosOrgao">
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4529">
+          <div class="DataCartolaAviso">22/09/2026 | Informações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Manutenção no datacenter</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4520">
+          <div class="DataCartolaAviso">11/09/2026 | PRAZOS</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Suspensão de prazos na Subseção Judiciária de Chapecó</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4515">
+          <div class="DataCartolaAviso">11/09/2026</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Portaria de recomendação de teletrabalho em 11/9</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4496">
+          <div class="DataCartolaAviso">18/08/2026 | Importante</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Indisponibilidade do eproc da JFSC em 23/8</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4494">
+          <div class="DataCartolaAviso">14/08/2026 | Informações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">35º FIPrev acontece dia 11/09</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4403">
+          <div class="DataCartolaAviso">08/05/2026 | Ferramenta</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Calculadora de valor da causa para ações de medicamentos</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4386">
+          <div class="DataCartolaAviso">08/04/2026 | Importante</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Portaria 274/2026 – Suspensão de prazos processuais em 8 de abril na JFSC</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4374">
+          <div class="DataCartolaAviso">17/03/2026 | Importante</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Instabilidade dos serviços de telefonia fixa em Chapecó e Rio do Sul</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4373">
+          <div class="DataCartolaAviso">17/03/2026 | Importante</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Instabilidade dos serviços de telefonia fixa em Brusque</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4355">
+          <div class="DataCartolaAviso">10/02/2026 | Importante</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Indisponibilidade do sistema de telefonia em Criciúma</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4354">
+          <div class="DataCartolaAviso">10/02/2026 | Importante</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Indisponibilidade do sistema de telefonia em Rio do Sul</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4331">
+          <div class="DataCartolaAviso">16/12/2025 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Instabilidade no eproc - suspensão de prazos em 16/12</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4321">
+          <div class="DataCartolaAviso">09/12/2025 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Portaria 1007/2025 - recomendação de teletrabalho em 9/12</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4312">
+          <div class="DataCartolaAviso">02/12/2025 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Indisponibilidade do eproc - suspensão de prazos em 02/12 na JFSC</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4311">
+          <div class="DataCartolaAviso">01/12/2025 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Indisponibilidade do eproc - suspensão de prazos em 01/12 na JFSC</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4310">
+          <div class="DataCartolaAviso">01/12/2025 | EPROC SC</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Acesso ao eproc SC está normalizado</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4308">
+          <div class="DataCartolaAviso">01/12/2025 | Importante</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Aviso de indisponibilidade do eproc</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4299">
+          <div class="DataCartolaAviso">25/11/2025 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª Vara Federal de Chapecó - edital de convocação de entidades para destinação de recursos</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4282">
+          <div class="DataCartolaAviso">11/11/2025 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Lista Geral Definitiva de Qualificação de Jurados da Subseção Judiciária de Joinville</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4279">
+          <div class="DataCartolaAviso">04/11/2025 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Chapecó - destinação de recursos para segurança pública</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4274">
+          <div class="DataCartolaAviso">27/10/2025 | Informações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Nova versão do Sistema AJG/JF estará disponível a partir de 3/11</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4257">
+          <div class="DataCartolaAviso">09/10/2025 | publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Edital definitivo de jurados da Subseção Judiciária de Joinville</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4256">
+          <div class="DataCartolaAviso">08/10/2025 | telefonia</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Indisponibilidade dos serviços de telefonia fixa em Jaraguá do Sul</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4233">
+          <div class="DataCartolaAviso">10/09/2025 | Importante</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Indisponibilidade dos serviços de telefonia fixa em Brusque, Caçador e Joaçaba</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4227">
+          <div class="DataCartolaAviso">03/09/2025 | Importante</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Instabilidade dos serviços de telefonia fixa em Florianópolis</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4226">
+          <div class="DataCartolaAviso">01/09/2025 | Importante</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Indisponibilidade dos serviços de telefonia fixa em Blumenau, Concórdia e Joaçaba</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4223">
+          <div class="DataCartolaAviso">28/08/2025 | Importante</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Indisponibilidade do serviço de telefonia fixa em Florianópolis</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4175">
+          <div class="DataCartolaAviso">04/07/2025 | Importante</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Indisponibilidade do sistema de telefonia em Jaraguá do Sul</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4169">
+          <div class="DataCartolaAviso">02/07/2025 | Importante</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Indisponibilidade do serviço de telefonia em Joinville</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4168">
+          <div class="DataCartolaAviso">01/07/2025 | Importante</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Indisponibilidade do serviço de telefonia fixa em Criciúma</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4165">
+          <div class="DataCartolaAviso">26/06/2025 | Importante</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Indisponibilidade dos serviços digitais da JFSC em 28 e 29 de junho</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4158">
+          <div class="DataCartolaAviso">16/06/2025 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">7ª VF de Florianópolis - edital para destinação de recursos às entidades assistenciais</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4119">
+          <div class="DataCartolaAviso">19/05/2025 | Atendimento e prazos</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Semana de Inspeção Ordinária (19 a 23/5)</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4104">
+          <div class="DataCartolaAviso">14/04/2025 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Justiça Federal de Chapecó destina R$ 816.234,01 para projetos assistenciais</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4095">
+          <div class="DataCartolaAviso">01/04/2025</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª Vara Federal de Chapecó - edital de apresentação de projetos pelas forças policiais</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4092">
+          <div class="DataCartolaAviso">31/03/2025 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Telefonia indisponível em Criciúma</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4072">
+          <div class="DataCartolaAviso">11/03/2025 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Indisponibilidade do sistema de telefonia em Florianópolis</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4065">
+          <div class="DataCartolaAviso">27/02/2025 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Itajaí - abertura de prazo para recebimento de pedidos de destinação de valores</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4041">
+          <div class="DataCartolaAviso">17/01/2025 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Portaria 51/2025 - teletrabalho integral em Florianópolis em 17/01</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4040">
+          <div class="DataCartolaAviso">16/01/2025</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Recomendação de teletrabalho em Florianópolis em 17/01</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4039">
+          <div class="DataCartolaAviso">16/01/2025 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Recomendação de teletrabalho em Florianópolis</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4013">
+          <div class="DataCartolaAviso">09/12/2024 | Telefonia</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Contatos das Varas Federais de Blumenau</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4506">
+          <div class="DataCartolaAviso">31/08/2026 | Atenção</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Portaria de recomendação de teletrabalho em 31/8</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4499">
+          <div class="DataCartolaAviso">20/08/2026 | Conciliação</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">5ª Encontro do Diálogos em Mediação em dia 26-08-2026</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4011">
+          <div class="DataCartolaAviso">25/11/2024 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Edital definitivo de jurados da Subseção Judiciária de Joinville</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4006">
+          <div class="DataCartolaAviso">21/11/2024 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Portaria 949/2024 – suspensão integral de prazos processuais no dia 21 de novembro de 2024 no âmbito da JFSC</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3986">
+          <div class="DataCartolaAviso">11/10/2024 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª Vara Federal de Joinville - lista definitiva de jurados</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3973">
+          <div class="DataCartolaAviso">23/09/2024 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Regime de teletrabalho em São Miguel do Oeste em 23/9/2024</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3945">
+          <div class="DataCartolaAviso">09/08/2024 | caixa</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Novos números de telefone da Caixa/PAB da Justiça Federal de Florianópolis</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3944">
+          <div class="DataCartolaAviso">09/08/2024 | telefonia</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Subseção Judiciária de Caçador está com telefones inoperantes</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3933">
+          <div class="DataCartolaAviso">01/08/2024 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">7ª VF de Florianópolis - edital para destinação de recursos às entidades assistenciais</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3876">
+          <div class="DataCartolaAviso">17/06/2024 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Suspensão de prazos em função da instabilidade do Eproc</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3818">
+          <div class="DataCartolaAviso">29/04/2024 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Chapecó - destinação de recursos</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3815">
+          <div class="DataCartolaAviso">15/04/2024</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Recomendação de teletrabalho em Florianópolis</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3810">
+          <div class="DataCartolaAviso">10/04/2024 | Contatos</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Núcleo de Justiça 4.0 - Benefícios por Incapacidade - Contatos da JFSC</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3793">
+          <div class="DataCartolaAviso">15/03/2024 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Funcionamento da UAA de São Bento do Sul até 08/04</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3788">
+          <div class="DataCartolaAviso">27/02/2024 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Sede da UAA de São Bento do Sul fechada para reformas</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3743">
+          <div class="DataCartolaAviso">19/12/2023</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Mudança de endereço em Joaçaba</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3729">
+          <div class="DataCartolaAviso">14/11/2023</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Chapecó - destinação de recursos</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3728">
+          <div class="DataCartolaAviso">14/11/2023 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Joinville - edital definitivo de jurados para 2023</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3723">
+          <div class="DataCartolaAviso">10/11/2023 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Decisão e petição dos processos sobre os beach clubs de Jurerê</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3708">
+          <div class="DataCartolaAviso">13/10/2023 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Portaria de suspensão de prazos em 13/10/2023</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3707">
+          <div class="DataCartolaAviso">11/10/2023 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Joaçaba - Edital de Eliminação de Documentos Administrativos</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3706">
+          <div class="DataCartolaAviso">11/10/2023 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Joinville - lista provisória de qualificação de jurados para 2024</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3703">
+          <div class="DataCartolaAviso">11/10/2023 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Resolução CNJ n. 106/2010, dispondo sobre ação afirmativa de gênero, para acesso das magistradas aos tribunais de 2º grau</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3700">
+          <div class="DataCartolaAviso">06/10/2023 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Portaria de recomendação de teletrabalho em 06/10/2023</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3699">
+          <div class="DataCartolaAviso">04/10/2023 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Portaria de recomendação de teletrabalho em 04/10/2023</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3697">
+          <div class="DataCartolaAviso">29/09/2023 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">7ª VF de Florianópolis - edital para destinação de recursos às entidades assistenciais</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3690">
+          <div class="DataCartolaAviso">25/09/2023 | Publicações</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Justiça Federal em Joinville - Eliminação de Autos Findos</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3654">
+          <div class="DataCartolaAviso">12/07/2023</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Portaria 871/2023: recomendação de teletrabalho em 12/08/2023</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3594">
+          <div class="DataCartolaAviso">25/04/2023 | Joinville</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Subseção Judiciária de Joinville - Edital de Eliminação</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3583">
+          <div class="DataCartolaAviso">29/03/2023</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Portaria 457/2023</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3582">
+          <div class="DataCartolaAviso">28/03/2023</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Rio do Sul - edital de leilão e intimação</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3575">
+          <div class="DataCartolaAviso">16/03/2023 | Joaçaba</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Edital e relação de processos judiciais findos de Joaçaba</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3485">
+          <div class="DataCartolaAviso">17/11/2022</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Campanha dos 21 dias de Ativismo pela Equidade no Combate à Violência contra as Mulheres</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3481">
+          <div class="DataCartolaAviso">01/11/2022</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">REINTEGRAÇÃO / MANUTENÇÃO DE POSSE Nº 5031790-27.2022.4.04.7200 - Edital</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3475">
+          <div class="DataCartolaAviso">26/10/2022</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Nota de pesar e condolências</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3469">
+          <div class="DataCartolaAviso">20/10/2022</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Rio do Sul - edital de leilão 2</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3468">
+          <div class="DataCartolaAviso">20/10/2022</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Rio do Sul - edital de leilão 1</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3467">
+          <div class="DataCartolaAviso">20/10/2022</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Horário de funcionamento durante a Copa do Mundo</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3466">
+          <div class="DataCartolaAviso">20/10/2022</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Adiamento do feriado do Dia do Servidor Público</div>
+        </a></li>
+        <li class="Aviso JFSC"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3458">
+          <div class="DataCartolaAviso">10/10/2022</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Joinville - edital provisório de jurados para 2023</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3445">
+          <div class="DataCartolaAviso">16/09/2022</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1º Encontro de Justiça Restaurativa da JF da 4ª Região</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3444">
+          <div class="DataCartolaAviso">12/09/2022</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Rio do Sul - edital de leilão 2</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3443">
+          <div class="DataCartolaAviso">12/09/2022</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Rio do Sul - edital de leilão 1</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3441">
+          <div class="DataCartolaAviso">12/09/2022</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Concórdia - edital de leilão</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3437">
+          <div class="DataCartolaAviso">01/09/2022</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Chapecó - destinação de recursos 3</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3436">
+          <div class="DataCartolaAviso">01/09/2022</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Chapecó - destinação de recursos 2</div>
+        </a></li>
+        <li class="Aviso Gerais"><a href="controlador.php?acao=aviso_visualizar&id_aviso=3435">
+          <div class="DataCartolaAviso">01/09/2022</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">1ª VF de Chapecó - destinação de recursos</div>
+        </a></li>
+      </ul>
+    </li>
+    <li>
+      <h3>JFPR</h3>
+      <ul class="AvisosOrgao">
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4535">
+          <div class="DataCartolaAviso">23/09/2026 | Painéis online</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">6º Encontro do Diálogos em Mediação será dia 30 de setembro</div>
+        </a></li>
+        <li class="Aviso Emergencia"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4528">
+          <div class="DataCartolaAviso">22/09/2026 | Atenção</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Justiça Federal de Apucarana é fechada e prazos suspensos por conta de temporais</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4518">
+          <div class="DataCartolaAviso">11/09/2026 | ALERTA VERMELHO</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Suspensão do expediente de trabalho na Subseção Judiciária de Guarapuava</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4498">
+          <div class="DataCartolaAviso">20/08/2026 | Sistema de Conciliação</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Sistcon promove 5º Encontro do Diálogos em Mediação</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4488">
+          <div class="DataCartolaAviso">07/08/2026</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Feriado do Dia do Advogado</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4485">
+          <div class="DataCartolaAviso">03/08/2026 | Migração</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Cronograma de manutenção evolutiva do sistema eproc</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4472">
+          <div class="DataCartolaAviso">03/07/2026 | ATENDIMENTO AO PÚBLICO</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">UAA de Wenceslau Braz fechada de 8 a 10 de julho</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4462">
+          <div class="DataCartolaAviso">25/06/2026 | Copa do Mundo</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">JFPR terá mudança no horário do expediente no dia 29 de junho</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4446">
+          <div class="DataCartolaAviso">10/06/2026 | Copa do Mundo</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Funcionamento da Seção Judiciária do Paraná no dia 24 de junho de 2026</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4438">
+          <div class="DataCartolaAviso">03/06/2026 | Reunião aberta</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Audiência pública sobre proibição do abate de vacas prenhes no Brasil</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4420">
+          <div class="DataCartolaAviso">15/05/2026 | Normativa</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Inspeção Ordinária Anual de 18 a 22 de maio de 2026 na Seção Judiciária do Paraná</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4412">
+          <div class="DataCartolaAviso">13/05/2026 | Reparos</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Restaurada a comunicação com internet e sistemas na Sede XV de Novembro da Subseção Judiciária de Maringá</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4405">
+          <div class="DataCartolaAviso">08/05/2026 | Consulta</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Repositório Nacional de Mulheres Juristas para igualdade de gênero no Poder Judiciário</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4346">
+          <div class="DataCartolaAviso">30/01/2026 | Concurso público 2025</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Reagendamento da heteroidentificação para cargo de Enfermagem </div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4342">
+          <div class="DataCartolaAviso">28/01/2026 | Recesso</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Funcionamento da Justiça Federal do Paraná no carnaval</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4341">
+          <div class="DataCartolaAviso">22/01/2026 | Conexão</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Sistema informatizado da Subseção Judiciária de Paranaguá está normalizado</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4337">
+          <div class="DataCartolaAviso">09/01/2026 | Processos eletrônicos</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Prazos processuais estão suspensos em toda a SJPR</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4336">
+          <div class="DataCartolaAviso">09/01/2026 | Tramitação de processos</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Sistema eproc da SJPR é restabelecido</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4271">
+          <div class="DataCartolaAviso">24/10/2025 | Novas funcionalidades</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Nova versão do Sistema AJG/JF estará disponível a partir de 3/11</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4410">
+          <div class="DataCartolaAviso">13/05/2026 | Sem comunicação</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Indisponibilidade de links de dados na Sede XV de Novembro da SJ de Maringá</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4322">
+          <div class="DataCartolaAviso">04/12/2025 | Problemas técnicos</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Suspensão de prazos processuais de 4/12 na JF4</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4298">
+          <div class="DataCartolaAviso">13/11/2025</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Suspensão de prazos processuais na SJ de Paranavaí</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4264">
+          <div class="DataCartolaAviso">16/10/2025 | ATENDIMENTO AO PÚBLICO</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Por questões técnicas, 1.ª Vara Federal de Guaíra atende por telefone de plantão</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4255">
+          <div class="DataCartolaAviso">07/10/2025 | Manutenção</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">Suspensão do atendimento presencial ao público externo em Telêmaco Borba no dia 9/10</div>
+        </a></li>
+        <li class="Aviso JFPR"><a href="controlador.php?acao=aviso_visualizar&id_aviso=4213">
+          <div class="DataCartolaAviso">14/08/2025 | Fórum</div>
+          <div class="IconeAviso"></div>
+          <div class="TituloAviso">14ª  Reunião do  Fórum Regional Interinstitucional do Direito à Moradia</div>
+        </a></li>
+      </ul>
+    </li>
+  </ul></div>
+</div><!--divConteudo--></div><!--divInfraAreaGlobal--><div class="colunaDireita" id="divColunaDireita"></div><!--divColunaDireita-->
+
+  </div>
+
+  <div id="divAreaGlobalRodape">
+    <footer>
+      <div id="divMenuRodape"><ul><!--
+        --><li><a href="controlador.php?acao=principal#divAcessoRapido" >Acesso Rápido</a></li><!--
+        --><li><a href="controlador.php?acao=agendamento_atendimento_gabinete_enviar" >Atendimento Virtual dos Gabinetes</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=266" >Audiências e Sessões</a></li><!--
+        --><li><a href="controlador.php?acao=principal#divAreaAvisos" >Avisos</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=260" >Balcão Virtual</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=247" >Dúvidas Frequentes</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=264" target="_blank">eproc</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=250" >Institucional</a></li><!--
+      --></ul><!--
+      --><ul><!--        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=322" >Intranet</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_visualizar&id_pagina=2136" >LGPD</a></li><!--
+        --><li><a href="controlador.php?acao=noticia_portal" >Notícias da 4ª Região</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=253" >Ouvidoria</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=265" >Plantões</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_visualizar&id_pagina=2062" >Sei - Usuários Externos</a></li><!--
+        --><li><a href="controlador.php?acao=pagina_menu_listar&id_pai=262" >Endereços e Telefones</a></li><!--
+      --></ul></div><!--
+      --><div id="divMarcaRodape">
+      Portal Unificado da Justiça Federal da 4ª Região
+      </div>
+    </footer>
+    <div id="divBarraFinal"></div>  </div>
+
+</section>
+</div>
+<div id="divAreaImpressao" class="Oculto"></div>
+<div id="divDetalhesPoliticaPrivacidade"><div id="divContainerPoliticaPrivacidade"><div id="divTextoAvisoPrivacidade">Este Portal utiliza a tecnologia de <i>cookies</i> para melhorar sua experiência de navegação.<br /> Para maiores informações, acesse nossa <a href="controlador.php?acao=pagina_visualizar&id_pagina=2200">página de Política de Privacidade</a>.</div><div id="divBotaoAvisoPrivacidade"><input type="button" id="btnAceitoPoliticaPrivacidade" value="Aceito" onclick="marcarAvisoPoliticaPrivacidadeAceito();" /> </div></div></div></body>
+</html>
