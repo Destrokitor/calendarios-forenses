@@ -1,0 +1,17 @@
+name: sonda-de-dominios
+# Manual. Mede, a partir do GitHub, quais sites de tribunal respondem ao robô.
+on: workflow_dispatch
+jobs:
+  sonda:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/sondar_dominios.py > sonda.json
+      - run: python -c "import json;[print(r['sigla'],r['status'],r['seg'],r.get('erro','')) for r in json.load(open('sonda.json'))]"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sonda
+          path: sonda.json
