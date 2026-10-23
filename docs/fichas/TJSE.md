@@ -18,4 +18,4 @@
   - Run 39987095421: `ROBOTS-NEGA https://www.tjse.jus.br/portal/`
   - Run 39987095421: `ERRO URLError <urlopen error timed out> https://agencia.tjse.jus.br/noticias/item/16541-tiradentes-ponto-facultativo-e-feriado`
 - **Cobertura:** se liberado: parcial (pontos facultativos dependem de portarias avulsas em notícias, hospedadas em host que deu timeout).
-- **Categoria: incompativel** (robots.txt negado pelo robô; agencia.tjse.jus.br timeout na nuvem).
+- **Categoria: pronto_para_motor** (o `incompativel` anterior veio de um erro do nosso leitor de robots.txt, já corrigido em `robo/robots.py`, RFC 9309). Evidência do teste de nuvem de 24/10: `OK 200 262991 application/pdf` em https://www.tjse.jus.br/portal/arquivos/documentos/publicacoes/calendarios/calendario-tjse-2026.pdf.
