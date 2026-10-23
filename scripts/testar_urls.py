@@ -19,8 +19,12 @@ def main(urls) -> None:
     c = Cliente()
     for url in urls:
         inicio = time.monotonic()
-        if not c._permitido(url):
-            print("ROBOTS-NEGA", url)
+        try:
+            if not c._permitido(url):
+                print("ROBOTS-NEGA", url)
+                continue
+        except Exception as e:  # robots.txt fora do ar: registra e segue para a próxima URL
+            print("ROBOTS-INDISPONIVEL", str(e)[:80], url)
             continue
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
         try:
