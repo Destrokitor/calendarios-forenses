@@ -143,7 +143,12 @@ class TestTRT12(unittest.TestCase):
     def test_texto_do_pdf_bate_com_a_fixture_txt(self) -> None:
         if not shutil.which("pdftotext"):
             self.skipTest("pdftotext não instalado")
-        self.assertEqual(trt12.pdf_para_texto(_ler(PDF)), self.texto)
+        # O espaçamento do `pdftotext -layout` muda entre versões do poppler (o Mac e o
+        # GitHub têm versões diferentes), então compara o conteúdo sem os espaços.
+        def sem_espacos(texto: str) -> str:
+            return " ".join(texto.split())
+
+        self.assertEqual(sem_espacos(trt12.pdf_para_texto(_ler(PDF))), sem_espacos(self.texto))
 
 
 if __name__ == "__main__":

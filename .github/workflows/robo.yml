@@ -26,8 +26,6 @@ jobs:
           python-version: "3.12"
       - name: Instalar leitor de PDF
         run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
-      - name: Testes
-        run: python -W error -m unittest discover -s tests
       - name: Rodar os motores (grupo geral)
         run: python -m robo.executar --grupo geral
         continue-on-error: true   # a falha de um motor não impede o vigia de avisar
@@ -51,3 +49,6 @@ jobs:
         continue-on-error: true
       - name: Vigia (falha = e-mail do GitHub)
         run: python -m robo.vigia
+      - name: Testes
+        # Por último de propósito: um teste quebrado avisa por e-mail, mas não impede a coleta.
+        run: python -W error -m unittest discover -s tests
