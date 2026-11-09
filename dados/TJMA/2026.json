@@ -1,0 +1,132 @@
+{
+ "tribunal": "TJMA",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:07:08Z",
+ "fontes": [
+  {
+   "id": "resolucao",
+   "url": "https://novogerenciador.tjma.jus.br/storage/arquivos/resolucoes_2025/resolucao_gp_n_131_de_4_de_novembro_de_2025_05_11_2025_17_12_45.pdf",
+   "descricao": "Resolução-GP nº 131, de 04/11/2025 (DJe de 06/11/2025): dias sem expediente em 2026"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Confraternização Universal",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-02-16",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval - Feriado Forense",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval - Feriado Forense",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-04-02",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa - Feriado Forense",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa - Paixão de Cristo - Feriado Forense",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Trabalhador",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-06-04",
+   "tipo": "sem_expediente",
+   "motivo": "Corpus Christi",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-07-28",
+   "tipo": "sem_expediente",
+   "motivo": "Adesão do Maranhão à Independência do Brasil",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-08-11",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do advogado",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "Independência do Brasil",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "Nossa Sra. Aparecida",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-10-28",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Servidor Público",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Finados",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "Dia Nacional de Zumbi e da Consciência Negra",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Justiça",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "sem_expediente",
+   "motivo": "Natal",
+   "fonte": "resolucao"
+  }
+ ],
+ "locais": {
+  "SÃO LUÍS": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "São Pedro (feriado municipal de São Luís)",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de São Luís (feriado municipal de São Luís)",
+    "fonte": "resolucao"
+   }
+  ]
+ }
+}

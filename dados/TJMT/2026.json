@@ -1,0 +1,1428 @@
+{
+ "tribunal": "TJMT",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:07:20Z",
+ "fontes": [
+  {
+   "id": "portaria",
+   "url": "https://cms.tjmt.jus.br/Download.aspx?arquivo=%2Fintranet.arq%2Fcms%2Fgrupopaginas%2F100%2F820%2FPortaria_1915-2025-PRES_-_Calend%C3%A1rio_Forense_2026.pdf",
+   "descricao": "Portaria TJMT/PRES nº 1915/2025: Anexo I (calendário geral) e Anexo II (feriados por comarca)"
+  },
+  {
+   "id": "indice",
+   "url": "https://www.tjmt.jus.br/paginas/transparencia-e-prestacao-contas?url=%2FInstitucional%2FC%2F82478",
+   "descricao": "Índice 'Calendário Judiciário 2026' do TJMT, com as alterações da portaria"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "sem_expediente",
+   "motivo": "Confraternização universal (feriado nacional)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-02-16",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval (ponto facultativo)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval (ponto facultativo)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-02-18",
+   "tipo": "parcial",
+   "motivo": "Cinzas (expediente a partir das 13h - Portaria 338/2023-PRES)",
+   "fonte": "portaria",
+   "horario": "expediente a partir das 13h"
+  },
+  {
+   "data": "2026-04-02",
+   "tipo": "sem_expediente",
+   "motivo": "Paixão de Cristo (ponto facultativo)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "Paixão de Cristo (feriado nacional)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-20",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes (ponto facultativo)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes (feriado nacional)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Trabalho (feriado nacional)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-06-04",
+   "tipo": "sem_expediente",
+   "motivo": "Corpus Christi (ponto facultativo)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-06-05",
+   "tipo": "sem_expediente",
+   "motivo": "Corpus Christi (ponto facultativo)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-08-10",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Advogado – artigo 62, inciso IV, da Lei n. 5.010/1996 (ponto facultativo)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-08-11",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Advogado – artigo 62, inciso IV, da Lei n. 5.010/1996 (ponto facultativo)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "Independência do Brasil (feriado nacional)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "Nossa Senhora Aparecida (feriado nacional)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-10-30",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Servidor Público (ponto facultativo) [transferido de 28/10 pela Portaria TJMT/PRES 1254/2026]",
+   "fonte": "indice"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Dia de Finados (feriado nacional)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-11-15",
+   "tipo": "sem_expediente",
+   "motivo": "Proclamação da República (feriado nacional)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Consciência Negra (feriado nacional)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-07",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Justiça (feriado no âmbito nacional, para efeitos forenses, conforme art. 1º do Decreto-Lei n. 8.292/1945)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Justiça (feriado no âmbito nacional, para efeitos forenses, conforme art. 1º do Decreto-Lei n. 8.292/1945)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-24",
+   "tipo": "sem_expediente",
+   "motivo": "Natal (ponto facultativo)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "sem_expediente",
+   "motivo": "Natal (feriado nacional)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "sem_expediente",
+   "motivo": "Ano Novo (ponto facultativo)",
+   "fonte": "portaria"
+  }
+ ],
+ "locais": {
+  "ALTA FLORESTA": [
+   {
+    "data": "2026-05-19",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "ALTO ARAGUAIA": [
+   {
+    "data": "2026-05-24",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. Auxiliadora (padroeira)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-26",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "ALTO GARÇAS": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "São Sebastião (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-10",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "ALTO TAQUARI": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "São José (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "APIACÁS": [
+   {
+    "data": "2026-07-03",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-11-22",
+    "tipo": "sem_expediente",
+    "motivo": "Santa Cecília (Padroeira)",
+    "fonte": "portaria"
+   }
+  ],
+  "ARAPUTANGA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Memorial em Homenagem ao Monsenhor Ermínio Celso Duca",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "N. S.do Rosário de Fátima (Padroeira)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-05-23",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "ARENÁPOLIS": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "São Sebastião (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-02-05",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Festa do Senhor Bom Jesus de Arenápolis",
+    "fonte": "portaria"
+   }
+  ],
+  "ARIPUANÃ": [
+   {
+    "data": "2026-10-04",
+    "tipo": "sem_expediente",
+    "motivo": "São Francisco de Assis (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-31",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "BARRA DO BUGRES": [
+   {
+    "data": "2026-04-19",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-09-14",
+    "tipo": "sem_expediente",
+    "motivo": "Santa Cruz (Padroeira)",
+    "fonte": "portaria"
+   }
+  ],
+  "BARRA DO GARÇAS": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Santo Antônio (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "BRASNORTE": [
+   {
+    "data": "2026-06-01",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "CAMPINÁPOLIS": [
+   {
+    "data": "2026-04-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia dos Povos Indígenas",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Senhor Bom Jesus (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-11-01",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "CAMPO NOVO DO PARECIS": [
+   {
+    "data": "2026-07-04",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "São Cristóvão (Padroeiro)",
+    "fonte": "portaria"
+   }
+  ],
+  "CAMPO VERDE": [
+   {
+    "data": "2026-07-04",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "São Cristóvão (Padroeiro)",
+    "fonte": "portaria"
+   }
+  ],
+  "CANARANA": [
+   {
+    "data": "2026-02-15",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-05-24",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. Auxiliadora (padroeira)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Colono e do Motorista",
+    "fonte": "portaria"
+   }
+  ],
+  "CHAPADA DOS GUIMARÃES": [
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. Sant’Ana (Padroeira)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-31",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "CLÁUDIA": [
+   {
+    "data": "2026-07-04",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "N.S. da Glória (Padroeira)",
+    "fonte": "portaria"
+   }
+  ],
+  "COLNIZA": [
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-11-26",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "COLÍDER": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "São João Batista (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-18",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "COMODORO": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "COTRIGUAÇU": [
+   {
+    "data": "2026-05-29",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Reforma Protestante",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-20",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "CUIABÁ": [
+   {
+    "data": "2026-04-08",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Cuiabá",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-11-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Consciência Negra",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Imaculada Conceição",
+    "fonte": "portaria"
+   }
+  ],
+  "CÁCERES": [
+   {
+    "data": "2026-08-25",
+    "tipo": "sem_expediente",
+    "motivo": "São Luiz de Cáceres (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-06",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "DIAMANTINO": [
+   {
+    "data": "2026-09-18",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Imaculada Conceição (Padroeira)",
+    "fonte": "portaria"
+   }
+  ],
+  "DOM AQUINO": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "São Sebastião (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-04-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "FELIZ NATAL": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "São Pedro (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-11-17",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "GUARANTÃ DO NORTE": [
+   {
+    "data": "2026-06-02",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-07",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. do Rosário (Padroeira)",
+    "fonte": "portaria"
+   }
+  ],
+  "GUIRATINGA": [
+   {
+    "data": "2026-01-25",
+    "tipo": "sem_expediente",
+    "motivo": "Homenagem Póstuma ao Bispo Dom Camilo Faresin",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "São João Batista (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-02",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "ITAÚBA": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "São Pedro (Padroeiro)",
+    "fonte": "portaria"
+   }
+  ],
+  "ITIQUIRA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "São Sebastião (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-16",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. do Carmo (Padroeira)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-01",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "JACIARA": [
+   {
+    "data": "2026-10-04",
+    "tipo": "sem_expediente",
+    "motivo": "Santo Francisco de Assis (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-21",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "JAURU": [
+   {
+    "data": "2026-02-22",
+    "tipo": "sem_expediente",
+    "motivo": "Homenagem Póstuma ao Padre Nazareno Lanciotti",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-04-29",
+    "tipo": "sem_expediente",
+    "motivo": "Chegada da Imagem De Nossa Senhora do Pilar (Padroeira)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-09-20",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "JUARA": [
+   {
+    "data": "2026-02-28",
+    "tipo": "sem_expediente",
+    "motivo": "Em Memória ao Fundador da Cidade",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "São José (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "JUSCIMEIRA": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Bom Jesus (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-10",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "JUÍNA": [
+   {
+    "data": "2026-05-05",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "Sagrado Coração de Jesus (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "portaria"
+   }
+  ],
+  "LUCAS DO RIO VERDE": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-05",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "MARCELÂNDIA": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Político Administrativo",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. Imaculada Conceição (Padroeira)",
+    "fonte": "portaria"
+   }
+  ],
+  "MATUPÁ": [
+   {
+    "data": "2026-07-04",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "São Cristóvão (Padroeiro)",
+    "fonte": "portaria"
+   }
+  ],
+  "MIRASSOL D'OESTE": [
+   {
+    "data": "2026-02-27",
+    "tipo": "sem_expediente",
+    "motivo": "Falecimento do Padre Giacomo Gueva",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-05-14",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "NOBRES": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "São Sebastião (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-05-01",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "NORTELÂNDIA": [
+   {
+    "data": "2026-02-05",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "N. S.de Sant’Ana (Padroeira)",
+    "fonte": "portaria"
+   }
+  ],
+  "NOVA CANAÃ DO NORTE": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "Sagrado Coração de Jesus (Padroeiro)",
+    "fonte": "portaria"
+   }
+  ],
+  "NOVA MONTE VERDE": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Patrono do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-19",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "NOVA MUTUM": [
+   {
+    "data": "2026-07-04",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "NOVA UBIRATÃ": [
+   {
+    "data": "2026-10-12",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. Aparecida (Padroeira)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-19",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "NOVA XAVANTINA": [
+   {
+    "data": "2026-04-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-11-27",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. das Graças (Padroeira)",
+    "fonte": "portaria"
+   }
+  ],
+  "NOVO SÃO JOAQUIM": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "São Joaquim e Sant’Ana (Padroeiros)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-09-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "portaria"
+   }
+  ],
+  "PARANAITA": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "PARANATINGA": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-03",
+    "tipo": "sem_expediente",
+    "motivo": "São Francisco Xavier (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-17",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "PEDRA PRETA": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "São Pedro (Padroeiro)",
+    "fonte": "portaria"
+   }
+  ],
+  "PEIXOTO DE AZEVEDO": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política e Administrativa",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-20",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-21",
+    "tipo": "sem_expediente",
+    "motivo": "Dia dos Garimpeiros",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-12",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. Aparecida (Padroeira)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-11-30",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "portaria"
+   }
+  ],
+  "POCONÉ": [
+   {
+    "data": "2026-01-21",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-07",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. do Rosário",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. da Conceição (Padroeira)",
+    "fonte": "portaria"
+   }
+  ],
+  "PONTES E LACERDA": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "PORTO ALEGRE DO NORTE": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Festa do Domingão",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-09-24",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. da Libertação (Padroeira)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-11",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "portaria"
+   }
+  ],
+  "PORTO DOS GAÚCHOS": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. dos Navegantes (Padroeira)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-11-11",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "PORTO ESPERIDIÃO": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "POXORÉU": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "São João Batista (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-26",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "PRIMAVERA DO LESTE": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "São Cristóvão (Padroeiro)",
+    "fonte": "portaria"
+   }
+  ],
+  "QUERÊNCIA": [
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Colono e Motorista",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. Imaculada Conceição (Padroeira)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-19",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "RIBEIRÃO CASCALHEIRA": [
+   {
+    "data": "2026-05-03",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "São João Batista (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-14",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "portaria"
+   }
+  ],
+  "RIO BRANCO": [
+   {
+    "data": "2026-05-22",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-16",
+    "tipo": "sem_expediente",
+    "motivo": "São Roque (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-11-30",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Cristão Evangelico",
+    "fonte": "portaria"
+   }
+  ],
+  "RONDONÓPOLIS": [
+   {
+    "data": "2026-12-10",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "ROSÁRIO OESTE": [
+   {
+    "data": "2026-06-25",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-07",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. do Rosário (Padroeira)",
+    "fonte": "portaria"
+   }
+  ],
+  "SANTO ANTÔNIO DE LEVERGER": [
+   {
+    "data": "2026-05-05",
+    "tipo": "sem_expediente",
+    "motivo": "Homenagem a Marechal Rondon",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "SAPEZAL": [
+   {
+    "data": "2026-04-22",
+    "tipo": "sem_expediente",
+    "motivo": "Pioneiro e Fundador do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-09-19",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "portaria"
+   }
+  ],
+  "SINOP": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Santo Antônio (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-09-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "SORRISO": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "São Pedro (Padroeiro)",
+    "fonte": "portaria"
+   }
+  ],
+  "SÃO FÉLIX DO ARAGUAIA": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. da Assunção (Padroeira)",
+    "fonte": "portaria"
+   }
+  ],
+  "SÃO JOSÉ DO RIO CLARO": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "SÃO JOSÉ DOS QUATRO MARCOS": [
+   {
+    "data": "2026-05-01",
+    "tipo": "sem_expediente",
+    "motivo": "São José (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-05-12",
+    "tipo": "sem_expediente",
+    "motivo": "Falecimento do Padre George Joseph Pierre Marie Martin",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-15",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "portaria"
+   }
+  ],
+  "TABAPORÃ": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Santo Antônio (Padroeiro)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-20",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "TANGARÁ DA SERRA": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "TAPURAH": [
+   {
+    "data": "2026-07-04",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "TERRA NOVA DO NORTE": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-12",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. Aparecida (Padroeira)",
+    "fonte": "portaria"
+   }
+  ],
+  "VERA": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação política do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-27",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-28",
+    "tipo": "sem_expediente",
+    "motivo": "São Judas Tadeu (Padroeiro)",
+    "fonte": "portaria"
+   }
+  ],
+  "VILA BELA DA SANTÍSSIMA TRINDADE": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-03-20",
+    "tipo": "sem_expediente",
+    "motivo": "Ponto facultativo",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Dança do Congo (Lei n. 896/2010): institui a segunda-feira da segunda quinzena de julho como feriado no Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-21",
+    "tipo": "sem_expediente",
+    "motivo": "Feriado até às 12h; após às 12h, ponto facultativo (Lei n. 897/2010)",
+    "fonte": "portaria"
+   }
+  ],
+  "VILA RICA": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "São Pedro (Padroeiro)",
+    "fonte": "portaria"
+   }
+  ],
+  "VÁRZEA GRANDE": [
+   {
+    "data": "2026-05-15",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   }
+  ],
+  "ÁGUA BOA": [
+   {
+    "data": "2026-07-09",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-12",
+    "tipo": "sem_expediente",
+    "motivo": "N. S. Aparecida (Padroeira)",
+    "fonte": "portaria"
+   }
+  ]
+ }
+}

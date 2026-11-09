@@ -1,0 +1,117 @@
+{
+ "tribunal": "TRT11",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:40:11Z",
+ "fontes": [
+  {
+   "id": "suspensoes",
+   "url": "https://portal.trt11.jus.br/index.php/sociedades/calendarios/calendario-susp",
+   "descricao": "Página de suspensões do TRT11 (calendário iCagenda): suspensão de prazos e de expediente"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-07",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos, audiências e sessões",
+   "fonte": "suspensoes"
+  },
+  {
+   "data": "2026-01-08",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos, audiências e sessões",
+   "fonte": "suspensoes"
+  },
+  {
+   "data": "2026-01-09",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos, audiências e sessões",
+   "fonte": "suspensoes"
+  },
+  {
+   "data": "2026-01-10",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos, audiências e sessões",
+   "fonte": "suspensoes"
+  },
+  {
+   "data": "2026-01-11",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos, audiências e sessões",
+   "fonte": "suspensoes"
+  },
+  {
+   "data": "2026-01-12",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos, audiências e sessões",
+   "fonte": "suspensoes"
+  },
+  {
+   "data": "2026-01-13",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos, audiências e sessões",
+   "fonte": "suspensoes"
+  },
+  {
+   "data": "2026-01-14",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos, audiências e sessões",
+   "fonte": "suspensoes"
+  },
+  {
+   "data": "2026-01-15",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos, audiências e sessões",
+   "fonte": "suspensoes"
+  },
+  {
+   "data": "2026-01-16",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos, audiências e sessões",
+   "fonte": "suspensoes"
+  },
+  {
+   "data": "2026-01-17",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos, audiências e sessões",
+   "fonte": "suspensoes"
+  },
+  {
+   "data": "2026-01-18",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos, audiências e sessões",
+   "fonte": "suspensoes"
+  },
+  {
+   "data": "2026-01-19",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos, audiências e sessões",
+   "fonte": "suspensoes"
+  },
+  {
+   "data": "2026-01-20",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos, audiências e sessões",
+   "fonte": "suspensoes"
+  },
+  {
+   "data": "2026-04-20",
+   "tipo": "sem_expediente",
+   "motivo": "Suspensão do expediente RA nº 322/2025",
+   "fonte": "suspensoes"
+  },
+  {
+   "data": "2026-06-05",
+   "tipo": "sem_expediente",
+   "motivo": "Suspensão do expediente RA nº 322/2025",
+   "fonte": "suspensoes"
+  },
+  {
+   "data": "2026-08-10",
+   "tipo": "sem_expediente",
+   "motivo": "Suspensão do expediente RA nº 322/2025",
+   "fonte": "suspensoes"
+  }
+ ],
+ "locais": {}
+}

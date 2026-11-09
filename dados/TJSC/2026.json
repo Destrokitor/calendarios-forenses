@@ -1,0 +1,1502 @@
+{
+ "tribunal": "TJSC",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:07:36Z",
+ "fontes": [
+  {
+   "id": "resolucao",
+   "url": "https://busca.tjsc.jus.br/buscatextual/integra.do?cdSistema=1&cdDocumento=188428&cdCategoria=1",
+   "descricao": "Resolução GP n. 1, de 16/01/2026 (Anexo Único: calendário de feriados para efeitos forenses de 2026), DJe de 19/01/2026, pp. 1 a 4"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "sem_expediente",
+   "motivo": "Confraternização Universal",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-02-16",
+   "tipo": "sem_expediente",
+   "motivo": "Segunda-feira de Carnaval",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "Terça-feira de Carnaval",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-04-02",
+   "tipo": "sem_expediente",
+   "motivo": "Quinta-feira da Semana Santa",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "Sexta-feira Santa",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Trabalho",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-06-04",
+   "tipo": "sem_expediente",
+   "motivo": "Corpus Christi",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "Independência do Brasil",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "Dia de Nossa Senhora Aparecida - Padroeira do Brasil",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-10-28",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Funcionário Público",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Finados",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-11-15",
+   "tipo": "sem_expediente",
+   "motivo": "Proclamação da República",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "Dia Nacional de Zumbi e da Consciência Negra",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Justiça",
+   "fonte": "resolucao"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "sem_expediente",
+   "motivo": "Dia de Natal",
+   "fonte": "resolucao"
+  }
+ ],
+ "locais": {
+  "ABELARDO LUZ": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Sebastião - Padroeiro do Município de Abelardo Luz",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-05-25",
+    "tipo": "sem_expediente",
+    "motivo": "Comemoração da Reforma Agrária",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-07-27",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município de Abelardo Luz",
+    "fonte": "resolucao"
+   }
+  ],
+  "ANCHIETA": [
+   {
+    "data": "2026-03-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Anchieta",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Colono e do Motorista",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-10-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da reforma Protestante",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santa Lúcia - Padroeira do Município de Anchieta",
+    "fonte": "resolucao"
+   }
+  ],
+  "ANITA GARIBALDI": [
+   {
+    "data": "2026-12-04",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Anita Garibaldi",
+    "fonte": "resolucao"
+   }
+  ],
+  "ARARANGUÁ": [
+   {
+    "data": "2026-04-03",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Araranguá",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-05-04",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora Mãe dos Homens - Padroeira do Município de Araranguá",
+    "fonte": "resolucao"
+   }
+  ],
+  "ARMAZÉM": [
+   {
+    "data": "2026-06-30",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Pedro - Padroeiro do Município de Armazém",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Assunção de Nossa Senhora",
+    "fonte": "resolucao"
+   }
+  ],
+  "ASCURRA": [
+   {
+    "data": "2026-04-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Ascurra",
+    "fonte": "resolucao"
+   }
+  ],
+  "BALNEÁRIO CAMBORIÚ": [
+   {
+    "data": "2026-07-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Emancipação Política do Município de Balneário Camboriú",
+    "fonte": "resolucao"
+   }
+  ],
+  "BALNEÁRIO PIÇARRAS": [
+   {
+    "data": "2026-01-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora da Paz - Padroeira do Município de Balneário Piçarras",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Balneário Piçarras",
+    "fonte": "resolucao"
+   }
+  ],
+  "BARRA VELHA": [
+   {
+    "data": "2026-05-25",
+    "tipo": "sem_expediente",
+    "motivo": "Festa do Divino Espírito Santo",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-07",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Emancipação Política do Município de Barra Velha",
+    "fonte": "resolucao"
+   }
+  ],
+  "BIGUAÇU": [
+   {
+    "data": "2026-05-17",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política-Administrativa do Município de Biguaçu",
+    "fonte": "resolucao"
+   }
+  ],
+  "BLUMENAU": [
+   {
+    "data": "2026-09-02",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Fundação de Blumenau",
+    "fonte": "resolucao"
+   }
+  ],
+  "BOM RETIRO": [
+   {
+    "data": "2026-01-14",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Bom Retiro",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-06-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora do Perpétuo Socorro",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Reforma Protestante",
+    "fonte": "resolucao"
+   }
+  ],
+  "BRAÇO DO NORTE": [
+   {
+    "data": "2026-10-22",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Braço do Norte",
+    "fonte": "resolucao"
+   }
+  ],
+  "BRUSQUE": [
+   {
+    "data": "2026-08-04",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Brusque",
+    "fonte": "resolucao"
+   }
+  ],
+  "CAMPO BELO DO SUL": [
+   {
+    "data": "2026-11-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora do Patrocínio",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-03",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Campo Belo do Sul",
+    "fonte": "resolucao"
+   }
+  ],
+  "CAMPO ERÊ": [
+   {
+    "data": "2026-07-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Campo Erê",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora Imaculada Conceição - Padroeira do Município de Campo Erê",
+    "fonte": "resolucao"
+   }
+  ],
+  "CAMPOS NOVOS": [
+   {
+    "data": "2026-03-30",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Campos Novos",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São João Batista - Padroeiro do Município de Campos Novos",
+    "fonte": "resolucao"
+   }
+  ],
+  "CANOINHAS": [
+   {
+    "data": "2026-05-03",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santa Cruz",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-09-12",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Canoinhas",
+    "fonte": "resolucao"
+   }
+  ],
+  "CAPINZAL": [
+   {
+    "data": "2026-01-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Paulo Apóstolo - Padroeiro do Município de Capinzal",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-02-16",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Político-Administrativa do Município de Capinzal",
+    "fonte": "resolucao"
+   }
+  ],
+  "CAPIVARI DE BAIXO": [
+   {
+    "data": "2026-03-30",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Capivari de Baixo",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São João Batista - Padroeiro do Município de Capivari de Baixo",
+    "fonte": "resolucao"
+   }
+  ],
+  "CATANDUVAS": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Sebastião",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-03-16",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Catanduvas",
+    "fonte": "resolucao"
+   }
+  ],
+  "CAÇADOR": [
+   {
+    "data": "2026-03-23",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Caçador",
+    "fonte": "resolucao"
+   }
+  ],
+  "CHAPECÓ": [
+   {
+    "data": "2026-08-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Chapecó",
+    "fonte": "resolucao"
+   }
+  ],
+  "CONCÓRDIA": [
+   {
+    "data": "2026-07-29",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Concórdia",
+    "fonte": "resolucao"
+   }
+  ],
+  "CORONEL FREITAS": [
+   {
+    "data": "2026-10-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Coronel Freitas",
+    "fonte": "resolucao"
+   }
+  ],
+  "CORREIA PINTO": [
+   {
+    "data": "2026-05-10",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Correia Pinto",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-07-12",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora - Padroeira do Município de Correia Pinto",
+    "fonte": "resolucao"
+   }
+  ],
+  "CRICIÚMA": [
+   {
+    "data": "2026-01-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Criciúma",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-04",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santa Bárbara",
+    "fonte": "resolucao"
+   }
+  ],
+  "CUNHA PORÃ": [
+   {
+    "data": "2026-02-11",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora de Lurdes - Padroeira do Município de Cunha Porã",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-07-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Cunha Porã",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Reforma Protestante",
+    "fonte": "resolucao"
+   }
+  ],
+  "CURITIBANOS": [
+   {
+    "data": "2026-06-11",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Curitibanos",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora Imaculada Conceição - Padroeira do Município de Curitibanos",
+    "fonte": "resolucao"
+   }
+  ],
+  "DESCANSO": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Assunção de Nossa senhora",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-16",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Descanso e Dia de Santo Estanislau Kostka - Padroeiro do Munícipio de Descanso",
+    "fonte": "resolucao"
+   }
+  ],
+  "DIONÍSIO CERQUEIRA": [
+   {
+    "data": "2026-03-14",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Dionísio Cerqueira",
+    "fonte": "resolucao"
+   }
+  ],
+  "FLORIANÓPOLIS": [
+   {
+    "data": "2026-03-23",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Florianópolis",
+    "fonte": "resolucao"
+   }
+  ],
+  "FORQUILHINHA": [
+   {
+    "data": "2026-04-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Forquilhinha",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-04",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santa Bárbara -Padroeira do Município de Forquilhinha",
+    "fonte": "resolucao"
+   }
+  ],
+  "FRAIBURGO": [
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora Imaculada Conceição - Padroeira do Município de Fraiburgo",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Fraiburgo",
+    "fonte": "resolucao"
+   }
+  ],
+  "GAROPABA": [
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Joaquim - Padroeiro do Município de Garopaba",
+    "fonte": "resolucao"
+   }
+  ],
+  "GARUVA": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São João Batista - Padroeiro do Município de Garuva",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Garuva",
+    "fonte": "resolucao"
+   }
+  ],
+  "GASPAR": [
+   {
+    "data": "2026-03-18",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Gaspar",
+    "fonte": "resolucao"
+   }
+  ],
+  "GUABIRUBA": [
+   {
+    "data": "2026-06-10",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Emancipação Político-Administrativa",
+    "fonte": "resolucao"
+   }
+  ],
+  "GUARAMIRIM": [
+   {
+    "data": "2026-08-28",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Guaramirim",
+    "fonte": "resolucao"
+   }
+  ],
+  "HERVAL D' OESTE": [
+   {
+    "data": "2026-08-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Herval d`Oeste",
+    "fonte": "resolucao"
+   }
+  ],
+  "IBIRAMA": [
+   {
+    "data": "2026-03-11",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Ibirama",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-26",
+    "tipo": "sem_expediente",
+    "motivo": "Oitava de Natal",
+    "fonte": "resolucao"
+   }
+  ],
+  "IMARUÍ": [
+   {
+    "data": "2026-06-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Beata Albertina",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São João Batista - Padroeiro do Município de Imaruí",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-08-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Imaruí",
+    "fonte": "resolucao"
+   }
+  ],
+  "IMBITUBA": [
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora Imaculada Conceição",
+    "fonte": "resolucao"
+   }
+  ],
+  "INDAIAL": [
+   {
+    "data": "2026-03-21",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação do Município",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-26",
+    "tipo": "sem_expediente",
+    "motivo": "Segundo Dia de Natal",
+    "fonte": "resolucao"
+   }
+  ],
+  "IPUMIRIM": [
+   {
+    "data": "2026-04-07",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Ipumirim",
+    "fonte": "resolucao"
+   }
+  ],
+  "ITAIÓPOLIS": [
+   {
+    "data": "2026-10-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Emancipação Político-Administrativa do Município de Itaiópolis",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-11-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora da Medalha Milagrosa -Padroeira do Município de Itaiópolis",
+    "fonte": "resolucao"
+   }
+  ],
+  "ITAJAÍ": [
+   {
+    "data": "2026-06-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Itajaí",
+    "fonte": "resolucao"
+   }
+  ],
+  "ITAPEMA": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora dos Navegantes",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-04-21",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Itapema",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santo Antônio",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora Imaculada Conceição",
+    "fonte": "resolucao"
+   }
+  ],
+  "ITAPIRANGA": [
+   {
+    "data": "2026-02-14",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Emancipação Político-Administrativa",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Cristóvão",
+    "fonte": "resolucao"
+   }
+  ],
+  "ITAPOÁ": [
+   {
+    "data": "2026-04-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Itapoá",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-06-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora do Perpétuo Socorro",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora Imaculada Conceição",
+    "fonte": "resolucao"
+   }
+  ],
+  "ITUPORANGA": [
+   {
+    "data": "2026-02-14",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Fundação do Município",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-10-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da reforma Protestante",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-26",
+    "tipo": "sem_expediente",
+    "motivo": "Segundo Dia de Natal",
+    "fonte": "resolucao"
+   }
+  ],
+  "ITÁ": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Pedro Apóstolo - Padroeiro do Município de Itá",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Itá",
+    "fonte": "resolucao"
+   }
+  ],
+  "IÇARA": [
+   {
+    "data": "2026-08-07",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Donato - Padroeiro do Município de Içara",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Içara",
+    "fonte": "resolucao"
+   }
+  ],
+  "JAGUARUNA": [
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora das Dores - Padroeira do Município de Jaguaruna",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da emancipação política-administrativa de Jaguaruna",
+    "fonte": "resolucao"
+   }
+  ],
+  "JARAGUÁ DO SUL": [
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Jaraguá do Sul",
+    "fonte": "resolucao"
+   }
+  ],
+  "JOAÇABA": [
+   {
+    "data": "2026-08-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Joaçaba",
+    "fonte": "resolucao"
+   }
+  ],
+  "JOINVILLE": [
+   {
+    "data": "2026-03-09",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Joinville",
+    "fonte": "resolucao"
+   }
+  ],
+  "LAGES": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora Dos Prazeres - Padroeira do Município de Lages",
+    "fonte": "resolucao"
+   }
+  ],
+  "LAGUNA": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora dos Navegantes",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santo Antônio",
+    "fonte": "resolucao"
+   }
+  ],
+  "LAURO MÜLLER": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Lauro Müller",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Assunção de Nossa Senhora",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-04",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santa Bárbara",
+    "fonte": "resolucao"
+   }
+  ],
+  "LEBON RÉGIS": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santo Antônio - Padroeiro do Município de Lebon Régis",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Lebon Régis",
+    "fonte": "resolucao"
+   }
+  ],
+  "MAFRA": [
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Mafra",
+    "fonte": "resolucao"
+   }
+  ],
+  "MARAVILHA": [
+   {
+    "data": "2026-07-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Maravilha",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Reforma Protestante",
+    "fonte": "resolucao"
+   }
+  ],
+  "MELEIRO": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora da Glória - Padroeira do Município de Meleiro",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-11-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Meleiro",
+    "fonte": "resolucao"
+   }
+  ],
+  "MODELO": [
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Reforma Protestante",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-30",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Modelo",
+    "fonte": "resolucao"
+   }
+  ],
+  "MONDAÍ": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora dos Navegantes",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Reforma Protestante",
+    "fonte": "resolucao"
+   }
+  ],
+  "NAVEGANTES": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora dos Navegantes",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-08-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Navegantes",
+    "fonte": "resolucao"
+   }
+  ],
+  "ORLEANS": [
+   {
+    "data": "2026-08-30",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Orleans",
+    "fonte": "resolucao"
+   }
+  ],
+  "OTACÍLIO COSTA": [
+   {
+    "data": "2026-05-11",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Otacílio Costa",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-11-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santa Catarina - Padroeira do Município de Otacílio Costa",
+    "fonte": "resolucao"
+   }
+  ],
+  "PALHOÇA": [
+   {
+    "data": "2026-04-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Palhoça",
+    "fonte": "resolucao"
+   }
+  ],
+  "PALMITOS": [
+   {
+    "data": "2026-03-02",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Palmitos",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Colono e do Motorista",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Reforma Religiosa",
+    "fonte": "resolucao"
+   }
+  ],
+  "PAPANDUVA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Sebastião - Padroeiro do Município de Papanduva",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-04-11",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Papanduva",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santo Antônio - Padroeiro do Município de Papanduva",
+    "fonte": "resolucao"
+   }
+  ],
+  "PENHA": [
+   {
+    "data": "2026-07-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Penha",
+    "fonte": "resolucao"
+   }
+  ],
+  "PINHALZINHO": [
+   {
+    "data": "2026-12-30",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Emancipação Político Administrativa do Município de Pinhalzinho",
+    "fonte": "resolucao"
+   }
+  ],
+  "POMERODE": [
+   {
+    "data": "2026-04-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Pomerode",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Reforma Protestante",
+    "fonte": "resolucao"
+   }
+  ],
+  "PONTE SERRADA": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santo Antônio - Padroeiro do Município de Ponte Serrada",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-07-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Ponte Serrada",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora Imaculada Conceição",
+    "fonte": "resolucao"
+   }
+  ],
+  "PORTO BELO": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Senhor Bom Jesus dos Aflitos - Padroeiro do Município de Porto Belo",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-10-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Porto Belo",
+    "fonte": "resolucao"
+   }
+  ],
+  "PORTO UNIÃO": [
+   {
+    "data": "2026-09-05",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Porto União",
+    "fonte": "resolucao"
+   }
+  ],
+  "PRESIDENTE GETÚLIO": [
+   {
+    "data": "2026-06-01",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Presidente Getúlio",
+    "fonte": "resolucao"
+   }
+  ],
+  "QUILOMBO": [
+   {
+    "data": "2026-10-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Quilombo",
+    "fonte": "resolucao"
+   }
+  ],
+  "RIO DO OESTE": [
+   {
+    "data": "2026-06-23",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Rio do Oeste",
+    "fonte": "resolucao"
+   }
+  ],
+  "RIO DO SUL": [
+   {
+    "data": "2026-04-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Rio do Sul",
+    "fonte": "resolucao"
+   }
+  ],
+  "RIO NEGRINHO": [
+   {
+    "data": "2026-04-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Rio Negrinho",
+    "fonte": "resolucao"
+   }
+  ],
+  "SANTA CECÍLIA": [
+   {
+    "data": "2026-06-21",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Santa Cecília",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-11-22",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santa Cecília - Padroeira do Município de Santa Cecília",
+    "fonte": "resolucao"
+   }
+  ],
+  "SANTA ROSA DO SUL": [
+   {
+    "data": "2026-01-04",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Santa Rosa do Sul",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-08-23",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santa Rosa de Lima - Padroeira do Município de Santa Rosa do Sul",
+    "fonte": "resolucao"
+   }
+  ],
+  "SANTO AMARO DA IMPERATRIZ": [
+   {
+    "data": "2026-01-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santo Amaro - Padroeiro do Município de Santo Amaro da Imperatriz",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-05-25",
+    "tipo": "sem_expediente",
+    "motivo": "Festa do Divino Espírito Santo",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-07-10",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Santo Amaro da Imperatriz",
+    "fonte": "resolucao"
+   }
+  ],
+  "SEARA": [
+   {
+    "data": "2026-04-03",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Seara",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Colono e do Motorista",
+    "fonte": "resolucao"
+   }
+  ],
+  "SOMBRIO": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Sebastião",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santo Antônio - Padroeiro do Município de Sombrio",
+    "fonte": "resolucao"
+   }
+  ],
+  "SÃO BENTO DO SUL": [
+   {
+    "data": "2026-09-23",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de São Bento do Sul",
+    "fonte": "resolucao"
+   }
+  ],
+  "SÃO CARLOS": [
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Colono e do Motorista",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-11-04",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Carlos Borromeu - Padroeiro do Município de São Carlos",
+    "fonte": "resolucao"
+   }
+  ],
+  "SÃO DOMINGOS": [
+   {
+    "data": "2026-04-07",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de São Domingos",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-08-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Domingos Gusmão - Padroeiro do Município de São Domingos",
+    "fonte": "resolucao"
+   }
+  ],
+  "SÃO FRANCISCO DO SUL": [
+   {
+    "data": "2026-04-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Crescente Vitoriano",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora da Graça - Padroeira do Município de São Francisco do Sul",
+    "fonte": "resolucao"
+   }
+  ],
+  "SÃO JOAQUIM": [
+   {
+    "data": "2026-05-07",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de São Joaquim",
+    "fonte": "resolucao"
+   }
+  ],
+  "SÃO JOSÉ": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São José",
+    "fonte": "resolucao"
+   }
+  ],
+  "SÃO JOSÉ DO CEDRO": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São José - Padroeiro do Município de São José do Cedro",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-07-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de São José do Cedro",
+    "fonte": "resolucao"
+   }
+  ],
+  "SÃO JOÃO BATISTA": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São João Batista - Padroeiro do Município de São João Batista",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-07-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de São João Batista",
+    "fonte": "resolucao"
+   }
+  ],
+  "SÃO LOURENÇO DO OESTE": [
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de São Lourenço do Oeste",
+    "fonte": "resolucao"
+   }
+  ],
+  "SÃO MIGUEL DO OESTE": [
+   {
+    "data": "2026-02-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de São Miguel do Oeste",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-09-29",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Miguel Arcanjo - Padroeiro do Município de São Miguel do Oeste",
+    "fonte": "resolucao"
+   }
+  ],
+  "TAIÓ": [
+   {
+    "data": "2026-02-12",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Taió",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Festa do Colono",
+    "fonte": "resolucao"
+   }
+  ],
+  "TANGARÁ": [
+   {
+    "data": "2026-02-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Tangará",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santo Antônio - Padroeiro do Município de Tangará",
+    "fonte": "resolucao"
+   }
+  ],
+  "TIJUCAS": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Sebastião -Padroeiro do Município de Tijucas",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Tijucas",
+    "fonte": "resolucao"
+   }
+  ],
+  "TIMBÓ": [
+   {
+    "data": "2026-04-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Timbó",
+    "fonte": "resolucao"
+   }
+  ],
+  "TROMBUDO CENTRAL": [
+   {
+    "data": "2026-07-22",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Trombudo Central",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-26",
+    "tipo": "sem_expediente",
+    "motivo": "Segundo Dia de Natal",
+    "fonte": "resolucao"
+   }
+  ],
+  "TUBARÃO": [
+   {
+    "data": "2026-05-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Tubarão",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora da Piedade",
+    "fonte": "resolucao"
+   }
+  ],
+  "TURVO": [
+   {
+    "data": "2026-03-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Turvo",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-07-12",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora da Oração - Padroeira do Município de Turvo",
+    "fonte": "resolucao"
+   }
+  ],
+  "URUBICI": [
+   {
+    "data": "2026-02-03",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Urubici",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-06-10",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Benção da Primeira Imagem de Nossa Senhora Mãe dos Homens",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Assunção de Nossa Senhora",
+    "fonte": "resolucao"
+   }
+  ],
+  "URUSSANGA": [
+   {
+    "data": "2026-05-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Urussanga",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora Imaculada Conceição - Padroeira do Município de Urussanga",
+    "fonte": "resolucao"
+   }
+  ],
+  "VIDEIRA": [
+   {
+    "data": "2026-03-01",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Videira",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora Imaculada Conceição",
+    "fonte": "resolucao"
+   }
+  ],
+  "XANXERÊ": [
+   {
+    "data": "2026-03-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Xanxerê",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Senhor Bom Jesus - Padroeiro do Município de Xanxerê",
+    "fonte": "resolucao"
+   }
+  ],
+  "XAXIM": [
+   {
+    "data": "2026-02-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Xaxim",
+    "fonte": "resolucao"
+   },
+   {
+    "data": "2026-06-21",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Luiz Gonzaga - Padroeiro do Município de Xaxim",
+    "fonte": "resolucao"
+   }
+  ]
+ }
+}

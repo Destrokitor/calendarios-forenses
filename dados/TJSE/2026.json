@@ -1,0 +1,982 @@
+{
+ "tribunal": "TJSE",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:39:45Z",
+ "fontes": [
+  {
+   "id": "calendario",
+   "url": "https://www.tjse.jus.br/portal/arquivos/documentos/publicacoes/calendarios/calendario-tjse-2026.pdf",
+   "descricao": "Calendário 2026 do TJSE (comarcas de Aracaju e do interior): feriados e recesso"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "sem_expediente",
+   "motivo": "Confraternização Universal",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "Paixão de Cristo",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Trabalho",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-06-04",
+   "tipo": "sem_expediente",
+   "motivo": "Corpus Christi",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-06-24",
+   "tipo": "sem_expediente",
+   "motivo": "Festejos juninos – São João",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-07-08",
+   "tipo": "sem_expediente",
+   "motivo": "Emancipação Política de Sergipe",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-08-11",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Magistrado",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "Independência do Brasil",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Padroeira do Brasil",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-10-30",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Funcionário Público",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Finados",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "Dia Nacional de Zumbi e da Consciência Negra",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Justiça",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-14",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Ministério Público",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-20",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-21",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-22",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-23",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-24",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-29",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-30",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  }
+ ],
+ "locais": {
+  "AQUIDABÃ": [
+   {
+    "data": "2026-04-04",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "ARACAJU": [
+   {
+    "data": "2026-03-17",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário da Capital",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "ARAUÁ": [
+   {
+    "data": "2026-04-09",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-05",
+    "tipo": "sem_expediente",
+    "motivo": "São Benedito",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "AREIA BRANCA": [
+   {
+    "data": "2026-11-11",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "BARRA DOS COQUEIROS": [
+   {
+    "data": "2026-11-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-13",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "BOQUIM": [
+   {
+    "data": "2026-03-21",
+    "tipo": "sem_expediente",
+    "motivo": "Criação do Município",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "CAMPO DO BRITO": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-16",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-29",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "CANINDÉ DO SÃO FRANCISCO": [
+   {
+    "data": "2026-11-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "CAPELA": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-28",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "CARIRA": [
+   {
+    "data": "2026-05-03",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "CARMÓPOLIS": [
+   {
+    "data": "2026-07-16",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-16",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-29",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "calendario"
+   }
+  ],
+  "CEDRO DE SÃO JOÃO": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-04",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "CRISTINÁPOLIS": [
+   {
+    "data": "2026-04-24",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-07-31",
+    "tipo": "sem_expediente",
+    "motivo": "Feriado Municipal Evangélico",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-04",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   }
+  ],
+  "DIVINA PASTORA": [
+   {
+    "data": "2026-03-12",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-14",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "ESTÂNCIA": [
+   {
+    "data": "2026-05-04",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário da Cidade",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-12",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "FREI PAULO": [
+   {
+    "data": "2026-06-30",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-23",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "GARARU": [
+   {
+    "data": "2026-03-15",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-05-10",
+    "tipo": "sem_expediente",
+    "motivo": "Festa do Cruzeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Assunção de Nossa Senhora",
+    "fonte": "calendario"
+   }
+  ],
+  "INDIAROBA": [
+   {
+    "data": "2026-03-28",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "ITABAIANA": [
+   {
+    "data": "2026-01-29",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-28",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "ITABAIANINHA": [
+   {
+    "data": "2026-10-19",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "ITAPORANGA D'AJUDA": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-03-28",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "JAPARATUBA": [
+   {
+    "data": "2026-06-11",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "JAPOATÃ": [
+   {
+    "data": "2026-11-21",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-23",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "LAGARTO": [
+   {
+    "data": "2026-04-20",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "LARANJEIRAS": [
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-07",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "MALHADOR": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "MARUIM": [
+   {
+    "data": "2026-01-21",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-05-05",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Co-Padroeira Nossa Senhora da Paz",
+    "fonte": "calendario"
+   }
+  ],
+  "MONTE ALEGRE": [
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "N. SRA. DA GLÓRIA": [
+   {
+    "data": "2026-01-05",
+    "tipo": "sem_expediente",
+    "motivo": "Festa dos Santos Reis",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-09-26",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "N. SRA. DAS DORES": [
+   {
+    "data": "2026-06-11",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "N. SRA. DO SOCORRO": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-07-07",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Festa de Nossa Senhora do Amparo",
+    "fonte": "calendario"
+   }
+  ],
+  "NEÓPOLIS": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "São Pedro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-07",
+    "tipo": "sem_expediente",
+    "motivo": "Nossa Senhora do Rosário",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-18",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade",
+    "fonte": "calendario"
+   }
+  ],
+  "NOSSA SENHORA DAS DORES": [
+   {
+    "data": "2026-10-23",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário da Cidade",
+    "fonte": "calendario"
+   }
+  ],
+  "PACATUBA": [
+   {
+    "data": "2026-11-20",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "PEDRINHAS": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "PIRAMBU": [
+   {
+    "data": "2026-02-11",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-26",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "PORTO DA FOLHA": [
+   {
+    "data": "2026-02-19",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "POÇO REDONDO": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "POÇO VERDE": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-05-03",
+    "tipo": "sem_expediente",
+    "motivo": "Co-Padroeira",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "PROPRIÁ": [
+   {
+    "data": "2026-02-07",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   }
+  ],
+  "RIACHUELO": [
+   {
+    "data": "2026-01-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-06-11",
+    "tipo": "sem_expediente",
+    "motivo": "Batalha Naval de Riachuelo",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "RIACHÃO DO DANTAS": [
+   {
+    "data": "2026-05-09",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-21",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "RIBEIRÓPOLIS": [
+   {
+    "data": "2026-10-25",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-18",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "SALGADO": [
+   {
+    "data": "2026-01-22",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-04",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "SANTANA DO SÃO FRANCISCO": [
+   {
+    "data": "2026-04-06",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "SANTO AMARO DAS BROTAS": [
+   {
+    "data": "2026-01-15",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-15",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "SIMÃO DIAS": [
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "SÃO CRISTÓVÃO": [
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   }
+  ],
+  "SÃO DOMINGOS": [
+   {
+    "data": "2026-08-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-21",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "TOBIAS BARRETO": [
+   {
+    "data": "2026-06-07",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Nascimento de Tobias Barreto de Menezes",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-23",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "UMBAÚBA": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-02-06",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Santo Antônio",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-12",
+    "tipo": "sem_expediente",
+    "motivo": "Feriado Municipal Evangélico",
+    "fonte": "calendario"
+   }
+  ]
+ }
+}

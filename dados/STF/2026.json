@@ -1,0 +1,626 @@
+{
+ "tribunal": "STF",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:04:47Z",
+ "fontes": [
+  {
+   "id": "calendario",
+   "url": "http://www.stf.jus.br/arquivo/cms/processoCalendarioStf/anexo/CalendarioSTFOficial2026.pdf",
+   "descricao": "Calendário oficial 2026 do STF (PDF, versão de 12/11/2025)"
+  },
+  {
+   "id": "portaria_189",
+   "url": "https://www.stf.jus.br/arquivo/norma/portariadg189-2025.pdf",
+   "descricao": "Portaria GDG 189/2025 (feriados e pontos facultativos de jan/2026 a set/2027)"
+  },
+  {
+   "id": "portaria_250",
+   "url": "https://www.stf.jus.br/arquivo/norma/portariadg250-2025.pdf",
+   "descricao": "Portaria GDG 250/2025 (recesso de 20/12/2025 a 06/01/2026; suspensão de prazos até 31/01/2026)"
+  },
+  {
+   "id": "portaria_124",
+   "url": "https://www.stf.jus.br/arquivo/norma/portariadg124-2026.pdf",
+   "descricao": "Portaria GDG 124/2026 (suspensão de prazos de 2 a 31/07/2026)"
+  },
+  {
+   "id": "portaria_146",
+   "url": "https://www.stf.jus.br/arquivo/norma/portariadg146-2026.pdf",
+   "descricao": "Portaria GDG 146/2026 (ponto facultativo em 29/06/2026; prazos prorrogados para 30/06)"
+  },
+  {
+   "id": "portaria_112",
+   "url": "https://www.stf.jus.br/arquivo/norma/portariadg112-2026.pdf",
+   "descricao": "Portaria GDG 112/2026 (expediente de 24/06/2026, das 11h às 18h)"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-01",
+   "tipo": "sem_expediente",
+   "motivo": "Confraternização Universal",
+   "fonte": "portaria_189"
+  },
+  {
+   "data": "2026-01-01",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-02",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-02",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-03",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-03",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-04",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-04",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-05",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-05",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-06",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-06",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-07",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-08",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-09",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-10",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-11",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-12",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-13",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-14",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-15",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-16",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-17",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-18",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-19",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-20",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-21",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-22",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-23",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-24",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-25",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-26",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-27",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-28",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-29",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-30",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-01-31",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 250/2025, art. 4º)",
+   "fonte": "portaria_250"
+  },
+  {
+   "data": "2026-02-16",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval",
+   "fonte": "portaria_189"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval",
+   "fonte": "portaria_189"
+  },
+  {
+   "data": "2026-02-18",
+   "tipo": "parcial",
+   "motivo": "Quarta-feira de Cinzas (ponto facultativo até as 14h)",
+   "fonte": "portaria_189",
+   "horario": "até as 14h"
+  },
+  {
+   "data": "2026-04-01",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "portaria_189"
+  },
+  {
+   "data": "2026-04-02",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "portaria_189"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "portaria_189"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes",
+   "fonte": "portaria_189"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Trabalho",
+   "fonte": "portaria_189"
+  },
+  {
+   "data": "2026-06-24",
+   "tipo": "parcial",
+   "motivo": "Expediente reduzido (Portaria GDG 112/2026)",
+   "fonte": "portaria_112",
+   "horario": "das 11h às 18h"
+  },
+  {
+   "data": "2026-06-29",
+   "tipo": "sem_expediente",
+   "motivo": "Ponto facultativo: jogo da Seleção Brasileira (Portaria GDG 146/2026)",
+   "fonte": "portaria_146"
+  },
+  {
+   "data": "2026-07-02",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-03",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-04",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-05",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-06",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-07",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-08",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-09",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-10",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-11",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-12",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-13",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-14",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-15",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-16",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-17",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-18",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-19",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-20",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-21",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-22",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-23",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-24",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-25",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-26",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-27",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-28",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-29",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-30",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-07-31",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais (Portaria GDG 124/2026, art. 1º)",
+   "fonte": "portaria_124"
+  },
+  {
+   "data": "2026-08-11",
+   "tipo": "sem_expediente",
+   "motivo": "Fundação dos Cursos Jurídicos",
+   "fonte": "portaria_189"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Independência",
+   "fonte": "portaria_189"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "Nossa Senhora Aparecida",
+   "fonte": "portaria_189"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Finados",
+   "fonte": "portaria_189"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "Dia Nacional de Zumbi e da Consciência Negra",
+   "fonte": "portaria_189"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Justiça",
+   "fonte": "portaria_189"
+  },
+  {
+   "data": "2026-12-20",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-21",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-22",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-23",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-24",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "sem_expediente",
+   "motivo": "Natal",
+   "fonte": "portaria_189"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-29",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-30",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "calendario"
+  }
+ ],
+ "locais": {
+  "BRASÍLIA": []
+ }
+}

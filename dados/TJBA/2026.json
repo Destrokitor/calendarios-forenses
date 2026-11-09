@@ -1,0 +1,305 @@
+{
+ "tribunal": "TJBA",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:06:59Z",
+ "fontes": [
+  {
+   "id": "decreto",
+   "url": "https://www.tjba.jus.br/portal/wp-content/uploads/2025/12/Decreto-1050-25_-expediente-forense-2026.pdf",
+   "descricao": "Decreto Judiciário nº 1050, de 04/12/2025 (expediente forense 2026), DJe nº 3.944, de 05/12/2025, pp. 6-8"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "recesso",
+   "motivo": "Recesso judiciário (art. 2º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-01",
+   "tipo": "sem_expediente",
+   "motivo": "Confraternização Universal",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-02",
+   "tipo": "recesso",
+   "motivo": "Recesso judiciário (art. 2º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-02",
+   "tipo": "sem_expediente",
+   "motivo": "Confraternização Universal",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-03",
+   "tipo": "recesso",
+   "motivo": "Recesso judiciário (art. 2º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-04",
+   "tipo": "recesso",
+   "motivo": "Recesso judiciário (art. 2º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-05",
+   "tipo": "recesso",
+   "motivo": "Recesso judiciário (art. 2º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-06",
+   "tipo": "recesso",
+   "motivo": "Recesso judiciário (art. 2º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-07",
+   "tipo": "suspensao_prazo",
+   "motivo": "Prazos suspensos de 7 a 20/01, expediente normal (art. 4º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-08",
+   "tipo": "suspensao_prazo",
+   "motivo": "Prazos suspensos de 7 a 20/01, expediente normal (art. 4º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-09",
+   "tipo": "suspensao_prazo",
+   "motivo": "Prazos suspensos de 7 a 20/01, expediente normal (art. 4º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-10",
+   "tipo": "suspensao_prazo",
+   "motivo": "Prazos suspensos de 7 a 20/01, expediente normal (art. 4º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-11",
+   "tipo": "suspensao_prazo",
+   "motivo": "Prazos suspensos de 7 a 20/01, expediente normal (art. 4º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-12",
+   "tipo": "suspensao_prazo",
+   "motivo": "Prazos suspensos de 7 a 20/01, expediente normal (art. 4º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-13",
+   "tipo": "suspensao_prazo",
+   "motivo": "Prazos suspensos de 7 a 20/01, expediente normal (art. 4º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-14",
+   "tipo": "suspensao_prazo",
+   "motivo": "Prazos suspensos de 7 a 20/01, expediente normal (art. 4º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-15",
+   "tipo": "suspensao_prazo",
+   "motivo": "Prazos suspensos de 7 a 20/01, expediente normal (art. 4º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-16",
+   "tipo": "suspensao_prazo",
+   "motivo": "Prazos suspensos de 7 a 20/01, expediente normal (art. 4º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-17",
+   "tipo": "suspensao_prazo",
+   "motivo": "Prazos suspensos de 7 a 20/01, expediente normal (art. 4º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-18",
+   "tipo": "suspensao_prazo",
+   "motivo": "Prazos suspensos de 7 a 20/01, expediente normal (art. 4º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-19",
+   "tipo": "suspensao_prazo",
+   "motivo": "Prazos suspensos de 7 a 20/01, expediente normal (art. 4º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-01-20",
+   "tipo": "suspensao_prazo",
+   "motivo": "Prazos suspensos de 7 a 20/01, expediente normal (art. 4º)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-02-12",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval e Quarta-feira de Cinzas",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-02-13",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval e Quarta-feira de Cinzas",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-02-16",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval e Quarta-feira de Cinzas",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval e Quarta-feira de Cinzas",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-02-18",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval e Quarta-feira de Cinzas",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-04-02",
+   "tipo": "sem_expediente",
+   "motivo": "Endoenças e Sexta-feira Santa",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "Endoenças e Sexta-feira Santa",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-04-20",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Trabalhador",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-06-04",
+   "tipo": "sem_expediente",
+   "motivo": "Corpus Christi",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-06-05",
+   "tipo": "sem_expediente",
+   "motivo": "Corpus Christi",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-06-22",
+   "tipo": "sem_expediente",
+   "motivo": "São João",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-06-23",
+   "tipo": "sem_expediente",
+   "motivo": "São João",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-06-24",
+   "tipo": "sem_expediente",
+   "motivo": "São João",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-07-02",
+   "tipo": "sem_expediente",
+   "motivo": "Independência da Bahia",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-07-03",
+   "tipo": "sem_expediente",
+   "motivo": "Independência da Bahia",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-08-10",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Criação dos Cursos Jurídicos no Brasil, Dia do Magistrado e Dia do Advogado",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-08-11",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Criação dos Cursos Jurídicos no Brasil, Dia do Magistrado e Dia do Advogado",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "Independência do Brasil",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "Nossa Senhora da Conceição Aparecida",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-10-30",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Servidor Público (transferido do dia 28 para o dia 30)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Dia de Finados",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Consciência Negra",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-12-07",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Justiça",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Justiça",
+   "fonte": "decreto"
+  }
+ ],
+ "locais": {
+  "SALVADOR": []
+ }
+}

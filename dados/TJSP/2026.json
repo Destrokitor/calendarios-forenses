@@ -1,0 +1,4164 @@
+{
+ "tribunal": "TJSP",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:29:01Z",
+ "fontes": [
+  {
+   "id": "portal",
+   "url": "https://www.tjsp.jus.br/CanaisComunicacao/Feriados/ExpedienteForense",
+   "descricao": "Consulta pública do TJSP: feriados e suspensões por comarca (JSON do portal)"
+  },
+  {
+   "id": "comarcas",
+   "url": "https://www.tjsp.jus.br/QuemSomos/QuemSomos/RegioesAdministrativasJudiciarias",
+   "descricao": "Lista de comarcas (Regiões Administrativas Judiciárias) do portal do TJSP"
+  },
+  {
+   "id": "provimento",
+   "url": "https://esaj.tjsp.jus.br/gcn-services/api/publico/origemnormaleg/arquivo/lXJ1041xK4/RY1PXz518K",
+   "descricao": "Provimento CSM nº 2.813/2025 (DJE de 25/11/2025), art. 1º §1º e art. 2º"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-02",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-03",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-04",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-05",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-06",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-07",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos processuais - Art. 116, § 2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-08",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos processuais - Art. 116, § 2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-09",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos processuais - Art. 116, § 2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-10",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos processuais - Art. 116, § 2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-11",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos processuais - Art. 116, § 2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-12",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos processuais - Art. 116, § 2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-13",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos processuais - Art. 116, § 2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-14",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos processuais - Art. 116, § 2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-15",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos processuais - Art. 116, § 2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-16",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos processuais - Art. 116, § 2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-17",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos processuais - Art. 116, § 2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-18",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos processuais - Art. 116, § 2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-19",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos processuais - Art. 116, § 2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-01-20",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão dos prazos processuais - Art. 116, § 2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-02-16",
+   "tipo": "sem_expediente",
+   "motivo": "CARNAVAL (PROVIMENTO CSM Nº 2.813/2025)",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "CARNAVAL (PROVIMENTO CSM Nº 2.813/2025)",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-02-18",
+   "tipo": "parcial",
+   "motivo": "Quarta-feira de Cinzas",
+   "fonte": "provimento",
+   "horario": "a partir das 13h"
+  },
+  {
+   "data": "2026-04-02",
+   "tipo": "sem_expediente",
+   "motivo": "ENDOENÇAS (PROVIMENTO CSM Nº 2.813/2025)",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "SEXTA-FEIRA DA PAIXÃO (PROVIMENTO CSM Nº 2.813/2025)",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-04-20",
+   "tipo": "sem_expediente",
+   "motivo": "SUSPENSÃO DO EXPEDIENTE (PROVIMENTO CSM Nº 2.813/2025)",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "TIRADENTES (PROVIMENTO CSM Nº 2.813/2025)",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "DIA DO TRABALHO (PROVIMENTO CSM Nº 2.813/2025)",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-06-04",
+   "tipo": "sem_expediente",
+   "motivo": "CORPUS-CHRISTI (PROVIMENTO CSM Nº 2.813/2025)",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-06-05",
+   "tipo": "sem_expediente",
+   "motivo": "SUSPENSÃO DO EXPEDIENTE (PROVIMENTO CSM Nº 2.813/2025)",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-07-09",
+   "tipo": "sem_expediente",
+   "motivo": "DATA MAGNA DO ESTADO DE SÃO PAULO (PROVIMENTO CSM Nº 2.813/2025)",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-07-10",
+   "tipo": "sem_expediente",
+   "motivo": "SUSPENSÃO DO EXPEDIENTE (PROVIMENTO CSM Nº 2.813/2025)",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "INDEPENDÊNCIA DO BRASIL (PROVIMENTO CSM Nº 2.813/2025)",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "NOSSA SENHORA APARECIDA (PROVIMENTO CSM Nº 2.813/2025)",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-10-30",
+   "tipo": "sem_expediente",
+   "motivo": "DIA DO SERVIDOR PÚBLICO (PROVIMENTO CSM Nº 2.813/2025) ALTERADO PELO PROVIMENTO CSM Nº 2845/2026.",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "FINADOS (PROVIMENTO CSM Nº 2.813/2025))",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "DIA NACIONAL DE ZUMBI E DA CONSCIÊNCIA NEGRA (PROVIMENTO CSM Nº 2.813/2025)",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-12-07",
+   "tipo": "sem_expediente",
+   "motivo": "SUSPENSÃO DO EXPEDIENTE (PROVIMENTO CSM Nº 2.813/2025)",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "sem_expediente",
+   "motivo": "DIA DA JUSTIÇA (PROVIMENTO CSM Nº 2.813/2025)",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-12-20",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-12-21",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-12-22",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-12-23",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-12-24",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-12-29",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-12-30",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense - Art. 116, §2º do RITJSP",
+   "fonte": "portal"
+  }
+ ],
+ "locais": {
+  "ADAMANTINA": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) E FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "AGUAÍ": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "AGUDOS": [
+   {
+    "data": "2026-01-25",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-27",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ALTINÓPOLIS": [
+   {
+    "data": "2026-03-09",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "NSA SRA DA PIEDADE - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "AMERICANA": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "SANTO ANTÔNIO",
+    "fonte": "portal"
+   }
+  ],
+  "AMPARO": [
+   {
+    "data": "2026-04-08",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   }
+  ],
+  "AMÉRICO BRASILIENSE": [
+   {
+    "data": "2026-03-21",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ANDRADINA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-11",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "parcial",
+    "motivo": "A PARTIR DAS 12 HORAS - PROCISSÃO DE BOM JESUS DA LAPA",
+    "fonte": "portal",
+    "horario": "a partir das 12h"
+   }
+  ],
+  "ANGATUBA": [
+   {
+    "data": "2026-03-11",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "APARECIDA": [
+   {
+    "data": "2026-04-13",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO BENEDITO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-12-17",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SÃO LÁZARO E FESTA DE EMANCIPAÇÃO POL. ADM.",
+    "fonte": "portal"
+   }
+  ],
+  "APIAÍ": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "SANTO ANTÔNIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-14",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   }
+  ],
+  "ARARAQUARA": [
+   {
+    "data": "2026-08-22",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ARARAS": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "ARAÇATUBA": [
+   {
+    "data": "2026-12-02",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ARTUR NOGUEIRA": [
+   {
+    "data": "2026-04-10",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ARUJÁ": [
+   {
+    "data": "2026-06-08",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "SENHOR BOM JESUS DE ARUJÁ - PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "ASSIS": [
+   {
+    "data": "2026-07-01",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-04",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO FRANCISCO DE ASSIS - PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "ATIBAIA": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "AURIFLAMA": [],
+  "AVARÉ": [
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "NSA SRA DAS DORES E FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "BANANAL": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "SENHOR BOM JESUS DO LIVRAMENTO - PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "BARIRI": [
+   {
+    "data": "2026-06-15",
+    "tipo": "sem_expediente",
+    "motivo": "TRANSFERIDO O FERIADO DE 15/06 PARA 16/06, SOMENTE NO EXERCÍCIO DE 2026, NO CSM DE 22/05/2026",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "BARRA BONITA": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "BARRETOS": [
+   {
+    "data": "2026-08-25",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIADADE",
+    "fonte": "portal"
+   }
+  ],
+  "BARUERI": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO JOÃO BATISTA",
+    "fonte": "portal"
+   }
+  ],
+  "BASTOS": [
+   {
+    "data": "2026-06-18",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DO MUNICÍPIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-12-03",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO - SÃO FRANCISCO XAVIER",
+    "fonte": "portal"
+   }
+  ],
+  "BATATAIS": [
+   {
+    "data": "2026-03-14",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "SENHOR BOM JESUS DA CANA VERDE - PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "BAURU": [
+   {
+    "data": "2026-08-01",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO LEÔNCIO E FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "BEBEDOURO": [
+   {
+    "data": "2026-05-03",
+    "tipo": "sem_expediente",
+    "motivo": "FESTA DA SANTA CRUZ",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "BERTIOGA": [
+   {
+    "data": "2026-05-19",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO JOÃO BATISTA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-28",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO SERVIDOR PÚBLICO",
+    "fonte": "portal"
+   }
+  ],
+  "BILAC": [
+   {
+    "data": "2026-04-18",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "BIRIGUI": [],
+  "BOITUVA": [
+   {
+    "data": "2026-08-16",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO ROQUE - PADROEIRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-06",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "BORBOREMA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-03-21",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SÃO BENTO",
+    "fonte": "portal"
+   }
+  ],
+  "BOTUCATU": [
+   {
+    "data": "2026-04-14",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "SANT'ANA - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "BRAGANÇA PAULISTA": [],
+  "BRODOWSKI": [
+   {
+    "data": "2026-08-22",
+    "tipo": "sem_expediente",
+    "motivo": "FERIADO MUNICIPAL - LEI 795/1987",
+    "fonte": "portal"
+   }
+  ],
+  "BROTAS": [
+   {
+    "data": "2026-05-03",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "BURI": [
+   {
+    "data": "2026-01-25",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-16",
+    "tipo": "sem_expediente",
+    "motivo": "SANTO ROQUE",
+    "fonte": "portal"
+   }
+  ],
+  "BURITAMA": [
+   {
+    "data": "2026-08-24",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "CABREÚVA": [
+   {
+    "data": "2026-03-24",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "NSA SRA DA PIEDADE - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "CACHOEIRA PAULISTA": [
+   {
+    "data": "2026-03-09",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "SANTO ANTÔNIO",
+    "fonte": "portal"
+   }
+  ],
+  "CACONDE": [
+   {
+    "data": "2026-04-27",
+    "tipo": "sem_expediente",
+    "motivo": "RELATIVO À SEMANA CULTURAL \" PRESIDENTE RANIERI MAZZILLI\"",
+    "fonte": "portal"
+   }
+  ],
+  "CAFELÂNDIA": [
+   {
+    "data": "2026-04-11",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "ASSUNÇÃO DE NOSSA SENHORA",
+    "fonte": "portal"
+   }
+  ],
+  "CAIEIRAS": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "SANTO ANTÔNIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "STO ANGELO E EMANCIPAÇÃO POL ADM DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "CAJAMAR": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-02-18",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "CAJURU": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-11",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO BENTO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-18",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   }
+  ],
+  "CAMPINAS": [
+   {
+    "data": "2026-08-12",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO EVANGÉLICO - INCLUÍDO NA 16ª SESSÃO VIRTUAL DO CSM DE 10/04/2026",
+    "fonte": "portal"
+   }
+  ],
+  "CAMPO LIMPO PAULISTA": [
+   {
+    "data": "2026-03-21",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-07",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "CAMPOS DO JORDÃO": [
+   {
+    "data": "2026-04-29",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-01",
+    "tipo": "sem_expediente",
+    "motivo": "STA TEREZINHA - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "CANANÉIA": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-12",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "ASSUNÇÃO DE NOSSA SENHORA",
+    "fonte": "portal"
+   }
+  ],
+  "CAPIVARI": [],
+  "CAPÃO BONITO": [],
+  "CARAGUATATUBA": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "CARAPICUÍBA": [
+   {
+    "data": "2026-03-26",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO PEDRO",
+    "fonte": "portal"
+   }
+  ],
+  "CARDOSO": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   }
+  ],
+  "CASA BRANCA": [
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRA DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-25",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "CATANDUVA": [
+   {
+    "data": "2026-04-14",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-10",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO DA CIDADE - TRANSFERIDO DO DIA 08/08 PARA 10/08/2026 NO CSM DE 18/03/2026",
+    "fonte": "portal"
+   }
+  ],
+  "CAÇAPAVA": [
+   {
+    "data": "2026-04-14",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO TIBÚRCIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO JOÃO BATISTA",
+    "fonte": "portal"
+   }
+  ],
+  "CERQUEIRA CÉSAR": [
+   {
+    "data": "2026-10-01",
+    "tipo": "sem_expediente",
+    "motivo": "STA TEREZINHA - PADROEIRA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-10",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO E EMANCIPAÇÃO POLÍTICO ADM",
+    "fonte": "portal"
+   }
+  ],
+  "CERQUILHO": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO JOSÉ",
+    "fonte": "portal"
+   }
+  ],
+  "CESÁRIO LANGE": [
+   {
+    "data": "2026-05-03",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-14",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SANTA CRUZ - PADROEIRA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "CHAVANTES": [
+   {
+    "data": "2026-12-04",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   }
+  ],
+  "COLINA": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO JOSÉ",
+    "fonte": "portal"
+   }
+  ],
+  "CONCHAL": [
+   {
+    "data": "2026-04-09",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-26",
+    "tipo": "sem_expediente",
+    "motivo": "SAGRADO CORAÇÃO DE JESUS - 4ª SEXTA - FEIRA DO JUNHO",
+    "fonte": "portal"
+   }
+  ],
+  "CONCHAS": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "SANTO ANTONIO E ANIVERSÁRIO DE INSTALAÇÃO DA COMARCA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO - SENHOR BOM JESUS",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-12-04",
+    "tipo": "sem_expediente",
+    "motivo": "STA BÁRBARA E EMANCIPAÇÃO POLÍTICA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "CORDEIRÓPOLIS": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SANTO ANTÔNIO - PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "COSMÓPOLIS": [
+   {
+    "data": "2026-11-30",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "COTIA": [
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DE MONT SERRAT - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "CRAVINHOS": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO JOSÉ E DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "CRUZEIRO": [
+   {
+    "data": "2026-10-02",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "CUBATÃO": [
+   {
+    "data": "2026-04-09",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "CUNHA": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO JOSÉ DA BOA VISTA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-04-06",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO BENEDITO - 1ª SEGUNDA-FEIRA APÓS A PÁSCOA",
+    "fonte": "portal"
+   }
+  ],
+  "CÂNDIDO MOTA": [
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRA NSA SRA DAS DORES",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-26",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   }
+  ],
+  "DESCALVADO": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "DIADEMA": [],
+  "DOIS CÓRREGOS": [
+   {
+    "data": "2026-02-04",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE S. CORSINHO E ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "DRACENA": [],
+  "DUARTINA": [
+   {
+    "data": "2026-12-11",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO DAMÁSIO E DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-12-13",
+    "tipo": "sem_expediente",
+    "motivo": "SANTA LUZIA - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "ELDORADO": [
+   {
+    "data": "2026-03-10",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DA GUIA",
+    "fonte": "portal"
+   }
+  ],
+  "EMBU DAS ARTES": [
+   {
+    "data": "2026-02-18",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA E SÃO SIMÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-07",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRA NOSSA SENHORA DO ROSÁRIO",
+    "fonte": "portal"
+   }
+  ],
+  "EMBU-GUAÇU": [
+   {
+    "data": "2026-03-28",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-01",
+    "tipo": "sem_expediente",
+    "motivo": "SANTA TEREZINHA DO MENINO JESUS",
+    "fonte": "portal"
+   }
+  ],
+  "ESPÍRITO SANTO DO PINHAL": [
+   {
+    "data": "2026-12-13",
+    "tipo": "sem_expediente",
+    "motivo": "SANTA LUIZA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-12-27",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ESTRELA DOESTE": [
+   {
+    "data": "2026-01-25",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE E SÃO PAULO APÓSTOLO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-25",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - NOSSA SENHORA DA PENHA",
+    "fonte": "portal"
+   }
+  ],
+  "FARTURA": [
+   {
+    "data": "2026-03-31",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   }
+  ],
+  "FERNANDÓPOLIS": [
+   {
+    "data": "2026-05-22",
+    "tipo": "sem_expediente",
+    "motivo": "SANTA RITA - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "FERRAZ DE VASCONCELOS": [
+   {
+    "data": "2026-10-14",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POL. ADM. DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "FLÓRIDA PAULISTA": [
+   {
+    "data": "2026-10-25",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DO MUNICÍPIO E EXALTAÇÃO A SANTA CLAUDIA",
+    "fonte": "portal"
+   }
+  ],
+  "FRANCA": [
+   {
+    "data": "2026-11-28",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "FRANCISCO MORATO": [
+   {
+    "data": "2026-03-21",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "SAGRADO CORAÇÃO DE JESUS",
+    "fonte": "portal"
+   }
+  ],
+  "FRANCO DA ROCHA": [
+   {
+    "data": "2026-11-30",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SANTO ANDRÉ E ANIVERSÁRIO DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "GARÇA": [
+   {
+    "data": "2026-05-05",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POL. ADM E DIA DO MENINO JESUS DE ARACELI",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO PEDRO E DIA DA COMUNIDADE RELIGIOSA MUNICIP",
+    "fonte": "portal"
+   }
+  ],
+  "GENERAL SALGADO": [
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "NSA SRA DAS DORES E FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "GETULINA": [
+   {
+    "data": "2026-03-25",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DO CARMO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DA ASSUNÇÃO - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "GUARARAPES": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO PEDRO",
+    "fonte": "portal"
+   }
+  ],
+  "GUARAREMA": [
+   {
+    "data": "2026-09-19",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "GUARATINGUETÁ": [
+   {
+    "data": "2026-04-06",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO BENEDITO - 1ª SEGUNDA-FEIRA APÓS A PÁSCOA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-25",
+    "tipo": "sem_expediente",
+    "motivo": "FREI GALVÃO",
+    "fonte": "portal"
+   }
+  ],
+  "GUARIBA": [
+   {
+    "data": "2026-09-21",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "GUARUJÁ": [
+   {
+    "data": "2026-01-15",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SANTO AMARO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA (ANTECIPADA CSM 12/12/2025)",
+    "fonte": "portal"
+   }
+  ],
+  "GUARULHOS": [],
+  "GUARÁ": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "GUAÍRA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-05-18",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "GÁLIA": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SÃO JOSÉ",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-04-14",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "HORTOLÂNDIA": [
+   {
+    "data": "2026-05-19",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "IACANGA": [
+   {
+    "data": "2026-04-15",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO JOÃO BATISTA",
+    "fonte": "portal"
+   }
+  ],
+  "IBATÉ": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO JOÃO BATISTA E DIA DE IBATÉ",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DA ASSUNÇÃO - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "IBITINGA": [
+   {
+    "data": "2026-07-04",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIP. POL. ADM. E CONSAGRAÇÃO A ST. ISABEL DE PORTUGAL",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "IBIÚNA": [
+   {
+    "data": "2026-03-24",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-02",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO - 1ª TERÇA - FEIRA APÓS O ÚLTIMO SÁBADO DO MÊS",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "NSA SRA DAS DORES - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "IEPÊ": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO JOÃO BATISTA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-30",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "IGARAPAVA": [
+   {
+    "data": "2026-05-22",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SANTA RITA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "ASSUNÇÃO DE NOSSA SENHORA",
+    "fonte": "portal"
+   }
+  ],
+  "IGUAPE": [
+   {
+    "data": "2026-01-06",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO BENEDITO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-05",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DAS NEVES",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "SR. BOM JESUS DE IGUAPE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-12-03",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ILHA SOLTEIRA": [
+   {
+    "data": "2026-10-04",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO FRANCISCO DE ASSIS - PADROEIRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-15",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ILHABELA": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA PADROEIRA NOSSA SENHORA D'AJUDA E BONSUCESSO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-03",
+    "tipo": "sem_expediente",
+    "motivo": "COMEMORAÇÃO POLÍTICO-ADMINISTRATIVA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "INDAIATUBA": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-12-09",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE - ELEVAÇÃO A FREGUESIA / CSM DE 19/10/2026",
+    "fonte": "portal"
+   }
+  ],
+  "IPAUSSU": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-20",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   }
+  ],
+  "IPUÃ": [
+   {
+    "data": "2026-03-26",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA E ECONÔMICA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DE SANTANA - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "ITABERÁ": [
+   {
+    "data": "2026-04-25",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ITAJOBI": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-04-10",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE - TRANSFERIDO DO DIA 04/04, APENAS EM 2026, NA 16ª SESSÃO VIRTUAL DO CSM DE 10/04/2026",
+    "fonte": "portal"
+   }
+  ],
+  "ITANHAÉM": [
+   {
+    "data": "2026-04-22",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-09",
+    "tipo": "sem_expediente",
+    "motivo": "JOSÉ DE ANCHIETA",
+    "fonte": "portal"
+   }
+  ],
+  "ITAPECERICA DA SERRA": [
+   {
+    "data": "2026-05-08",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POL. (LEI 2/67)",
+    "fonte": "portal"
+   }
+  ],
+  "ITAPETININGA": [
+   {
+    "data": "2026-11-05",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA FUNDAÇÃO DA CIDADE E NOSSA SRA. DOS PRAZERES",
+    "fonte": "portal"
+   }
+  ],
+  "ITAPEVA": [
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-20",
+    "tipo": "sem_expediente",
+    "motivo": "SANTO EUSTÁCHIO MÁRTIR DA CRISTANDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ITAPEVI": [
+   {
+    "data": "2026-02-18",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-28",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ITAPIRA": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "FESTA DE LOUVOR A SÃO BENEDITO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRA- NOSSA SENHORA DA PENHA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-24",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ITAPORANGA": [
+   {
+    "data": "2026-03-06",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO, EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA E SAN",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO JOÃO BATISTA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-21",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ITAQUAQUECETUBA": [
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ITARARÉ": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO PEDRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-28",
+    "tipo": "sem_expediente",
+    "motivo": "SANTO AGOSTINHO",
+    "fonte": "portal"
+   }
+  ],
+  "ITARIRI": [
+   {
+    "data": "2026-04-09",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-05-05",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO BENEDITO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "ITATIBA": [
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "ITATINGA": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO JOÃO BATISTA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-24",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ITAÍ": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SANTO ANTÔNIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-31",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADM",
+    "fonte": "portal"
+   }
+  ],
+  "ITIRAPINA": [
+   {
+    "data": "2026-03-25",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SANTO ANTONIO",
+    "fonte": "portal"
+   }
+  ],
+  "ITU": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) E DIA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ITUPEVA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   }
+  ],
+  "ITUVERAVA": [
+   {
+    "data": "2026-03-10",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-16",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DO CARMO - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "ITÁPOLIS": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-20",
+    "tipo": "sem_expediente",
+    "motivo": "SANTA MARTA, SANTA SULA E DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "JABOTICABAL": [
+   {
+    "data": "2026-07-16",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DO CARMO - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "JACAREÍ": [],
+  "JACUPIRANGA": [
+   {
+    "data": "2026-06-23",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "JAGUARIÚNA": [
+   {
+    "data": "2026-09-12",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SANTO NOME DE MARIA EXCELSA",
+    "fonte": "portal"
+   }
+  ],
+  "JALES": [
+   {
+    "data": "2026-04-15",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE E CONSAGRAÇÃO A SANTO EXPEDITO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "ASSUNÇÃO DE NOSSA SENHORA",
+    "fonte": "portal"
+   }
+  ],
+  "JANDIRA": [],
+  "JARDINÓPOLIS": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO PEDRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-27",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO PANTALEÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "SR. BOM JESUS DA LAPA",
+    "fonte": "portal"
+   }
+  ],
+  "JARINU": [
+   {
+    "data": "2026-04-17",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-16",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "JAÚ": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "JOSÉ BONIFÁCIO": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE (LEI 3384/2008)",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA FRATERNIDADE (LEI 3384/2008 E LEI 3385/2008)",
+    "fonte": "portal"
+   }
+  ],
+  "JUNDIAÍ": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "JUNQUEIRÓPOLIS": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - DIA DE SANTO ANTÔNIO",
+    "fonte": "portal"
+   }
+  ],
+  "JUQUIÁ": [
+   {
+    "data": "2026-04-10",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) E DIA DE SANTO ANTÔNIO",
+    "fonte": "portal"
+   }
+  ],
+  "LARANJAL PAULISTA": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-10",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "LEME": [
+   {
+    "data": "2026-06-17",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-29",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "LENÇÓIS PAULISTA": [
+   {
+    "data": "2026-04-28",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE E DIA DE SÃO PEDRO CHANEL",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DA PIEDADE",
+    "fonte": "portal"
+   }
+  ],
+  "LIMEIRA": [
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "LINS": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - DIA DE SANTO ANTÔNIO",
+    "fonte": "portal"
+   }
+  ],
+  "LORENA": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "ASSUNÇÃO DE NOSSA SENHORA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-14",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICA",
+    "fonte": "portal"
+   }
+  ],
+  "LOUVEIRA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-03-21",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "LUCÉLIA": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO JOÃO BATISTA",
+    "fonte": "portal"
+   }
+  ],
+  "MACATUBA": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "MACAUBAL": [
+   {
+    "data": "2026-05-02",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "MAIRINQUE": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SÃO JOSÉ",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-27",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DO MUNICÍPIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-22",
+    "tipo": "sem_expediente",
+    "motivo": "CONSCIÊNCIA NEGRA - LEI MUNICIPAL Nº 3.566/2017",
+    "fonte": "portal"
+   }
+  ],
+  "MAIRIPORÃ": [
+   {
+    "data": "2026-03-27",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   }
+  ],
+  "MARACAÍ": [
+   {
+    "data": "2026-05-04",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   }
+  ],
+  "MARTINÓPOLIS": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA E DIA DE SANTO ANTONIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "LOUVOR A SÃO PEDRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-12-02",
+    "tipo": "sem_expediente",
+    "motivo": "SANTA BIBIANA",
+    "fonte": "portal"
+   }
+  ],
+  "MARÍLIA": [
+   {
+    "data": "2026-04-04",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-11",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO BENTO - PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "MATÃO": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SENHOR BOM JESUS",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-27",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA",
+    "fonte": "portal"
+   }
+  ],
+  "MAUÁ": [],
+  "MIGUELÓPOLIS": [
+   {
+    "data": "2026-01-14",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-29",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO MIGUEL - PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "MIRACATU": [
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DAS DORES",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-30",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "MIRANDÓPOLIS": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO JOSÉ E ANIVERSÁRIO DE FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "MIRANTE DO PARANAPANEMA": [
+   {
+    "data": "2026-10-01",
+    "tipo": "sem_expediente",
+    "motivo": "SANTA TERESINHA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-29",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "MIRASSOL": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO PEDRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE E CONSAGRAÇÃO À NATIVIDADE DE NOSSA SENHORA",
+    "fonte": "portal"
+   }
+  ],
+  "MOCOCA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-04-05",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "MOGI DAS CRUZES": [
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "SANT'ANA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-01",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SANTO EGÍDIO E FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "MOGI GUAÇU": [
+   {
+    "data": "2026-04-09",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "MOGI MIRIM": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SÃO JOSÉ",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-22",
+    "tipo": "sem_expediente",
+    "motivo": "SANTA MARIA SALOMÉ E FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "MONGAGUÁ": [],
+  "MONTE ALTO": [
+   {
+    "data": "2026-05-15",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "MONTE APRAZÍVEL": [
+   {
+    "data": "2026-03-10",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SANTO ANASTÁCIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO SENHOR BOM JESUS",
+    "fonte": "portal"
+   }
+  ],
+  "MONTE AZUL PAULISTA": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SÃO PEDRO E FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "SENHOR BOM JESUS E PADROEIRO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "MONTE MOR": [
+   {
+    "data": "2026-03-24",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DO MUNICÍPIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DO PATROCÍNIO",
+    "fonte": "portal"
+   }
+  ],
+  "MORRO AGUDO": [
+   {
+    "data": "2026-01-06",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SÃO JOSÉ",
+    "fonte": "portal"
+   }
+  ],
+  "NAZARÉ PAULISTA": [
+   {
+    "data": "2026-06-10",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO PEDRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-21",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "NEVES PAULISTA": [
+   {
+    "data": "2026-05-22",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-30",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "NHANDEARA": [
+   {
+    "data": "2026-01-06",
+    "tipo": "sem_expediente",
+    "motivo": "SANTOS REI",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO JOÃO BATISTA E DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "NOVA GRANADA": [
+   {
+    "data": "2026-03-23",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE - TRANSFERIDO DO DIA 22/03 PARA 23/03/2026 NO CSM DE 18/03/2026",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-05",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO BENEDITO - PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "NOVA ODESSA": [
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DAS DORES",
+    "fonte": "portal"
+   }
+  ],
+  "NOVO HORIZONTE": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-28",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "NUPORANGA": [
+   {
+    "data": "2026-05-03",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SANTA CRUZ DA VAL",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "ASSUNÇÃO DE NOSSA SENHORA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-09",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE E SANTO HOMERO",
+    "fonte": "portal"
+   }
+  ],
+  "OLÍMPIA": [
+   {
+    "data": "2026-03-02",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO JOÃO BATISTA",
+    "fonte": "portal"
+   }
+  ],
+  "ORLÂNDIA": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SÃO JOSÉ",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-03-30",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "OSASCO": [
+   {
+    "data": "2026-02-19",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SANTO ANTÔNIO",
+    "fonte": "portal"
+   }
+  ],
+  "OSVALDO CRUZ": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-06",
+    "tipo": "sem_expediente",
+    "motivo": "SANTA CÂNDIDA ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "OURINHOS": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "SENHOR BOM JESUS - PADROEIRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-12-13",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "OUROESTE": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-12-27",
+    "tipo": "sem_expediente",
+    "motivo": "CRIAÇÃO DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "PACAEMBU": [
+   {
+    "data": "2026-01-06",
+    "tipo": "sem_expediente",
+    "motivo": "SANTOS REIS",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-27",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - NOSSA SENHORA DAS GRAÇAS",
+    "fonte": "portal"
+   }
+  ],
+  "PALESTINA": [
+   {
+    "data": "2026-05-30",
+    "tipo": "sem_expediente",
+    "motivo": "VENERAÇÃO À SANTA JOANA D'ARC",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "VENERAÇÃO À SÃO JOÃO BATISTA",
+    "fonte": "portal"
+   }
+  ],
+  "PALMEIRA D'OESTE": [
+   {
+    "data": "2026-12-13",
+    "tipo": "sem_expediente",
+    "motivo": "SANTA LUZIA PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "PALMITAL": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   }
+  ],
+  "PANORAMA": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SÃO JOSÉ",
+    "fonte": "portal"
+   }
+  ],
+  "PARAGUAÇU PAULISTA": [
+   {
+    "data": "2026-03-12",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "PARAIBUNA": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   }
+  ],
+  "PARANAPANEMA": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "PARIQUERA-AÇU": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO APÓSTOLO - PADROEIRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-11",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   }
+  ],
+  "PATROCÍNIO PAULISTA": [
+   {
+    "data": "2026-03-10",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-28",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   }
+  ],
+  "PAULO DE FARIA": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "SENHOR BOM JESUS - PADROEIRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-30",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SANTO ANDRÉ",
+    "fonte": "portal"
+   }
+  ],
+  "PAULÍNIA": [
+   {
+    "data": "2026-02-28",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "SAGRADO CORAÇÃO DE JESUS (FERIADO MÓVEL)",
+    "fonte": "portal"
+   }
+  ],
+  "PEDERNEIRAS": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-05-22",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "PEDREGULHO": [
+   {
+    "data": "2026-03-18",
+    "tipo": "sem_expediente",
+    "motivo": "ELEVAÇÃO DO MUNICÍPIO À COMARCA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "PEDREIRA": [
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "SANT'ANA - PADROEIRA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "PENÁPOLIS": [
+   {
+    "data": "2026-10-04",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO FRANCISCO DE ASSIS - PADROEIRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-25",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "PEREIRA BARRETO": [
+   {
+    "data": "2026-08-11",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-12-03",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   }
+  ],
+  "PERUÍBE": [
+   {
+    "data": "2026-02-18",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO JOÃO BATISTA",
+    "fonte": "portal"
+   }
+  ],
+  "PIEDADE": [
+   {
+    "data": "2026-05-20",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DOS NAVEGANTES",
+    "fonte": "portal"
+   }
+  ],
+  "PILAR DO SUL": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "BOM JESUS DO BOM FIM",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-05",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DOS PRAZERES - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "PINDAMONHANGABA": [
+   {
+    "data": "2026-04-06",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO BENEDITO - 1ª SEGUNDA-FEIRA APÓS A PÁSCOA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DO BOM SUCESSO",
+    "fonte": "portal"
+   }
+  ],
+  "PINHALZINHO": [
+   {
+    "data": "2026-05-03",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - NOSSA SENHORA DE COPACABANA",
+    "fonte": "portal"
+   }
+  ],
+  "PIQUETE": [
+   {
+    "data": "2026-06-15",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-29",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "PIRACAIA": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "SANTO ANTÔNIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-16",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE E SÃO JULIANO",
+    "fonte": "portal"
+   }
+  ],
+  "PIRACICABA": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "SANTO ANTÔNIO",
+    "fonte": "portal"
+   }
+  ],
+  "PIRAJU": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   }
+  ],
+  "PIRAJUÍ": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-03-29",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA E SÃO JONAS",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "SANTO ANTONIO",
+    "fonte": "portal"
+   }
+  ],
+  "PIRANGI": [
+   {
+    "data": "2026-03-07",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) DOS ESTUDANTES - SÃO BRAZ AQUINO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "SANTO ANTÔNIO",
+    "fonte": "portal"
+   }
+  ],
+  "PIRAPOZINHO": [
+   {
+    "data": "2026-04-09",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO JOÃO BATISTA",
+    "fonte": "portal"
+   }
+  ],
+  "PIRASSUNUNGA": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO E FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "PIRATININGA": [
+   {
+    "data": "2026-05-18",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-29",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRA - SANTA MARIA DE PIRATININGA",
+    "fonte": "portal"
+   }
+  ],
+  "PITANGUEIRAS": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-27",
+    "tipo": "sem_expediente",
+    "motivo": "CONSAGRAÇÃO A SANTA BARTOMÉIA CAPITANEO",
+    "fonte": "portal"
+   }
+  ],
+  "POMPÉIA": [
+   {
+    "data": "2026-09-17",
+    "tipo": "sem_expediente",
+    "motivo": "ESTIGMAS DE SÃO FRANCISCO DE ASSIS E ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-07",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DO ROSÁRIO - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "PONTAL": [
+   {
+    "data": "2026-08-10",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SÃO LOURENÇO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-18",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO LUCAS",
+    "fonte": "portal"
+   }
+  ],
+  "PORANGABA": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "SANTO ANTÔNIO",
+    "fonte": "portal"
+   }
+  ],
+  "PORTO FELIZ": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-13",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "PORTO FERREIRA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-29",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "POTIRENDABA": [
+   {
+    "data": "2026-03-21",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "POÁ": [
+   {
+    "data": "2026-03-26",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   }
+  ],
+  "PRAIA GRANDE": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO PEDRO - PADROEIRO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "PRESIDENTE BERNARDES": [],
+  "PRESIDENTE EPITÁCIO": [
+   {
+    "data": "2026-03-27",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO JERÔNIMO EMILIANI - PATRONO UNIVERSAL DE ÓRFÃOS E JUV. DESAMP. E EMANCIPAÇÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO PEDRO - PATRONO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DOS NAVEGANTES",
+    "fonte": "portal"
+   }
+  ],
+  "PRESIDENTE PRUDENTE": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-14",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "PRESIDENTE VENCESLAU": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - NOSSA SENHORA DE FÁTIMA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-02",
+    "tipo": "sem_expediente",
+    "motivo": "SANTO ESTEVÃO",
+    "fonte": "portal"
+   }
+  ],
+  "PROMISSÃO": [
+   {
+    "data": "2026-11-29",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   }
+  ],
+  "QUATÁ": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SANTO ANTÔNIO",
+    "fonte": "portal"
+   }
+  ],
+  "QUELUZ": [
+   {
+    "data": "2026-03-04",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO JOÃO BATISTA",
+    "fonte": "portal"
+   }
+  ],
+  "RANCHARIA": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "SANTO ANTÔNIO",
+    "fonte": "portal"
+   }
+  ],
+  "REGENTE FEIJÓ": [
+   {
+    "data": "2026-06-28",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO IRINEU",
+    "fonte": "portal"
+   }
+  ],
+  "REGISTRO": [
+   {
+    "data": "2026-11-30",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DE CRIAÇÃO DO MUNICÍPIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-12-03",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SÃO FRANCISCO XAVIER",
+    "fonte": "portal"
+   }
+  ],
+  "RIBEIRÃO BONITO": [
+   {
+    "data": "2026-03-05",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "SENHOR BOM JESUS DA CANA VERDE - PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "RIBEIRÃO PIRES": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SÃO JOSÉ",
+    "fonte": "portal"
+   }
+  ],
+  "RIBEIRÃO PRETO": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-19",
+    "tipo": "sem_expediente",
+    "motivo": "SANTA JULIANA DE FALCONIERI",
+    "fonte": "portal"
+   }
+  ],
+  "RIO CLARO": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO JOÃO BATISTA",
+    "fonte": "portal"
+   }
+  ],
+  "RIO DAS PEDRAS": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "SENHOR BOM JESUS DO MONTE - PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "RIO GRANDE DA SERRA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-05-03",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ROSANA": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - NOSSA SENHORA DOS NAVEGANTES",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-05",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "ROSEIRA": [
+   {
+    "data": "2026-03-21",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "SALESÓPOLIS": [
+   {
+    "data": "2026-02-28",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE E SÃO GABRIEL",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SÃO JOSÉ",
+    "fonte": "portal"
+   }
+  ],
+  "SALTO": [
+   {
+    "data": "2026-06-16",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DO MUNICÍPIO - INCLUÍDO NO CSM DE 30/01/2026",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DO MONT SERRAT - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "SALTO DE PIRAPORA": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO JOÃO BATISTA - PADROEIRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-12-30",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "SANTA ADÉLIA": [
+   {
+    "data": "2026-03-22",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO E SÃO JOSÉ ORIOL",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-12-16",
+    "tipo": "sem_expediente",
+    "motivo": "SANTA ADÉLIA - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "SANTA BRANCA": [
+   {
+    "data": "2026-05-22",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-26",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   }
+  ],
+  "SANTA BÁRBARA D'OESTE": [
+   {
+    "data": "2026-12-04",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SANTA BÁRBARA",
+    "fonte": "portal"
+   }
+  ],
+  "SANTA CRUZ DAS PALMEIRAS": [
+   {
+    "data": "2026-05-03",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DO MUNICÍPIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-14",
+    "tipo": "sem_expediente",
+    "motivo": "EXALTAÇÃO DA SANTA CRUZ",
+    "fonte": "portal"
+   }
+  ],
+  "SANTA CRUZ DO RIO PARDO": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DE FÁTIMA",
+    "fonte": "portal"
+   }
+  ],
+  "SANTA FÉ DO SUL": [
+   {
+    "data": "2026-06-26",
+    "tipo": "sem_expediente",
+    "motivo": "24/06 TRANSFERIDO PARA 26/06, SOMENTE PARA O EXERCÍCIO DE 2026 (CSM DE 30/04/2026)",
+    "fonte": "portal"
+   }
+  ],
+  "SANTA ISABEL": [
+   {
+    "data": "2026-07-04",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SANTA ISABEL - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "SANTA RITA DO PASSA QUATRO": [
+   {
+    "data": "2026-05-22",
+    "tipo": "sem_expediente",
+    "motivo": "LEI MUNICIPAL Nº 747/1967",
+    "fonte": "portal"
+   }
+  ],
+  "SANTA ROSA DE VITERBO": [
+   {
+    "data": "2026-05-22",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SANTA RITA DE CÁSSIA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-04",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "SANTANA DE PARNAÍBA": [
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "SANTANA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-14",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO JOSAFÁ",
+    "fonte": "portal"
+   }
+  ],
+  "SANTO ANASTÁCIO": [
+   {
+    "data": "2026-01-22",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO DO MUNICÍPIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-19",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "SANTO ANDRÉ": [
+   {
+    "data": "2026-04-08",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "SANTOS": [
+   {
+    "data": "2026-01-26",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DE MONT SERRAT - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "SERRA NEGRA": [
+   {
+    "data": "2026-09-23",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-01",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DO ROSÁRIO - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "SERRANA": [
+   {
+    "data": "2026-04-10",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO EVANGÉLICO (LEI 1265/2009)",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DAS DORES",
+    "fonte": "portal"
+   }
+  ],
+  "SERTÃOZINHO": [
+   {
+    "data": "2026-12-05",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "SOCORRO": [
+   {
+    "data": "2026-08-09",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DO PERPÉTUO SOCORRO",
+    "fonte": "portal"
+   }
+  ],
+  "SOROCABA": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DA PONTE - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "SUMARÉ": [
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "SUZANO": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO BENTO DO SAPUCAÍ": [
+   {
+    "data": "2026-04-06",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO BENEDITO - 1ª SEGUNDA-FEIRA APÓS A PÁSCOA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-11",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO BENTO - PADROEIRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-16",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO BERNARDO DO CAMPO": [
+   {
+    "data": "2026-08-20",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO CAETANO DO SUL": [
+   {
+    "data": "2026-07-28",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO CARLOS": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA APARECIDA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-04",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO CARLOS BARROMEU - PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO JOAQUIM DA BARRA": [
+   {
+    "data": "2026-05-30",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO JOAQUIM - PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO JOSÉ DO RIO PARDO": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "TÉRMINO DA SEMANA EUCLIDIANA",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO JOSÉ DO RIO PRETO": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SÃO JOSÉ",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO JOSÉ DOS CAMPOS": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SÃO JOSÉ",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-07-27",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO JOÃO DA BOA VISTA": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO LUIZ DO PARAITINGA": [
+   {
+    "data": "2026-04-06",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO BENEDITO - 1ª SEGUNDA-FEIRA APÓS A PÁSCOA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-05-08",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-19",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO MANUEL": [
+   {
+    "data": "2026-06-17",
+    "tipo": "sem_expediente",
+    "motivo": "LEI MUNICIPAL Nº 1043/1975",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "LEI MUNICIPAL Nº 86/1966",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO MIGUEL ARCANJO": [
+   {
+    "data": "2026-04-01",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-29",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO PAULO": [
+   {
+    "data": "2026-01-25",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE DE SÃO PAULO",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO PEDRO": [
+   {
+    "data": "2026-02-22",
+    "tipo": "sem_expediente",
+    "motivo": "ELEVAÇÃO DA VILA DE SÃO PEDRO À CATEGORIA DE MUNICÍPIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO ROQUE": [
+   {
+    "data": "2026-08-16",
+    "tipo": "sem_expediente",
+    "motivo": "LEI MUNICIPAL Nº 688/1967",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO SEBASTIÃO": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-03-16",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO SEBASTIÃO DA GRAMA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-04",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICA",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO SIMÃO": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SANTO ANTONIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-28",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "SÃO VICENTE": [
+   {
+    "data": "2026-01-22",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "TABAPUÃ": [
+   {
+    "data": "2026-10-11",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - NOSSA SENHORA DOS REMÉDIOS",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-27",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA",
+    "fonte": "portal"
+   }
+  ],
+  "TABOÃO DA SERRA": [
+   {
+    "data": "2026-02-19",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-01",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO AMOR MISERICORDIOSO DE DEUS",
+    "fonte": "portal"
+   }
+  ],
+  "TAMBAÚ": [
+   {
+    "data": "2026-06-16",
+    "tipo": "sem_expediente",
+    "motivo": "MORTE DO PADRE DONIZETTE TAVARES DE LIMA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-20",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "TANABI": [
+   {
+    "data": "2026-07-04",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SÃO ULDERICO E DIA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "TAQUARITINGA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-16",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "TAQUARITUBA": [
+   {
+    "data": "2026-08-16",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   }
+  ],
+  "TATUÍ": [
+   {
+    "data": "2026-08-11",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "TAUBATÉ": [
+   {
+    "data": "2026-02-05",
+    "tipo": "sem_expediente",
+    "motivo": "ELEVAÇÃO À CATEGORIA DE CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-04-06",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO BENEDITO - 1ª SEGUNDA-FEIRA APÓS A PÁSCOA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-04",
+    "tipo": "sem_expediente",
+    "motivo": "FESTA DE SÃO FRANCISCO",
+    "fonte": "portal"
+   }
+  ],
+  "TEODORO SAMPAIO": [
+   {
+    "data": "2026-03-21",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SÃO BENTO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-27",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DO PERPÉTUO SOCORRO",
+    "fonte": "portal"
+   }
+  ],
+  "TIETÊ": [
+   {
+    "data": "2026-03-08",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "ASSUNÇÃO DE NOSSA SENHORA",
+    "fonte": "portal"
+   }
+  ],
+  "TREMEMBÉ": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "SENHOR BOM JESUS",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-26",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "TUPI PAULISTA": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "ASSUNÇÃO DE NOSSA SENHORA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-28",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO HERMES E ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "TUPÃ": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO PEDRO - PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
+  "UBATUBA": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO PEDRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-14",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA PAZ DE IPEROIG - CONFEDERAÇÃO DOS TAMOIOS",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-28",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "URUPÊS": [
+   {
+    "data": "2026-08-10",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SÃO LOURENÇO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-25",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO - FERIADO DE 24/09 TRANSFERIDO PARA 25/09, SOMENTE NO EXERCÍCIO DE 2026, CSM DE 12/02/2026",
+    "fonte": "portal"
+   }
+  ],
+  "URÂNIA": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DO MUNICÍPIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-05",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO BENEDITO",
+    "fonte": "portal"
+   }
+  ],
+  "VALINHOS": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-05-28",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "VALPARAÍSO": [
+   {
+    "data": "2026-05-24",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA AUXILIADORA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-05-30",
+    "tipo": "sem_expediente",
+    "motivo": "SANTA JOANA D'ARC",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "ASSUNÇÃO DE NOSSA SENHORA",
+    "fonte": "portal"
+   }
+  ],
+  "VARGEM GRANDE DO SUL": [
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "SANTANA - PADROEIRA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-26",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "VARGEM GRANDE PAULISTA": [
+   {
+    "data": "2026-11-27",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA",
+    "fonte": "portal"
+   }
+  ],
+  "VINHEDO": [
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "SANT'ANA - PADROEIRA",
+    "fonte": "portal"
+   }
+  ],
+  "VIRADOURO": [
+   {
+    "data": "2026-03-23",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-04-04",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE AÇÃO DE GRAÇAS",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO PEDRO",
+    "fonte": "portal"
+   }
+  ],
+  "VOTORANTIM": [],
+  "VOTUPORANGA": [
+   {
+    "data": "2026-08-08",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO CIRÍACO E FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "VÁRZEA PAULISTA": [
+   {
+    "data": "2026-03-21",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRA DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
+  "ÁGUAS DE LINDÓIA": [
+   {
+    "data": "2026-07-02",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-16",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
+   }
+  ]
+ }
+}

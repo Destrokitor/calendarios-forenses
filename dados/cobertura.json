@@ -1,41 +1,96 @@
 {
- "gerado_em": "2026-10-23T16:12:47Z",
+ "gerado_em": "2026-11-09T13:04:33Z",
  "tribunais": {
   "STF": {
    "nome": "Supremo Tribunal Federal",
    "justica": "superior",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:04:33Z",
+     "ultima_ok": "2026-11-09T13:04:47Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 97,
+     "locais": 1
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:04:47Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Ficam de fora: (1) pontos facultativos da Portaria GDG 189/2025, § 1º, II a VII (20/04, 04/06 Corpus Christi, 05/06, 10/08, 30/10, 07/12): não lançados porque a fonte não diz se suspendem prazo (DUVIDA em aberto; a ficha sugere sem expediente e a revisão decide); (2) atos avulsos não listados aqui (só 112, 124, 146 e 250 foram lidos; a página índice do STF tem links JS sem texto e não é lida); (3) atos publicados depois de 23/10/2026; (4) férias coletivas dos ministros (2 a 31/01 e 2 a 31/07), sem dia próprio; (5) horário reduzido de atendimento ao público (13h às 18h em jan e jul), que não é expediente; (6) recesso e suspensão de prazos de 20/12/2026 a 06/01/2027 e os demais do ano seguinte, ainda não publicados (o 2027 é AindaNaoPublicado)."
   },
   "STJ": {
    "nome": "Superior Tribunal de Justiça",
    "justica": "superior",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:04:47Z",
+     "erro": "ErroDeFonte: não consegui baixar https://www.stj.jus.br/sites/portalp/Contato-e-ajuda/Fale-conosco/Horarios-de-funcionamento: HTTP Error 403: Forbidden"
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:04:47Z",
+     "erro": "ErroDeFonte: não consegui baixar https://www.stj.jus.br/sites/portalp/Contato-e-ajuda/Fale-conosco/Horarios-de-funcionamento: HTTP Error 403: Forbidden"
+    }
+   },
+   "status": "indisponivel",
+   "observacao": "Fora: (1) suspensão de prazo do CPC art. 220 (20/12 a 20/1) e férias de julho: a página não publica; o calendário traz só feriados, pontos facultativos e recesso, e o app não pode usar este arquivo para suspender prazo. (2) Dias avulsos só divulgados em comunicado de notícia: só entram os que já estão na tabela (20 e 21/04 de 2026). (3) A Portaria STJ/GP 1010/2025 não foi lida (o PDF do BDJur não foi conferido). (4) Não há locais: o STJ é uma jurisdição só. (5) O trecho de 1 a 6/01 do recesso de dezembro está em `geral` por causa da regra do recesso (ficha, âncora 5), não por linha própria da tabela."
   },
   "TST": {
    "nome": "Tribunal Superior do Trabalho",
    "justica": "superior",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "site e calendário respondem com tela anti-robô, sem conteúdo"
   },
   "STM": {
    "nome": "Superior Tribunal Militar",
    "justica": "superior",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "o PDF do calendário não abre (devolve HTML de 247 bytes); categoria do dia só por cor"
   },
   "TJAC": {
    "nome": "Tribunal de Justiça (AC)",
    "justica": "estadual",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:04:49Z",
+     "ultima_ok": "2026-11-09T13:04:53Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 20,
+     "locais": 22
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:04:53Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Lê só a Portaria PRESI nº 6569/2025 (DJe 7.950, 3.2.2026). Ficam de fora: (a) os PONTOS FACULTATIVOS estaduais (04/06, 06/08, 24/12, 31/12) e municipais (ex.: 18/05, 13/07, 22/08, 08/09, 25/09, 31/10), porque o efeito sobre o prazo não é dito e o ponto municipal depende de adesão do foro (Art. 2º, parágrafo único); (b) as datas ADIADAS: 20/01 (Dia do Católico, transferido para 22/01), 28/10 (Dia do Servidor, para 30/10) e 17/11 (Tratado de Petrópolis, para 19/11): nenhuma das datas entra; (c) o recesso de 20/12 a 20/01, que o ato não traz; (d) os municípios sem ato citado no documento (não aparecem em locais, exceto os que têm ponto facultativo); (e) alterações da Portaria publicadas depois, que este motor não lê."
   },
   "TJAL": {
    "nome": "Tribunal de Justiça (AL)",
    "justica": "estadual",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:04:53Z",
+     "erro": "ErroDeFonte: robots.txt de https://documentos.tjal.jus.br indisponível (<urlopen error timed out>): por precaução não acesso"
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:06:57Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "indisponivel",
+   "observacao": "Cobertura parcial. Entram só as suspensões e o recesso que os atos do TJAL trazem: 20/04, 05/06, 10/08 e 07/12/2026 (Ato 03/2026), 02/01/2026 e recesso de 01 a 04/01/2026 (Ato 22/2025). Ficam de fora: (1) 28/08/2026 (Ato 03/2026, art. 4º), suspensão só nos municípios que preveem o feriado de N. Sra. dos Prazeres, que o ato não identifica; (2) feriados nacionais e estaduais (Decreto Estadual 106.093/2025), que não são do tribunal; (3) feriados municipais, que dependem de decreto de cada município (art. 6º do Ato 03/2026); (4) recesso de fim de ano de 2026 (20 a 31/12), que está na Lei 6.564/2005 e não no ato; (5) feriados forenses da Lei 6.564/2005 (arts. 36-38). Por isso `locais` fica vazio."
   },
   "TJAP": {
    "nome": "Tribunal de Justiça (AP)",
@@ -43,31 +98,78 @@
    "anos": {},
    "status": "incompativel",
    "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "motivo": "site recusa o robô (403/robots.txt)"
   },
   "TJAM": {
    "nome": "Tribunal de Justiça (AM)",
    "justica": "estadual",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "tempo esgotado em todas as fontes testadas"
   },
   "TJBA": {
    "nome": "Tribunal de Justiça (BA)",
    "justica": "estadual",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:06:57Z",
+     "ultima_ok": "2026-11-09T13:06:59Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 48,
+     "locais": 1
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:06:59Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Lê só o Decreto Judiciário nº 1050/2025 (calendário geral). Ficam de fora os feriados municipais por comarca (Decreto Judiciário nº 09/2026, ~193 comarcas, e decretos que o alteram, como o nº 144/2026 - Sapeaçu, 27/04): o anexo está em www7.tjba.jus.br, que deu 503. `locais` tem só a chave SALVADOR, vazia, como marcador, não a lista de comarcas. Também não entram alterações posteriores do decreto (art. 9º) nem o recesso de 20 a 31/12/2026 (virá no decreto de 2027)."
   },
   "TJCE": {
    "nome": "Tribunal de Justiça (CE)",
    "justica": "estadual",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:06:59Z",
+     "ultima_ok": "2026-11-09T13:07:02Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 34,
+     "locais": 0
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:07:02Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Lê só a Portaria nº 2924/2025 (DJE ed. 3690), que fixa o calendário de jan/2026 a jan/2027. FICAM DE FORA: (1) feriados e pontos municipais (Art. 2º: seguem a lei de cada município; o tribunal não publica a lista; Fortaleza e demais municípios não aparecem, e `locais` fica vazio); (2) alterações por portaria própria, cada uma avulsa e sem índice (ex.: Portaria nº 1169/2026, ponto facultativo em 05/06/2026, não lida); (3) o recesso de 01 a 06/01/2027, que cai no ano seguinte. O expediente das custódias (núcleos e varas de custódia, a partir das 08h) não é local e fica só no texto do horário de 18/02. Em 2027 não há calendário próprio lido."
   },
   "TJDFT": {
    "nome": "Tribunal de Justiça do Distrito Federal e dos Territórios",
    "justica": "estadual",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:07:02Z",
+     "ultima_ok": "2026-11-09T13:07:03Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 43,
+     "locais": 1
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:07:03Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Fora: a regra de prorrogação de prazo que cai em feriado (Portaria Conjunta 105/2025, art. 5º), que é regra de contagem e não um dia; o calendário dos ofícios extrajudiciais (art. 3º da portaria, com outra lista, p. ex. 18/02 só até 12h); e o endereço do SEI, que não foi testado no workflow da nuvem (a tabela basta para o motor). Não há dia parcial no calendário judicial."
   },
   "TJES": {
    "nome": "Tribunal de Justiça (ES)",
@@ -75,47 +177,107 @@
    "anos": {},
    "status": "incompativel",
    "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "motivo": "site e diário recusam o robô (403/robots.txt)"
   },
   "TJGO": {
    "nome": "Tribunal de Justiça (GO)",
    "justica": "estadual",
-   "anos": {},
-   "status": "incompativel",
-   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:07:05Z",
+     "ultima_ok": "2026-11-09T13:07:06Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 32,
+     "locais": 4
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:07:06Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Lê só a tabela 'FERIADOS 2026' do TJGO (versão de 08/06/2026). Ficam de fora: os pontos facultativos (20/03, 20/04 e 05/06/2026), que não entram por falta de decisão sobre prazo; os feriados municipais de outras comarcas, que não constam da tabela; os decretos e pontos facultativos baixados depois, que o PDF avisa que podem ocorrer; e a versão posterior do arquivo, se houver. Os dias de 01 a 06/01/2027 vêm no calendário de 2027. Locais: só as comarcas do feriado municipal (Goiânia, Iporá, Leopoldo de Bulhões e Senador Canedo); o Tribunal, que fica em Goiânia, não é comarca e não entra em `locais`."
   },
   "TJMA": {
    "nome": "Tribunal de Justiça (MA)",
    "justica": "estadual",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:07:06Z",
+     "ultima_ok": "2026-11-09T13:07:08Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 17,
+     "locais": 1
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:07:08Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Lê só a Resolução-GP nº 131/2025 (ano de 2026). LACUNA: a Resolução-GP nº 26, de 07/04/2026, alterou o ato e o que ela mudou NÃO foi conferido (a versão consolidada não abriu, 404); por isso as datas podem estar defasadas. Ficam de fora: (1) os pontos facultativos do Art. 3º (18/02, 01/04, 05/06), porque o ato não diz se suspendem prazo; (2) os feriados municipais do interior (Art. 2º), que dependem de lei municipal sem lista no ato: só São Luís tem os dois feriados nomeados (29/06 e 08/09); (3) decretos e portarias posteriores de outros Poderes ou da Corregedoria. Em 2027 não há ato conhecido."
   },
   "TJMT": {
    "nome": "Tribunal de Justiça (MT)",
    "justica": "estadual",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:07:08Z",
+     "ultima_ok": "2026-11-09T13:07:20Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 24,
+     "locais": 79
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:07:20Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Entram o Anexo I (geral) e o Anexo II (79 comarcas) da Portaria 1915/2025 e a única alteração que o índice HTML descreve de forma aplicável ao Anexo I (Portaria 1254/2026: Dia do Servidor, 28/10 -> 30/10). Ficam de fora, porque o índice só traz o resumo e o PDF de cada uma não é lido: Portaria 245/2026 (suspensão excepcional do expediente, data não informada no resumo), 509/2026 (suspensão do expediente e dos prazos a partir das 13h de 06/04), 752/2026 (horário especial nos jogos do Brasil na Copa), 901/2026 (suspensão do expediente em 29/06), as suspensões de 21 e 22/09 e a suspensão parcial de 23 a 25/09, as retomadas (1370/2026: prazos suspensos até 30/09; 1384/2026: prazos administrativos de volta em 01/10) e a decisão sobre pedido da OAB. Também fora: o recesso do CPC art. 220 (20/12 a 20/01), que o Anexo I não traz, e feriados municipais de comarcas que não constam do Anexo II (a lista da portaria é por comarca)."
   },
   "TJMS": {
    "nome": "Tribunal de Justiça (MS)",
    "justica": "estadual",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "tempo esgotado em todas as fontes testadas"
   },
   "TJMG": {
    "nome": "Tribunal de Justiça (MG)",
    "justica": "estadual",
-   "anos": {},
-   "status": "incompativel",
-   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:07:20Z",
+     "ultima_ok": "2026-11-09T13:07:24Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 51,
+     "locais": 298
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:07:24Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Feriados municipais das comarcas do interior só até o que o Anexo Único da portaria lista: o Diretor do Foro de cada comarca ainda pode complementar com portaria local (Resolução da Corte Superior 458/2004, art. 6º), e essas portarias avulsas não são lidas. Também ficam de fora suspensões de expediente por portaria posterior à compilação (ex.: jogos da Copa) e a consulta 'Feriados Locais' do Guia Judiciário (por comarca). Só vale o primeiro Anexo Único do PDF (Port. 1.860); se sair nova alteração, o PDF compilado precisa ser relido."
   },
   "TJPA": {
    "nome": "Tribunal de Justiça (PA)",
    "justica": "estadual",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "o ato do calendário é PDF escaneado (só imagem); sem OCR não há leitura confiável"
   },
   "TJPB": {
    "nome": "Tribunal de Justiça (PB)",
@@ -123,19 +285,49 @@
    "anos": {},
    "status": "incompativel",
    "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "motivo": "site e diário recusam o robô (403/robots.txt)"
   },
   "TJPR": {
    "nome": "Tribunal de Justiça (PR)",
    "justica": "estadual",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:07:24Z",
+     "ultima_ok": "2026-11-09T13:07:26Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 20,
+     "locais": 162
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:07:26Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Lê só o Decreto Judiciário n.º 621/2025 (exercício de 2026). NÃO entra o RECESSO FORENSE (20/12 a 06/01): o decreto não o menciona, e a fonte dele precisa ser outra (DUVIDA na ficha). Também ficam de fora: feriado municipal decretado à parte depois do Art. 4º (ex.: portaria de um município no meio do ano; não verificado), pontos facultativos, e qualquer alteração de decreto posterior ao de 19/11/2025 (não lida)."
   },
   "TJPE": {
    "nome": "Tribunal de Justiça (PE)",
    "justica": "estadual",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:07:26Z",
+     "ultima_ok": "2026-11-09T13:07:28Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 44,
+     "locais": 1
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:07:28Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Lê só o Ato Conjunto nº 43/2025 (DJe 304/2025). Ficam de fora: (1) os feriados municipais das comarcas do interior, que o Art. 4º manda seguir pela lei de cada município, sem lista no ato (são cerca de cem municípios, e só Recife aparece nominal, com 16/07); (2) alterações posteriores do calendário, como prevê o Art. 6º, e portarias ou atos avulsos publicados em outras edições do DJe (não verificado); (3) o calendário de 2027, cujo endereço não está registrado (ver EDICOES). O motor não tem atributo de local para os municípios do interior: o app só mostra Recife na lista de comarcas."
   },
   "TJPI": {
    "nome": "Tribunal de Justiça (PI)",
@@ -143,13 +335,15 @@
    "anos": {},
    "status": "incompativel",
    "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "motivo": "site recusa o robô; diário e transparência em tempo esgotado"
   },
   "TJRJ": {
    "nome": "Tribunal de Justiça (RJ)",
    "justica": "estadual",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "erro de certificado SSL nas fontes oficiais (não desligamos a verificação)"
   },
   "TJRN": {
    "nome": "Tribunal de Justiça (RN)",
@@ -157,49 +351,123 @@
    "anos": {},
    "status": "incompativel",
    "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "motivo": "site e diário recusam o robô (403/robots.txt)"
   },
   "TJRS": {
    "nome": "Tribunal de Justiça (RS)",
    "justica": "estadual",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "tempo esgotado e 403 em todas as fontes testadas"
   },
   "TJRO": {
    "nome": "Tribunal de Justiça (RO)",
    "justica": "estadual",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "o servidor de atos derruba a conexão do robô"
   },
   "TJRR": {
    "nome": "Tribunal de Justiça (RR)",
    "justica": "estadual",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:07:28Z",
+     "ultima_ok": "2026-11-09T13:07:32Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 44,
+     "locais": 9
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:07:32Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Lê só a Portaria TJRR/PR n. 1558/2025 (DJe 8006). Ficam de fora os feriados e pontos decretados depois por outros Poderes, que o Art. 2º manda só comunicar à Secretaria de Gestão de Pessoas (não constam do anexo), e qualquer portaria ou retificação publicada em outra edição do DJe de 2026 (não verificado). Em 2027 ainda não há edição conhecida."
   },
   "TJSC": {
    "nome": "Tribunal de Justiça (SC)",
    "justica": "estadual",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:07:32Z",
+     "ultima_ok": "2026-11-09T13:07:36Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 16,
+     "locais": 110
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:07:36Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Lê só a Resolução GP n. 1/2026 (feriados para efeitos forenses). Ficam de fora: (a) o recesso forense, que o Art. 1º, parágrafo único, manda regulamentar por resolução própria (a de 2025/26 foi a Resolução TJ n. 30/2025; a de 2026/27 não foi localizada), então este calendário não tem dia de recesso; (b) os ajustes pontuais de feriado municipal previstos no Art. 2º, que sairiam em norma nova não lida (não verificado); (c) comarca que não tem feriado municipal nesta resolução: o ato só lista os municípios com feriado, então ela não aparece em `locais`; (d) o calendário de 2027, que tem outro ato e não foi localizado (ver `ATOS`)."
   },
   "TJSP": {
    "nome": "Tribunal de Justiça (SP)",
    "justica": "estadual",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:07:36Z",
+     "ultima_ok": "2026-11-09T13:29:01Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 51,
+     "locais": 320
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:29:01Z",
+     "erro": "ErroDeFonte: consulta sem dados para 320 comarcas (ex.: Arujá, Barueri, Carapicuiba, Cotia, Diadema): o nome ou o formato mudou"
+    }
+   },
+   "status": "parcial",
+   "observacao": "Ficam de fora as suspensões de prazo de UNIDADES específicas (varas, anexos, juizados, RAJ inteira) por comunicado conjunto: o portal as entrega como texto livre, sem campo estruturado de qual unidade é afetada, e lançá-las na comarca inteira suspenderia prazo de quem não foi afetado. Também fora: suspensões do 2º grau e de processos físicos (páginas próprias do tribunal), indisponibilidade de sistema (página própria) e feriados municipais de município que não é sede de comarca. Vila Mimosa consta da lista de comarcas do portal mas não tem calendário na consulta pública."
   },
   "TJSE": {
    "nome": "Tribunal de Justiça (SE)",
    "justica": "estadual",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:39:43Z",
+     "ultima_ok": "2026-11-09T13:39:45Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 28,
+     "locais": 51
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:39:45Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Ficam de fora os PONTOS FACULTATIVOS (coluna 'PREVISÃO DE PONTOS FACULTATIVOS'): são previsão, e só viram dia sem expediente por portaria normativa avulsa (ex.: PN 18/2026-GP1, PN 24/2026, PN 72/2026), divulgada em notícias do tribunal que este motor não lê (o host agencia.tjse.jus.br deu timeout em teste). Exemplos fora: 16/02, 18/02, 16/03 (só Aracaju), 02/04, 20/04, 05/06, 29/06, 10/08 e 07/12. Também fora: portarias avulsas e comunicados de unidade específica, e o recesso de 01 a 06/01/2027, que cai no ano seguinte e vem no calendário de 2027. Comarca sem feriado municipal no PDF não aparece em locais."
   },
   "TJTO": {
    "nome": "Tribunal de Justiça (TO)",
    "justica": "estadual",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:39:45Z",
+     "erro": "ErroDeFonte: robots.txt de https://diario.tjto.jus.br indisponível (<urlopen error [Errno 111] Connection refused>): por precaução não acesso"
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:39:51Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "indisponivel",
+   "observacao": "Lê só a Portaria nº 3741/2025 (DJ 5995, pp. 39 e 40), que traz o calendário de 2026. Ficam de fora: (1) as comarcas do interior: a portaria não tem lista (Art. 5º: feriados municipais próprios, a cargo do Diretor do Foro), e só Palmas aparece (Art. 4º); (2) os pontos facultativos de 20/04, 05/06 e 10/08 (Art. 3º), que não entram como dia porque a portaria não diz se suspendem prazo; (3) portarias de comarca, decretos e alterações posteriores, como o Decreto Judiciário 772 (prazos suspensos em 20 a 23/10/2026, incidente cibernético); (4) recesso forense: a portaria não traz, e nenhum recesso entra no calendário. Em 2027 ainda não há edição conhecida."
   },
   "TJMSP": {
    "nome": "Tribunal de Justiça Militar (SP)",
@@ -207,25 +475,31 @@
    "anos": {},
    "status": "incompativel",
    "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "motivo": "site e robots.txt dão 403"
   },
   "TJMMG": {
    "nome": "Tribunal de Justiça Militar (MG)",
    "justica": "militar_estadual",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "sem calendário anual: só avisos soltos em texto livre por evento"
   },
   "TJMRS": {
    "nome": "Tribunal de Justiça Militar (RS)",
    "justica": "militar_estadual",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "sem ato de feriados de 2026 localizado; só regra permanente de fim de ano em resolução"
   },
   "TRF1": {
    "nome": "Tribunal Regional Federal da 1ª Região",
    "justica": "federal",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "o robots.txt do tribunal proíbe todo acesso de robôs (Disallow: /)"
   },
   "TRF2": {
    "nome": "Tribunal Regional Federal da 2ª Região",
@@ -237,7 +511,9 @@
    "nome": "Tribunal Regional Federal da 3ª Região",
    "justica": "federal",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "robots.txt e site em tempo esgotado a partir do GitHub (a fonte abre do Brasil)"
   },
   "TRF4": {
    "nome": "Tribunal Regional Federal da 4ª Região",
@@ -255,7 +531,9 @@
    "nome": "Tribunal Regional Federal da 6ª Região",
    "justica": "federal",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "robots.txt e site em tempo esgotado a partir do GitHub (a fonte abre do Brasil)"
   },
   "TRT1": {
    "nome": "Tribunal Regional do Trabalho da 1ª Região",
@@ -263,19 +541,41 @@
    "anos": {},
    "status": "incompativel",
    "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "motivo": "site e diário recusam o robô (403/robots.txt)"
   },
   "TRT2": {
    "nome": "Tribunal Regional do Trabalho da 2ª Região",
    "justica": "trabalho",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:39:51Z",
+     "erro": "ErroDeFonte: evento não reconhecido na agenda do TRT2: 'Unidade Administrativa III'"
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:39:57Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "indisponivel",
+   "observacao": "Fora do calendário: (a) eventos de órgão específico (fóruns de Arujá, Cubatão, Zona Sul, Zona Leste; 12ª Vara do Trabalho de São Paulo; Edifício Sede), cujo efeito só aparece na página de detalhe do dia; (b) 18/02/2026, Suspensão de expediente em todos os órgãos (Portaria n. 50/GP), sem decisão de efeito; (c) o art. 775-A da CLT (suspensão de 20/12 a 20/01) não é lançado pelo TRT2 como suspensão geral: o app precisa aplicar por fora; 07 a 20/01 não aparecem na grade. Locais: a página não traz lista fechada de municípios; só entram os que têm evento em 2026. Indisponibilidade de sistema fica em outra consulta, não lida."
   },
   "TRT3": {
    "nome": "Tribunal Regional do Trabalho da 3ª Região",
    "justica": "trabalho",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:39:59Z",
+     "erro": "ErroDeFonte: robots.txt não permite baixar https://portal.trt3.jus.br/internet/institucional/calendario/calendario-2026"
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:40:00Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "indisponivel",
+   "observacao": "Feriados locais só dos municípios que aparecem na tabela da página (66 localidades). Feriado municipal não publicado pelo TRT3 fica de fora. Suspensões avulsas de prazo, como as dos jogos do Brasil na Copa do Mundo (portaria da Presidência, sem lista estruturada), não entram. Alterações posteriores só valem se a página já as trouxer. Ano sem endereço registrado no motor (hoje só 2026) levanta AindaNaoPublicado."
   },
   "TRT4": {
    "nome": "Tribunal Regional do Trabalho da 4ª Região",
@@ -283,7 +583,7 @@
    "anos": {},
    "status": "incompativel",
    "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "motivo": "site e diário recusam o robô (403/robots.txt)"
   },
   "TRT5": {
    "nome": "Tribunal Regional do Trabalho da 5ª Região",
@@ -291,19 +591,23 @@
    "anos": {},
    "status": "incompativel",
    "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "motivo": "site e diário recusam o robô (403/robots.txt)"
   },
   "TRT6": {
    "nome": "Tribunal Regional do Trabalho da 6ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "tempo esgotado, até no robots.txt"
   },
   "TRT7": {
    "nome": "Tribunal Regional do Trabalho da 7ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "endereços do calendário dão 404/403"
   },
   "TRT8": {
    "nome": "Tribunal Regional do Trabalho da 8ª Região",
@@ -311,13 +615,28 @@
    "anos": {},
    "status": "incompativel",
    "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "motivo": "site e diário recusam o robô (403/robots.txt)"
   },
   "TRT9": {
    "nome": "Tribunal Regional do Trabalho da 9ª Região",
    "justica": "trabalho",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:40:00Z",
+     "ultima_ok": "2026-11-09T13:40:02Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 61,
+     "locais": 45
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:40:02Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Fica de fora ou incompleto: (1) 18/02/2026 Quarta-Feira de Cinzas, por dúvida de efeito (ver DUVIDA no código e na ficha); (2) 29/06/2026 sai só como suspensao_prazo: a Portaria Presid-Correg 5/2026, citada na 7/2026, encerrou o expediente às 12h e isso não é lido; (3) feriados e suspensões municipais ou de unidades que não estão nesta tabela (ela só traz quem tem dia próprio, não todas as varas); (4) atos publicados depois da leitura que não apareçam na tabela; (5) horário de expediente parcial, que a tabela não informa."
   },
   "TRT10": {
    "nome": "Tribunal Regional do Trabalho da 10ª Região",
@@ -325,33 +644,63 @@
    "anos": {},
    "status": "incompativel",
    "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "motivo": "site e diário recusam o robô (403/robots.txt)"
   },
   "TRT11": {
    "nome": "Tribunal Regional do Trabalho da 11ª Região",
    "justica": "trabalho",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:40:04Z",
+     "ultima_ok": "2026-11-09T13:40:11Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 17,
+     "locais": 0
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:40:11Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "COBERTURA PARCIAL: só a página de suspensões do portal (suspensão de prazos e de expediente, de 2026 em diante na lista). FORA: (1) feriados nacionais, estaduais e municipais de Manaus, Boa Vista e demais municípios: só estão no calendário anual em PDF, que o robots.txt barra na nuvem (não é usado); (2) o dia parcial de 29/06/2026 (Copa, expediente até 11h, Portaria 238/2026/SGP), que não consta na lista; (3) suspensões de Varas e Fóruns locais, que o motor recusa e interrompe; (4) alterações feitas depois da leitura; (5) o efeito do 'Ponto Facultativo' (RA 322/2025) está em DUVIDA: tratado como sem_expediente até revisão. Sem locais."
   },
   "TRT12": {
    "nome": "Tribunal Regional do Trabalho da 12ª Região",
    "justica": "trabalho",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:40:11Z",
+     "ultima_ok": "2026-11-09T13:40:13Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 42,
+     "locais": 31
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:40:13Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Dados de ato anterior ao ano: Portaria SEAP 191/2024, republicada em 19/05/2025 e alterada pela Portaria SEAP 57/2025. Ela divulga os feriados do exercício de 2026, e o robô lê só esta republicação (o portal do TRT12, que traz o calendário atualizado, é bloqueado ao robô). FICAM DE FORA as alterações de 2026 posteriores a 19/05/2025, em especial a Portaria SEAP 25/2026, que acrescenta 20/04/2026 e 05/06/2026 como feriado regimental/ponto facultativo (segundo a ficha, não lida). Também ficam de fora: Corpus Christi (04/06) nas sedes de unidade judiciária, porque o ato não lista as sedes; a data de Fundação de Caçador e o dia 09/03 (sem motivo legível na extração); a suspensão de prazo de 07/01 a 20/01 do art. 153 (não listada como dia no ato); e municípios que não estão no Anexo II."
   },
   "TRT13": {
    "nome": "Tribunal Regional do Trabalho da 13ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "incompativel",
-   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "status": "sem_motor"
   },
   "TRT14": {
    "nome": "Tribunal Regional do Trabalho da 14ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "os PDFs do calendário dão 403"
   },
   "TRT15": {
    "nome": "Tribunal Regional do Trabalho da 15ª Região",
@@ -363,7 +712,9 @@
    "nome": "Tribunal Regional do Trabalho da 16ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "PDFs e listas do calendário dão 403"
   },
   "TRT17": {
    "nome": "Tribunal Regional do Trabalho da 17ª Região",
@@ -371,7 +722,7 @@
    "anos": {},
    "status": "incompativel",
    "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "motivo": "site e diário recusam o robô (403/robots.txt)"
   },
   "TRT18": {
    "nome": "Tribunal Regional do Trabalho da 18ª Região",
@@ -382,10 +733,23 @@
   "TRT19": {
    "nome": "Tribunal Regional do Trabalho da 19ª Região",
    "justica": "trabalho",
-   "anos": {},
-   "status": "incompativel",
-   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:40:15Z",
+     "ultima_ok": "2026-11-09T13:40:17Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 39,
+     "locais": 0
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:40:17Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "parcial",
+   "observacao": "Só o que o Ato 170/2025 lista para o tribunal inteiro (feriados e recesso de 2026). Ficam de fora: (a) feriados locais do interior de Alagoas: o Art. 3º manda observar os feriados locais das Varas do interior, mas o ato não os lista; (b) os pontos facultativos de 20/04, 05/06, 10/08 e 07/12, porque o ato não diz se suspendem prazo; (c) alterações posteriores ao ato: não há ato de 2026 localizado no Boletim Interno."
   },
   "TRT20": {
    "nome": "Tribunal Regional do Trabalho da 20ª Região",
@@ -393,7 +757,7 @@
    "anos": {},
    "status": "incompativel",
    "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "motivo": "site e diário recusam o robô (403/robots.txt)"
   },
   "TRT21": {
    "nome": "Tribunal Regional do Trabalho da 21ª Região",
@@ -401,7 +765,7 @@
    "anos": {},
    "status": "incompativel",
    "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "motivo": "site e diário recusam o robô (403/robots.txt)"
   },
   "TRT22": {
    "nome": "Tribunal Regional do Trabalho da 22ª Região",
@@ -409,19 +773,35 @@
    "anos": {},
    "status": "incompativel",
    "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
-   "motivo": "HTTP 403 na sonda de 2026-10-23"
+   "motivo": "site e diário recusam o robô (403/robots.txt)"
   },
   "TRT23": {
    "nome": "Tribunal Regional do Trabalho da 23ª Região",
    "justica": "trabalho",
    "anos": {},
-   "status": "sem_motor"
+   "status": "incompativel",
+   "observacao": "Este tribunal não permite a consulta automática do calendário. Use o cálculo simplificado ou confira o prazo por conta própria.",
+   "motivo": "site responde 400; nenhuma fonte alternativa achada"
   },
   "TRT24": {
    "nome": "Tribunal Regional do Trabalho da 24ª Região",
    "justica": "trabalho",
-   "anos": {},
-   "status": "sem_motor"
+   "anos": {
+    "2026": {
+     "ultima_tentativa": "2026-11-09T13:40:17Z",
+     "ultima_ok": "2026-11-09T13:40:19Z",
+     "erro": null,
+     "nao_publicado": false,
+     "dias_gerais": 47,
+     "locais": 22
+    },
+    "2027": {
+     "ultima_tentativa": "2026-11-09T13:40:19Z",
+     "nao_publicado": true,
+     "erro": null
+    }
+   },
+   "status": "verificado"
   }
  }
 }

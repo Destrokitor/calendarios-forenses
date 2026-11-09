@@ -1,0 +1,633 @@
+{
+ "tribunal": "TRT24",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:40:19Z",
+ "fontes": [
+  {
+   "id": "calendario",
+   "url": "https://www.trt24.jus.br/calendario",
+   "descricao": "Calendário Institucional do TRT24 (lista de feriados, expedientes e suspensões)"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-01",
+   "tipo": "sem_expediente",
+   "motivo": "Confraternização Universal",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-02",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-03",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-04",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-05",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-06",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-02-16",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-02-18",
+   "tipo": "parcial",
+   "motivo": "Suspensão expediente até as 13h",
+   "fonte": "calendario",
+   "horario": "até as 13h"
+  },
+  {
+   "data": "2026-04-01",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-04-02",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-04-05",
+   "tipo": "sem_expediente",
+   "motivo": "Domingo de Páscoa",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-04-20",
+   "tipo": "sem_expediente",
+   "motivo": "Suspensão expediente",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Trabalho",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-06-04",
+   "tipo": "sem_expediente",
+   "motivo": "Corpus Christi",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-06-05",
+   "tipo": "sem_expediente",
+   "motivo": "Suspensão expediente",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-06-24",
+   "tipo": "parcial",
+   "motivo": "Expediente das 8h às 15h",
+   "fonte": "calendario",
+   "horario": "das 8h às 15h"
+  },
+  {
+   "data": "2026-06-29",
+   "tipo": "parcial",
+   "motivo": "Expediente das 7h às 11h",
+   "fonte": "calendario",
+   "horario": "das 7h às 11h"
+  },
+  {
+   "data": "2026-08-10",
+   "tipo": "sem_expediente",
+   "motivo": "Suspensão expediente",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-08-11",
+   "tipo": "sem_expediente",
+   "motivo": "Criação dos cursos jurídicos",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "Independência do Brasil",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-10-11",
+   "tipo": "sem_expediente",
+   "motivo": "Divisão do Estado",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "Nossa Senhora Aparecida",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-10-27",
+   "tipo": "sem_expediente",
+   "motivo": "Alteração expediente, das 8h00 às 14h00.",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-10-30",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Servidor Público - Remarcado",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-11-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia de todos os Santos",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Finados",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-11-15",
+   "tipo": "sem_expediente",
+   "motivo": "Proclamação da República",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "Dia Nacional de Zumbi e da Consciência Negra",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-07",
+   "tipo": "sem_expediente",
+   "motivo": "Suspensão expediente",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Justiça",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-20",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-21",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-22",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-23",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-24",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "sem_expediente",
+   "motivo": "Natal",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-29",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-30",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense",
+   "fonte": "calendario"
+  }
+ ],
+ "locais": {
+  "AMAMBAI": [
+   {
+    "data": "2026-05-24",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro de Amambai",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-09-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Amambai",
+    "fonte": "calendario"
+   }
+  ],
+  "AQUIDAUANA": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Aquidauana",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro de Aquidauana",
+    "fonte": "calendario"
+   }
+  ],
+  "BATAGUASSU": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro de Bataguassu",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira de Bataguassu",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-11",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Bataguassu",
+    "fonte": "calendario"
+   }
+  ],
+  "CAMPO GRANDE": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro de Campo Grande",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-26",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Campo Grande",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-09-10",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-09-11",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais",
+    "fonte": "calendario"
+   }
+  ],
+  "CASSILÂNDIA": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira de Cassilândia",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-03",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Cassilândia",
+    "fonte": "calendario"
+   }
+  ],
+  "CHAPADÃO DO SUL": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro de Chapadão do Sul",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-23",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Chapadão do Sul",
+    "fonte": "calendario"
+   }
+  ],
+  "CORUMBÁ": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro de Corumbá",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Retomada de Corumbá",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-09-21",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Corumbá",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Consciência Negra",
+    "fonte": "calendario"
+   }
+  ],
+  "COXIM": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro de Coxim",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-04-11",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Coxim",
+    "fonte": "calendario"
+   }
+  ],
+  "DOURADOS": [
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro de Dourados",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-20",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Dourados",
+    "fonte": "calendario"
+   }
+  ],
+  "FÁTIMA DO SUL": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira de Fátima do Sul",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-07-09",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Fátima do Sul",
+    "fonte": "calendario"
+   }
+  ],
+  "JARDIM": [
+   {
+    "data": "2026-05-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Jardim",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro de Jardim",
+    "fonte": "calendario"
+   }
+  ],
+  "MARACAJU": [
+   {
+    "data": "2026-06-11",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Maracaju",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-12",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro de Maracaju",
+    "fonte": "calendario"
+   }
+  ],
+  "MUNDO NOVO": [
+   {
+    "data": "2026-05-11",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Mundo Novo - Remarcado",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-27",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira de Mundo Novo",
+    "fonte": "calendario"
+   }
+  ],
+  "NAVIRAÍ": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira de Naviraí",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-11",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Naviraí",
+    "fonte": "calendario"
+   }
+  ],
+  "NOVA ANDRADINA": [
+   {
+    "data": "2026-04-30",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Nova Andradina",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-05-31",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira de Nova Andradina",
+    "fonte": "calendario"
+   }
+  ],
+  "PARANAÍBA": [
+   {
+    "data": "2026-07-04",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Paranaíba",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro de Paranaíba",
+    "fonte": "calendario"
+   }
+  ],
+  "PONTA PORÃ": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro de Ponta Porã",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-07-18",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Ponta Porã",
+    "fonte": "calendario"
+   }
+  ],
+  "RIBAS DO RIO PARDO": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Ribas do Rio Pardo",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro de Ribas do Rio Pardo",
+    "fonte": "calendario"
+   }
+  ],
+  "RIO BRILHANTE": [
+   {
+    "data": "2026-09-26",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Rio Brilhante",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira de Rio Brilhante",
+    "fonte": "calendario"
+   }
+  ],
+  "SIDROLÂNDIA": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro de Sidrolância",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-11",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Sidrolândia",
+    "fonte": "calendario"
+   }
+  ],
+  "SÃO GABRIEL DO OESTE": [
+   {
+    "data": "2026-05-12",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de São Gabriel do Oeste",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-09-29",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira de São Gabriel do Oeste",
+    "fonte": "calendario"
+   }
+  ],
+  "TRÊS LAGOAS": [
+   {
+    "data": "2026-06-15",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário de Três Lagoas",
+    "fonte": "calendario"
+   }
+  ]
+ }
+}

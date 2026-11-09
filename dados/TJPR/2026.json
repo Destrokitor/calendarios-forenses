@@ -1,0 +1,2548 @@
+{
+ "tribunal": "TJPR",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:07:26Z",
+ "fontes": [
+  {
+   "id": "decreto",
+   "url": "https://portal.tjpr.jus.br/pesquisa_athos/anexo/7104379",
+   "descricao": "Decreto Judiciário n.º 621/2025 - P-SEP (SEI 0064955-90.2025.8.16.6000), assinado em 19/11/2025: feriados, suspensões e feriados locais de 2026"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Confraternização Universal",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-02-16",
+   "tipo": "sem_expediente",
+   "motivo": "Véspera de Carnaval",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-04-02",
+   "tipo": "sem_expediente",
+   "motivo": "Quinta-feira Santa",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "Paixão de Cristo",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-04-20",
+   "tipo": "sem_expediente",
+   "motivo": "Suspensão do expediente (sem motivo no decreto)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Trabalho",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-06-04",
+   "tipo": "sem_expediente",
+   "motivo": "Corpus Christi",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-06-05",
+   "tipo": "sem_expediente",
+   "motivo": "Suspensão do expediente (sem motivo no decreto)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "Independência do Brasil",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "Nossa Senhora Aparecida - Padroeira do Brasil",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-10-30",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Funcionário Público (transferido do dia 28/10)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Finados",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-11-15",
+   "tipo": "sem_expediente",
+   "motivo": "Proclamação da República",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "Dia Nacional de Zumbi e da Consciência Negra",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-12-18",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Justiça (transferido do dia 08/12)",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-12-24",
+   "tipo": "sem_expediente",
+   "motivo": "Véspera de Natal",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "sem_expediente",
+   "motivo": "Natal",
+   "fonte": "decreto"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "sem_expediente",
+   "motivo": "Véspera de Ano Novo",
+   "fonte": "decreto"
+  }
+ ],
+ "locais": {
+  "ALMIRANTE TAMANDARÉ": [
+   {
+    "data": "2026-10-28",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "ALTO PARANÁ": [
+   {
+    "data": "2026-05-11",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "ALTO PIQUIRI": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Assunção de Nossa Senhora de Aparecida",
+    "fonte": "decreto"
+   }
+  ],
+  "ALTÔNIA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-12",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "AMPÉRE": [
+   {
+    "data": "2026-10-01",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-28",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "ANDIRÁ": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "ANTONINA": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Senhor Bom Jesus do Saivá",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-06",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "APUCARANA": [
+   {
+    "data": "2026-01-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-02-11",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "ARAPONGAS": [
+   {
+    "data": "2026-10-10",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversario do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-12",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "ARAPOTI": [
+   {
+    "data": "2026-03-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Anunciação de Nossa Senhora",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-18",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Instalação do Município de Arapoti",
+    "fonte": "decreto"
+   }
+  ],
+  "ARAUCÁRIA": [
+   {
+    "data": "2026-02-11",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-30",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "ASSAÍ": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "ASSIS CHATEAUBRIAND": [
+   {
+    "data": "2026-07-16",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-20",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "ASTORGA": [
+   {
+    "data": "2026-01-02",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação do Município - transferido do dia 14/12/25",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "BANDEIRANTES": [
+   {
+    "data": "2026-10-01",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-14",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Imaculada Conceição",
+    "fonte": "decreto"
+   }
+  ],
+  "BARBOSA FERRAZ": [
+   {
+    "data": "2026-05-22",
+    "tipo": "sem_expediente",
+    "motivo": "dia da Padroeira do Município - Santa Rita de Cássia",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município - Nossa Senhora das Graças",
+    "fonte": "decreto"
+   }
+  ],
+  "BARRACÃO": [
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "BELA VISTA DO PARAÍSO": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-16",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "BOCAIÚVA DO SUL": [
+   {
+    "data": "2026-04-12",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "dia de Nosso Senhor do Cedrinho",
+    "fonte": "decreto"
+   }
+  ],
+  "CAMBARÁ": [
+   {
+    "data": "2026-05-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-21",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CAMBÉ": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-11",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CAMPINA DA LAGOA": [
+   {
+    "data": "2026-10-01",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-04",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CAMPINA GRANDE DO SUL": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-14",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CAMPO LARGO": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CAMPO MOURÃO": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CANTAGALO": [
+   {
+    "data": "2026-05-12",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Criação do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Agricultor",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CAPANEMA": [
+   {
+    "data": "2026-05-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-14",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CAPITÃO LEÔNIDAS MARQUES": [
+   {
+    "data": "2026-04-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CARLÓPOLIS": [
+   {
+    "data": "2026-04-02",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CASCAVEL": [
+   {
+    "data": "2026-11-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CASTRO": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CATANDUVAS": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CERRO AZUL": [
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CHOPINZINHO": [
+   {
+    "data": "2026-10-04",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CIANORTE": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CIDADE GAÚCHA": [
+   {
+    "data": "2026-07-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CLEVELÂNDIA": [
+   {
+    "data": "2026-06-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "COLOMBO": [
+   {
+    "data": "2026-02-05",
+    "tipo": "sem_expediente",
+    "motivo": "Instalação do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-05-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Patrona dos Produtores Colombenses",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-07",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "COLORADO": [
+   {
+    "data": "2026-03-30",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-05-24",
+    "tipo": "sem_expediente",
+    "motivo": "Feriado Municipal",
+    "fonte": "decreto"
+   }
+  ],
+  "CONGONHINHAS": [
+   {
+    "data": "2026-03-20",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CORBÉLIA": [
+   {
+    "data": "2026-10-28",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Reforma",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CORNÉLIO PROCÓPIO": [
+   {
+    "data": "2026-02-15",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CORONEL VIVIDA": [
+   {
+    "data": "2026-08-16",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CRUZEIRO DO OESTE": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-26",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CURITIBA": [
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira de Curitiba",
+    "fonte": "decreto"
+   }
+  ],
+  "CURIÚVA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-26",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "CÂNDIDO DE ABREU": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-26",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "DOIS VIZINHOS": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Colono",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-28",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Dois Vizinhos",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Imaculada Conceição",
+    "fonte": "decreto"
+   }
+  ],
+  "ENGENHEIRO BELTRÃO": [
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-26",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "FAXINAL": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "FAZENDA RIO GRANDE": [
+   {
+    "data": "2026-01-26",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-02-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "FORMOSA DO OESTE": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "FOZ DO IGUAÇU": [
+   {
+    "data": "2026-06-10",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "FRANCISCO BELTRÃO": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-14",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "GOIOERÊ": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-10",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "GRANDES RIOS": [
+   {
+    "data": "2026-03-14",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-28",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "GUARANIAÇU": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "GUARAPUAVA": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-09",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "GUARATUBA": [
+   {
+    "data": "2026-04-29",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "GUAÍRA": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "IBAITI": [
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-09",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-15",
+    "tipo": "sem_expediente",
+    "motivo": "Marcha para Jesus",
+    "fonte": "decreto"
+   }
+  ],
+  "IBIPORÃ": [
+   {
+    "data": "2026-05-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-08",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "ICARAÍMA": [
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Assunção de Nossa Senhora",
+    "fonte": "decreto"
+   }
+  ],
+  "IMBITUVA": [
+   {
+    "data": "2026-05-03",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Feriado Municipal",
+    "fonte": "decreto"
+   }
+  ],
+  "IPIRANGA": [
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Reforma Protestante",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-07",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município e Instalação do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "IPORÃ": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "decreto"
+   }
+  ],
+  "IRATI": [
+   {
+    "data": "2026-07-15",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "IRETAMA": [
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-23",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "IVAIPORÃ": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-19",
+    "tipo": "sem_expediente",
+    "motivo": "Instalação do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "JACAREZINHO": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-04-02",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "JAGUAPITÃ": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-07",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "JAGUARIAÍVA": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia Nacional da Consciência Negra",
+    "fonte": "decreto"
+   }
+  ],
+  "JANDAIA DO SUL": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "JOAQUIM TÁVORA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-21",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "LAPA": [
+   {
+    "data": "2026-02-09",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Cerco da Lapa",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Benedito",
+    "fonte": "decreto"
+   }
+  ],
+  "LARANJEIRAS DO SUL": [
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Bom Jesus",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-30",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "LOANDA": [
+   {
+    "data": "2026-11-27",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "LONDRINA": [
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-10",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "MALLET": [
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Sagrado Coração de Jesus",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-21",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política e Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "MAMBORÊ": [
+   {
+    "data": "2026-09-10",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "MANDAGUARI": [
+   {
+    "data": "2026-05-06",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "MANDAGUAÇU": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "MANGUEIRINHA": [
+   {
+    "data": "2026-11-21",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "MANOEL RIBAS": [
+   {
+    "data": "2026-01-08",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "decreto"
+   }
+  ],
+  "MARECHAL CÂNDIDO RONDON": [
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Reforma Protestante",
+    "fonte": "decreto"
+   }
+  ],
+  "MARIALVA": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "MARILÂNDIA DO SUL": [
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "MARINGÁ": [
+   {
+    "data": "2026-05-10",
+    "tipo": "sem_expediente",
+    "motivo": "aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-05-11",
+    "tipo": "sem_expediente",
+    "motivo": "aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "MARMELEIRO": [
+   {
+    "data": "2026-05-22",
+    "tipo": "sem_expediente",
+    "motivo": "dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "MATELÂNDIA": [
+   {
+    "data": "2026-05-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "MATINHOS": [
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "MEDIANEIRA": [
+   {
+    "data": "2026-05-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "MORRETES": [
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "NOVA AURORA": [
+   {
+    "data": "2026-08-16",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "NOVA ESPERANÇA": [
+   {
+    "data": "2026-01-02",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município - Transferido do dia 14/12/25",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "NOVA FÁTIMA": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "NOVA LONDRINA": [
+   {
+    "data": "2026-03-15",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-21",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "ORTIGUEIRA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Instalação do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PAIÇANDU": [
+   {
+    "data": "2026-08-04",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-19",
+    "tipo": "sem_expediente",
+    "motivo": "Instalação do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PALMAS": [
+   {
+    "data": "2026-04-14",
+    "tipo": "sem_expediente",
+    "motivo": "Instalação do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PALMEIRA": [
+   {
+    "data": "2026-04-07",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PALMITAL": [
+   {
+    "data": "2026-01-07",
+    "tipo": "sem_expediente",
+    "motivo": "Natal Ucraniano Ortodoxo",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-01-21",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Bom Jesus - Comunidade Ucraniana",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PALOTINA": [
+   {
+    "data": "2026-01-22",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PARANACITY": [
+   {
+    "data": "2026-02-11",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-26",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PARANAGUÁ": [
+   {
+    "data": "2026-07-29",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangelho",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-07",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora do Santíssimo Rosário",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Promoção da Igualdade Racial",
+    "fonte": "decreto"
+   }
+  ],
+  "PARANAVAÍ": [
+   {
+    "data": "2026-01-02",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município - transferido do dia 14/12/25",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PARAÍSO DO NORTE": [
+   {
+    "data": "2026-03-12",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-27",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PATO BRANCO": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PEABIRU": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PINHAIS": [
+   {
+    "data": "2026-03-20",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PINHÃO": [
+   {
+    "data": "2026-12-15",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação e criação do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PIRAQUARA": [
+   {
+    "data": "2026-01-29",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PIRAÍ DO SUL": [
+   {
+    "data": "2026-03-05",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PITANGA": [
+   {
+    "data": "2026-01-28",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora da Glória",
+    "fonte": "decreto"
+   }
+  ],
+  "PONTA GROSSA": [
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PONTAL DO PARANÁ": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PORECATU": [
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PRIMEIRO DE MAIO": [
+   {
+    "data": "2026-11-14",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "PRUDENTÓPOLIS": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-12",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-12",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Josafat",
+    "fonte": "decreto"
+   }
+  ],
+  "PÉROLA": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "QUATRO BARRAS": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-09",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "QUEDAS DO IGUAÇU": [
+   {
+    "data": "2026-10-18",
+    "tipo": "sem_expediente",
+    "motivo": "Instalação do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "REALEZA": [
+   {
+    "data": "2026-11-12",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "REBOUÇAS": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-21",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Imaculada Conceição de Maria Santíssima",
+    "fonte": "decreto"
+   }
+  ],
+  "RESERVA": [
+   {
+    "data": "2026-03-26",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro",
+    "fonte": "decreto"
+   }
+  ],
+  "RIBEIRÃO CLARO": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "RIBEIRÃO DO PINHAL": [
+   {
+    "data": "2026-06-09",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Instalação da Comarca",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-09",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-10",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "RIO BRANCO DO SUL": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-16",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-11",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "RIO NEGRO": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "ROLÂNDIA": [
+   {
+    "data": "2026-01-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "SALTO DO LONTRA": [
+   {
+    "data": "2026-02-18",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "SANTA FÉ": [
+   {
+    "data": "2026-11-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-09",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "SANTA HELENA": [
+   {
+    "data": "2026-05-26",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Colono e do Motorista",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Reforma",
+    "fonte": "decreto"
+   }
+  ],
+  "SANTA ISABEL DO IVAÍ": [
+   {
+    "data": "2026-07-02",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-05",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "SANTA MARIANA": [
+   {
+    "data": "2026-10-11",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "SANTO ANTÔNIO DA PLATINA": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Instalação do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "SANTO ANTÔNIO DO SUDOESTE": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-14",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "SARANDI": [
+   {
+    "data": "2026-10-14",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "SENGÉS": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-03-01",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Imaculada Conceição",
+    "fonte": "decreto"
+   }
+  ],
+  "SERTANÓPOLIS": [
+   {
+    "data": "2026-06-06",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-01",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "SIQUEIRA CAMPOS": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-23",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "SÃO JERÔNIMO DA SERRA": [
+   {
+    "data": "2026-09-30",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-11",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Consciência Negra",
+    "fonte": "decreto"
+   }
+  ],
+  "SÃO JOSÉ DOS PINHAIS": [
+   {
+    "data": "2026-01-08",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "SÃO JOÃO": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Criação do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "SÃO JOÃO DO IVAÍ": [
+   {
+    "data": "2026-05-11",
+    "tipo": "sem_expediente",
+    "motivo": "Instalação da Comarca",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-20",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "SÃO JOÃO DO TRIUNFO": [
+   {
+    "data": "2026-02-15",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "SÃO MATEUS DO SUL": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-21",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "SÃO MIGUEL DO IGUAÇU": [
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Colono",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-09-29",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-28",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "TEIXEIRA SOARES": [
+   {
+    "data": "2026-07-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "TELÊMACO BORBA": [
+   {
+    "data": "2026-03-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia Mundial da Oração",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-03-21",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Instalação do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "TERRA BOA": [
+   {
+    "data": "2026-07-13",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-28",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "TERRA RICA": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-04",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Imaculada Conceição de Nossa Senhora",
+    "fonte": "decreto"
+   }
+  ],
+  "TERRA ROXA": [
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "TIBAGI": [
+   {
+    "data": "2026-03-18",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "TOLEDO": [
+   {
+    "data": "2026-06-09",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Instalação da Comarca de Toledo",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "TOMAZINA": [
+   {
+    "data": "2026-09-06",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-09",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santo Inocêncio Mártir",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "UBIRATÃ": [
+   {
+    "data": "2026-02-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia dos Santos Pastorinhos Francisco e Jacinta Marto em Juranda",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-04",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário e Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "UMUARAMA": [
+   {
+    "data": "2026-06-26",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Assunção de Nossa Senhora",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-10-04",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "UNIÃO DA VITÓRIA": [
+   {
+    "data": "2026-03-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "URAÍ": [
+   {
+    "data": "2026-05-05",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "WENCESLAU BRAZ": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-11-26",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "decreto"
+   }
+  ],
+  "XAMBRÊ": [
+   {
+    "data": "2026-07-16",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "decreto"
+   },
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "decreto"
+   }
+  ]
+ }
+}

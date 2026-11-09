@@ -1,0 +1,241 @@
+{
+ "tribunal": "TJGO",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:07:06Z",
+ "fontes": [
+  {
+   "id": "feriados",
+   "url": "https://docs.tjgo.jus.br/institucional/feriados/DOC_feriados_2026_08062026.pdf",
+   "descricao": "Tabela 'FERIADOS 2026' do TJGO, versão de 08/06/2026 (PDF do próprio tribunal, 2 páginas): feriados, ponto facultativo e recesso forense"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "sem_expediente",
+   "motivo": "Ano Novo",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-02-16",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-02-18",
+   "tipo": "parcial",
+   "motivo": "Carnaval",
+   "fonte": "feriados",
+   "horario": "até 12h"
+  },
+  {
+   "data": "2026-04-01",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-04-02",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Trabalho",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-06-04",
+   "tipo": "sem_expediente",
+   "motivo": "Corpus Christi",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-07-26",
+   "tipo": "sem_expediente",
+   "motivo": "Fundação da Cidade de Goiás",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "Independência do Brasil",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "Dia de Nossa Senhora Aparecida (Padroeira do Brasil)",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-10-24",
+   "tipo": "sem_expediente",
+   "motivo": "Aniversário de Goiânia",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-10-28",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Servidor Público",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Finados",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-11-15",
+   "tipo": "sem_expediente",
+   "motivo": "Proclamação da República",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Consciência Negra",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Justiça",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-12-20",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-12-21",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-12-22",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-12-23",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-12-24",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "sem_expediente",
+   "motivo": "Natal",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-12-29",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-12-30",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "feriados"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "feriados"
+  }
+ ],
+ "locais": {
+  "GOIÂNIA": [
+   {
+    "data": "2026-05-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora Auxiliadora",
+    "fonte": "feriados"
+   }
+  ],
+  "IPORÁ": [
+   {
+    "data": "2026-05-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora Auxiliadora",
+    "fonte": "feriados"
+   }
+  ],
+  "LEOPOLDO DE BULHÕES": [
+   {
+    "data": "2026-05-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora Auxiliadora",
+    "fonte": "feriados"
+   }
+  ],
+  "SENADOR CANEDO": [
+   {
+    "data": "2026-05-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora Auxiliadora",
+    "fonte": "feriados"
+   }
+  ]
+ }
+}

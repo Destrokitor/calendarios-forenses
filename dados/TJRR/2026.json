@@ -1,0 +1,490 @@
+{
+ "tribunal": "TJRR",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:07:32Z",
+ "fontes": [
+  {
+   "id": "portaria",
+   "url": "https://diario.tjrr.jus.br/dpj/dpj-20251222.pdf",
+   "descricao": "Portaria TJRR/PR n. 1558, de 19/12/2025 (Anexo Único), DJe ano XXVI, edição 8006, de 22/12/2025, pp. 3 a 7"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-01-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia Nacional da Confraternização Universal",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-01-02",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-01-02",
+   "tipo": "sem_expediente",
+   "motivo": "Ponto Facultativo referente ao feriado do dia 1º/1/2026",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-01-03",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-01-04",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-01-05",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-01-06",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-02-16",
+   "tipo": "sem_expediente",
+   "motivo": "Segunda e Terça-feira de carnaval e Quarta-feira de cinzas",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "Segunda e Terça-feira de carnaval e Quarta-feira de cinzas",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-02-18",
+   "tipo": "sem_expediente",
+   "motivo": "Segunda e Terça-feira de carnaval e Quarta-feira de cinzas",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-01",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-02",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-20",
+   "tipo": "sem_expediente",
+   "motivo": "Ponto Facultativo referente ao feriado do dia 21/4/2026",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Trabalhador",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-06-04",
+   "tipo": "sem_expediente",
+   "motivo": "Corpus Christi",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-06-05",
+   "tipo": "sem_expediente",
+   "motivo": "Ponto Facultativo referente ao feriado do dia 4/6/2026",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-08-10",
+   "tipo": "sem_expediente",
+   "motivo": "Ponto Facultativo referente ao feriado do dia 11/8/2026",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-08-11",
+   "tipo": "sem_expediente",
+   "motivo": "Dia dos Magistrados",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "Independência do Brasil",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-10-05",
+   "tipo": "sem_expediente",
+   "motivo": "Aniversário do Estado de Roraima",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "Dia de Nossa Senhora Aparecida",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-10-28",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Servidor Público",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Dia de Finados",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Consciência Negra",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-07",
+   "tipo": "sem_expediente",
+   "motivo": "Ponto Facultativo referente ao feriado do dia 8/12/2026",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Justiça e Nossa Senhora da Conceição",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-20",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-21",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-22",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-23",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-24",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-24",
+   "tipo": "sem_expediente",
+   "motivo": "Ponto Facultativo referente ao feriado do dia 25/12/2026",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "sem_expediente",
+   "motivo": "Natal",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-29",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-30",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "recesso",
+   "motivo": "Recesso forense",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "sem_expediente",
+   "motivo": "Ponto Facultativo referente ao feriado do 1º/1/2027",
+   "fonte": "portaria"
+  }
+ ],
+ "locais": {
+  "ALTO ALEGRE": [
+   {
+    "data": "2026-05-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santo Isidoro",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-01",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário dos Municípios de Mucajaí, São Luiz do Anauá, Alto Alegre e Bonfim",
+    "fonte": "portaria"
+   }
+  ],
+  "BOA VISTA": [
+   {
+    "data": "2026-01-19",
+    "tipo": "sem_expediente",
+    "motivo": "Ponto Facultativo referente ao feriado do dia 20/1/2026",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Sebastião",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Pedro",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-09",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Boa Vista",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-10",
+    "tipo": "sem_expediente",
+    "motivo": "Ponto Facultativo referente ao feriado do dia 9/7/2026",
+    "fonte": "portaria"
+   }
+  ],
+  "BONFIM": [
+   {
+    "data": "2026-01-19",
+    "tipo": "sem_expediente",
+    "motivo": "Ponto Facultativo referente ao feriado do dia 20/1/2026",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Sebastião",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-01",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário dos Municípios de Mucajaí, São Luiz do Anauá, Alto Alegre e Bonfim",
+    "fonte": "portaria"
+   }
+  ],
+  "CARACARAÍ": [
+   {
+    "data": "2026-01-19",
+    "tipo": "sem_expediente",
+    "motivo": "Ponto Facultativo referente ao feriado do dia 20/1/2026",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Sebastião",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São José Operário",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-03-20",
+    "tipo": "sem_expediente",
+    "motivo": "Ponto Facultativo referente ao feriado do dia 19/3/2026",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-05-27",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Caracaraí",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-09-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia Consagrado a Nossa Senhora do Livramento",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-09-25",
+    "tipo": "sem_expediente",
+    "motivo": "Ponto Facultativo referente ao feriado do dia 24/9/2026",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia dos Comerciantes e Comerciários de Caracaraí",
+    "fonte": "portaria"
+   }
+  ],
+  "MUCAJAÍ": [
+   {
+    "data": "2026-01-14",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Imigrante",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Funcionário Público Municipal",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-03-20",
+    "tipo": "sem_expediente",
+    "motivo": "Ponto Facultativo referente ao feriado do dia 19/3/2026",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Nossa Senhora de Fátima",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-01",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário dos Municípios de Mucajaí, São Luiz do Anauá, Alto Alegre e Bonfim",
+    "fonte": "portaria"
+   }
+  ],
+  "PACARAIMA": [
+   {
+    "data": "2026-10-16",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Cristoraima",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-17",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário dos Municípios de Pacaraima e Rorainópolis",
+    "fonte": "portaria"
+   }
+  ],
+  "POSTO AVANÇADO DE CAROEBE E DE IRACEMA": [
+   {
+    "data": "2026-05-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santo Isidoro",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-11-04",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Caroebe e de Iracema",
+    "fonte": "portaria"
+   }
+  ],
+  "RORAINÓPOLIS": [
+   {
+    "data": "2026-10-17",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário dos Municípios de Pacaraima e Rorainópolis",
+    "fonte": "portaria"
+   }
+  ],
+  "SÃO LUIZ DO ANAUÁ": [
+   {
+    "data": "2026-07-01",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário dos Municípios de Mucajaí, São Luiz do Anauá, Alto Alegre e Bonfim",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-24",
+    "tipo": "sem_expediente",
+    "motivo": "Ponto Facultativo referente ao feriado do dia 25/8/2026",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-25",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Luiz",
+    "fonte": "portaria"
+   }
+  ]
+ }
+}

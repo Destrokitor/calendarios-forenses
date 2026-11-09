@@ -1,0 +1,1006 @@
+{
+ "tribunal": "TRT9",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:40:02Z",
+ "fontes": [
+  {
+   "id": "calendario",
+   "url": "https://www.trt9.jus.br/institucional/calendario.xhtml",
+   "descricao": "Calendário do Judiciário e dos feriados locais do TRT9 (tabela da página)"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Confraternização Universal",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-02",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-03",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-04",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-05",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-06",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-07",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazo - Art. 220 CPC",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-08",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazo - Art. 220 CPC",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-09",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazo - Art. 220 CPC",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-10",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazo - Art. 220 CPC",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-11",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazo - Art. 220 CPC",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-12",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazo - Art. 220 CPC",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-13",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazo - Art. 220 CPC",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-14",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazo - Art. 220 CPC",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-15",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazo - Art. 220 CPC",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-16",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazo - Art. 220 CPC",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-17",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazo - Art. 220 CPC",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-18",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazo - Art. 220 CPC",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-19",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazo - Art. 220 CPC",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-20",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazo - Art. 220 CPC",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-21",
+   "tipo": "suspensao_prazo",
+   "motivo": "Dispõe sobre a suspensão dos prazos processuais de 21 a 23/01/2026",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-22",
+   "tipo": "suspensao_prazo",
+   "motivo": "Dispõe sobre a suspensão dos prazos processuais de 21 a 23/01/2026",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-01-23",
+   "tipo": "suspensao_prazo",
+   "motivo": "Dispõe sobre a suspensão dos prazos processuais de 21 a 23/01/2026",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-02-16",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-04-01",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-04-02",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-04-20",
+   "tipo": "sem_expediente",
+   "motivo": "Suspensão de expediente e prazos processuais",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Trabalho",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-06-04",
+   "tipo": "sem_expediente",
+   "motivo": "Corpus Christi",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-06-05",
+   "tipo": "sem_expediente",
+   "motivo": "Suspensão de expediente e prazos processuais",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-06-29",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de Prazos - jogo da copa 2026",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-08-14",
+   "tipo": "sem_expediente",
+   "motivo": "Transferência do feriado de 11/8 (Instituição dos Cursos Jurídicos)",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-08-28",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais no dia 28/08/2026",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-09-01",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais no dia 01/09/2026",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "Independência do Brasil",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-09-11",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais no dia 11/09/2026",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "Padroeira do Brasil",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-10-29",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais no dia 29/10/2026",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-10-30",
+   "tipo": "sem_expediente",
+   "motivo": "Transferência do feriado do Dia do Servidor Público (28/10)",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-11-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia de Todos os Santos",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Finados",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-11-15",
+   "tipo": "sem_expediente",
+   "motivo": "Proclamação da República",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "Dia Nacional de Zumbi e da Consciência Negra",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-18",
+   "tipo": "sem_expediente",
+   "motivo": "Transferência do feriado de 8/12 (Dia da Justiça)",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-20",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-21",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-22",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-23",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-24",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "sem_expediente",
+   "motivo": "Nascimento de Jesus Cristo",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-29",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-30",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "recesso",
+   "motivo": "Recesso Judiciário",
+   "fonte": "calendario"
+  }
+ ],
+ "locais": {
+  "APUCARANA-PR": [
+   {
+    "data": "2026-01-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Apucarana",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-02-11",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município de Apucarana",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-09-22",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais nas Varas do Trabalho de Apucarana",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-09-23",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais nas Varas do Trabalho de Apucarana",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-09-24",
+    "tipo": "suspensao_prazo",
+    "motivo": "Prorrogação da suspensão dos prazos processuais nas Varas do Trabalho de Apucarana até 24/9/2026.",
+    "fonte": "calendario"
+   }
+  ],
+  "ARAPONGAS-PR": [
+   {
+    "data": "2026-10-10",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Arapongas",
+    "fonte": "calendario"
+   }
+  ],
+  "ARAUCARIA-PR": [
+   {
+    "data": "2026-02-11",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município de Araucária",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-30",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira (Nossa Senhora dos Remédios)",
+    "fonte": "calendario"
+   }
+  ],
+  "BANDEIRANTES-PR": [
+   {
+    "data": "2026-10-01",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira - Sta. Terezinha",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário da cidade",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Imaculada Conceição",
+    "fonte": "calendario"
+   }
+  ],
+  "CAMBE-PR": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município de Cambé",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-11",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Cambé",
+    "fonte": "calendario"
+   }
+  ],
+  "CAMPO LARGO-PR": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município de Campo Largo (Nossa Senhora da Piedade)",
+    "fonte": "calendario"
+   }
+  ],
+  "CAMPO MOURAO-PR": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município de Campo Mourão (São José)",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-19",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município",
+    "fonte": "calendario"
+   }
+  ],
+  "CASCAVEL-PR": [
+   {
+    "data": "2026-11-14",
+    "tipo": "sem_expediente",
+    "motivo": "feriado municipal Cascavel",
+    "fonte": "calendario"
+   }
+  ],
+  "CASTRO-PR": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Aniv. Mun. Castro",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira do Município de Castro (Senhora de Sant'Ana)",
+    "fonte": "calendario"
+   }
+  ],
+  "CIANORTE-PR": [
+   {
+    "data": "2026-05-13",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira do Município de Cianorte (Nossa Senhora de Fátima)",
+    "fonte": "calendario"
+   }
+  ],
+  "COLOMBO-PR": [
+   {
+    "data": "2026-02-05",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Colombo",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-05-26",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE NOSSA SENHORA DO CARAVAGIO",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-07",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora do Rosário (Padroeira do Municipio)",
+    "fonte": "calendario"
+   }
+  ],
+  "CORNELIO PROCOPIO-PR": [
+   {
+    "data": "2026-02-15",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Cornélio Procópio",
+    "fonte": "calendario"
+   }
+  ],
+  "CURITIBA-PR": [
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município de Curitiba (Nossa Senhora da Luz dos Pinhais)",
+    "fonte": "calendario"
+   }
+  ],
+  "DOIS VIZINHOS-PR": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro do Município",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-28",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município",
+    "fonte": "calendario"
+   }
+  ],
+  "FOZ DO IGUACU-PR": [
+   {
+    "data": "2026-06-10",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO",
+    "fonte": "calendario"
+   }
+  ],
+  "FRANCISCO BELTRAO-PR": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA PADROEIRA",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-14",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DO MUNICÍPIO",
+    "fonte": "calendario"
+   }
+  ],
+  "GUARAPUAVA-PR": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município de Guarapuava",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-09",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Guarapuava",
+    "fonte": "calendario"
+   }
+  ],
+  "IRATI-PR": [
+   {
+    "data": "2026-07-15",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira do Município de Irati",
+    "fonte": "calendario"
+   }
+  ],
+  "IVAIPORA-PR": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Feriado Municipal - Dia do Padroeiro Bom Jesus",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-19",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Ivaiporã",
+    "fonte": "calendario"
+   }
+  ],
+  "JACAREZINHO-PR": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Sebastião",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-04-02",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município de Jacarezinho",
+    "fonte": "calendario"
+   }
+  ],
+  "JAGUARIAIVA-PR": [
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro do Município de Jaguariaíva",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Jaguariaíva",
+    "fonte": "calendario"
+   }
+  ],
+  "LARANJEIRAS DO SUL-PR": [
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "SENHOR JESUS",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-30",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política",
+    "fonte": "calendario"
+   }
+  ],
+  "LONDRINA-PR": [
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "Sagrado Coração de Jesus",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-10",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Londrina",
+    "fonte": "calendario"
+   }
+  ],
+  "MARECHAL CANDIDO RONDON-PR": [
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação do Município de Marechal Cândido Rondon",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-31",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA REFORMA PROTESTANTE",
+    "fonte": "calendario"
+   }
+  ],
+  "MARINGA-PR": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira Maringá",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-03",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais e audiências",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-04",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais e audiências",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-05",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais e audiências",
+    "fonte": "calendario"
+   }
+  ],
+  "NOVA ESPERANCA-PR": [
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "Sagrado Coração de Jesus (Padroeiro do Município)",
+    "fonte": "calendario"
+   }
+  ],
+  "PALMAS-PR": [
+   {
+    "data": "2026-04-14",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município de Palmas",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município de Palmas",
+    "fonte": "calendario"
+   }
+  ],
+  "PARANAGUA-PR": [
+   {
+    "data": "2026-07-29",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do município",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-07",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira da Cidade",
+    "fonte": "calendario"
+   }
+  ],
+  "PARANAVAI-PR": [
+   {
+    "data": "2026-01-19",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro do Município de Paranavaí",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município de Paranavaí",
+    "fonte": "calendario"
+   }
+  ],
+  "PATO BRANCO-PR": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO DO MUNICÍPIO",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLITICA",
+    "fonte": "calendario"
+   }
+  ],
+  "PINHAIS-PR": [
+   {
+    "data": "2026-03-20",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICA",
+    "fonte": "calendario"
+   }
+  ],
+  "PITANGA-PR": [
+   {
+    "data": "2026-11-06",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos nos processos originários de Pitanga e que tramitam na VT Ivaiporã",
+    "fonte": "calendario"
+   }
+  ],
+  "PONTA GROSSA-PR": [
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira do Município de Ponta Grossa (Senhora de Sant'Ana)",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política de Ponta Grossa",
+    "fonte": "calendario"
+   }
+  ],
+  "PORECATU-PR": [
+   {
+    "data": "2026-10-28",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Servidor Público",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Porecatu",
+    "fonte": "calendario"
+   }
+  ],
+  "POSTO AVANÇADO DA JUSTIÇA DO TRABALHO DE PALOTINA": [
+   {
+    "data": "2026-01-22",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município de Palotina",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Político Administrativa Palotina",
+    "fonte": "calendario"
+   }
+  ],
+  "ROLANDIA-PR": [
+   {
+    "data": "2026-01-28",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município de Rolândia",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro do Município",
+    "fonte": "calendario"
+   }
+  ],
+  "SANTO ANTONIO DA PLATINA-PR": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro do Município de Santo Antônio da Platina",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-20",
+    "tipo": "sem_expediente",
+    "motivo": "Emancipação Política do Município de Santo Antônio da Platina",
+    "fonte": "calendario"
+   }
+  ],
+  "SAO JOSE DOS PINHAIS-PR": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Padroeiro de São José",
+    "fonte": "calendario"
+   }
+  ],
+  "TELEMACO BORBA-PR": [
+   {
+    "data": "2026-03-06",
+    "tipo": "sem_expediente",
+    "motivo": "Dia Mundial da Oração",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-03-21",
+    "tipo": "sem_expediente",
+    "motivo": "Instalação do Município de Telêmaco Borba",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-06-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Padroeira do Município",
+    "fonte": "calendario"
+   }
+  ],
+  "TOLEDO-PR": [
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Toledo",
+    "fonte": "calendario"
+   }
+  ],
+  "UMUARAMA-PR": [
+   {
+    "data": "2026-06-26",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Umuarama",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "ASSUNÇÃO DE NOSSA SENHORA",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-04",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro do município - São Francisco de Assis",
+    "fonte": "calendario"
+   }
+  ],
+  "UNIAO DA VITORIA-PR": [
+   {
+    "data": "2026-03-27",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de União da Vitória",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-06-12",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro do Município - Sagrado Coração de Jesus",
+    "fonte": "calendario"
+   }
+  ],
+  "VARA DO TRABALHO DE ASSIS CHATEAUBRIAND": [
+   {
+    "data": "2026-07-16",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora do Carmo (Padroeira do Município)",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-08-20",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário da Emancipação Político-Administrativa do Município",
+    "fonte": "calendario"
+   }
+  ],
+  "VARA DO TRABALHO DE PALMAS": [
+   {
+    "data": "2026-10-27",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais nos dias 27 a 29/10/2026 na Vara do Trabalho de Palmas",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-28",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais nos dias 27 a 29/10/2026 na Vara do Trabalho de Palmas",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-10-29",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais nos dias 27 a 29/10/2026 na Vara do Trabalho de Palmas",
+    "fonte": "calendario"
+   }
+  ],
+  "WENCESLAU BRAZ-PR": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Wenceslau Braz (Padroeiro)",
+    "fonte": "calendario"
+   }
+  ]
+ }
+}

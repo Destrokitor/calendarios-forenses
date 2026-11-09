@@ -1,0 +1,249 @@
+{
+ "tribunal": "TRT19",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:40:17Z",
+ "fontes": [
+  {
+   "id": "ato170",
+   "url": "https://asp1.trt19.jus.br/docspdf/rhdocs/BOLETIM_20251008092236621.PDF",
+   "descricao": "Ato nº 170/GP/TRT 19ª, de 29/09/2025 (Boletim Interno nº 10, DEJT de 08/10/2025): feriados e pontos facultativos do exercício de 2026"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "sem_expediente",
+   "motivo": "Confraternização universal",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-01-02",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-01-03",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-01-04",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-01-05",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-01-06",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-02-16",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-02-18",
+   "tipo": "sem_expediente",
+   "motivo": "Cinzas",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-04-01",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-04-02",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do trabalho",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-06-04",
+   "tipo": "sem_expediente",
+   "motivo": "Corpus Christi",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-06-24",
+   "tipo": "sem_expediente",
+   "motivo": "São João (Lei Estadual nº 5508 de 7/7/1993)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-06-29",
+   "tipo": "sem_expediente",
+   "motivo": "São Pedro (Lei Estadual nº 5509 de 7/7/1993)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-08-11",
+   "tipo": "sem_expediente",
+   "motivo": "Criação dos Cursos Jurídicos, Dia da Magistratura, Dia do Advogado",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-08-27",
+   "tipo": "sem_expediente",
+   "motivo": "Padroeira de Maceió – N. Sa. Dos Prazeres",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "Independência do Brasil",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-09-16",
+   "tipo": "sem_expediente",
+   "motivo": "Emancipação Política do Estado de Alagoas",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "Padroeira do Brasil (N. Sa. Aparecida)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-10-30",
+   "tipo": "sem_expediente",
+   "motivo": "Transferência do Dia do Servidor Público (28/10/2025)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Finados",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "Dia de Zumbi dos Palmares/Dia da Consciência Negra",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "sem_expediente",
+   "motivo": "N. Sa. da Conceição; Dia da Justiça (Feriado Nacional para efeitos forenses. Lei nº 5.010/66)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-12-20",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-12-21",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-12-22",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-12-23",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-12-24",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "sem_expediente",
+   "motivo": "NATAL",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-12-29",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-12-30",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "recesso",
+   "motivo": "Recesso Forense (Lei nº 5.010 de 30/5/1966)",
+   "fonte": "ato170"
+  }
+ ],
+ "locais": {}
+}

@@ -1,0 +1,593 @@
+{
+ "tribunal": "TRT12",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:40:13Z",
+ "fontes": [
+  {
+   "id": "portaria",
+   "url": "https://dspace.trt12.jus.br/server/api/core/bitstreams/b401ad4a-b944-43f7-86e5-b0245fbde6b9/content",
+   "descricao": "Portaria SEAP nº 191/2024 (republicação de 19/05/2025, alterada pela Portaria SEAP nº 57/2025), feriados do exercício de 2026, PDF do DSpace do TRT12"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-01-01",
+   "tipo": "sem_expediente",
+   "motivo": "Confraternização Universal",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-01-02",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-01-03",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-01-04",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-01-05",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-01-06",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-02-16",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval e Quarta-feira de Cinzas (Art. 154 do RI)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval e Quarta-feira de Cinzas (Art. 154 do RI)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-02-18",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval e Quarta-feira de Cinzas (Art. 154 do RI)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-01",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa (Art. 154 do RI)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-02",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa (Art. 154 do RI)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa (Art. 154 do RI)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-04",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa (Art. 154 do RI)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-05",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa (Art. 154 do RI)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Trabalho",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-08-10",
+   "tipo": "sem_expediente",
+   "motivo": "Feriado regimental transferido de 11/08 para 10/08 (Art. 154 do RI e Art. 2º da portaria)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-08-16",
+   "tipo": "sem_expediente",
+   "motivo": "Comemoração da Data Magna do Estado de Santa Catarina - *transferido do dia 11 para o dia 16-8.",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "Independência do Brasil",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "Nossa Senhora Aparecida",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-10-30",
+   "tipo": "sem_expediente",
+   "motivo": "Feriado regimental transferido de 28/10 para 30/10 (Art. 154 do RI e Art. 2º da portaria)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-11-01",
+   "tipo": "sem_expediente",
+   "motivo": "Feriado regimental (Art. 154 do RI)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Feriado regimental (Art. 154 do RI)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Finados",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-11-15",
+   "tipo": "sem_expediente",
+   "motivo": "Proclamação da República",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "Zumbi e Consciência Negra",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-11-29",
+   "tipo": "sem_expediente",
+   "motivo": "Comemoração da Padroeira do Estado de Santa Catarina (Santa Catarina de Alexandria) *transferido do dia 25 para o dia 29-11.",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-07",
+   "tipo": "sem_expediente",
+   "motivo": "Feriado regimental transferido de 08/12 para 07/12 (Art. 154 do RI e Art. 2º da portaria)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-20",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-21",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-22",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-23",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-24",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "sem_expediente",
+   "motivo": "Natal",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-29",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-30",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 153 do RI do TRT12)",
+   "fonte": "portaria"
+  }
+ ],
+ "locais": {
+  "ARARANGUÁ": [
+   {
+    "data": "2026-04-03",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Araranguá",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-05-04",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira da Cidade de Araranguá",
+    "fonte": "portaria"
+   }
+  ],
+  "BALNEÁRIO CAMBORIÚ": [
+   {
+    "data": "2026-07-20",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Balneário Camboriú",
+    "fonte": "portaria"
+   }
+  ],
+  "BLUMENAU": [
+   {
+    "data": "2026-09-02",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Blumenau",
+    "fonte": "portaria"
+   }
+  ],
+  "BRUSQUE": [
+   {
+    "data": "2026-08-04",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Brusque",
+    "fonte": "portaria"
+   }
+  ],
+  "CANOINHAS": [
+   {
+    "data": "2026-05-03",
+    "tipo": "sem_expediente",
+    "motivo": "Feriado Municipal em Canoinhas (Dia de Santa Cruz)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-09-12",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Canoinhas",
+    "fonte": "portaria"
+   }
+  ],
+  "CAÇADOR": [],
+  "CHAPECÓ": [
+   {
+    "data": "2026-08-25",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação das Cidades de Chapecó e Joaçaba",
+    "fonte": "portaria"
+   }
+  ],
+  "CONCÓRDIA": [
+   {
+    "data": "2026-07-29",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Concórdia",
+    "fonte": "portaria"
+   }
+  ],
+  "CRICIÚMA": [
+   {
+    "data": "2026-01-06",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Criciúma",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-04",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira da Cidade de Criciúma",
+    "fonte": "portaria"
+   }
+  ],
+  "CURITIBANOS": [
+   {
+    "data": "2026-06-11",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Curitibanos",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira das Cidades de Curitibanos, Videira, Imbituba e Fraiburgo",
+    "fonte": "portaria"
+   }
+  ],
+  "FLORIANÓPOLIS": [
+   {
+    "data": "2026-03-25",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Florianópolis",
+    "fonte": "portaria"
+   }
+  ],
+  "FRAIBURGO": [
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira das Cidades de Curitibanos, Videira, Imbituba e Fraiburgo",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-31",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Fraiburgo",
+    "fonte": "portaria"
+   }
+  ],
+  "IMBITUBA": [
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira das Cidades de Curitibanos, Videira, Imbituba e Fraiburgo",
+    "fonte": "portaria"
+   }
+  ],
+  "INDAIAL": [
+   {
+    "data": "2026-03-23",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Indaial",
+    "fonte": "portaria"
+   }
+  ],
+  "ITAJAÍ": [
+   {
+    "data": "2026-06-15",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Itajaí",
+    "fonte": "portaria"
+   }
+  ],
+  "ITAPEMA": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Feriado Municipal em Itapema (Nossa Senhora dos Navegantes)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-04-21",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Itapema",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro da Cidade de Itapema (Santo Antônio)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Feriado no município de Itapema (Imaculada Nossa Senhora da Conceição)",
+    "fonte": "portaria"
+   }
+  ],
+  "JARAGUÁ DO SUL": [
+   {
+    "data": "2026-07-25",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Jaraguá do Sul",
+    "fonte": "portaria"
+   }
+  ],
+  "JOAÇABA": [
+   {
+    "data": "2026-08-25",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação das Cidades de Chapecó e Joaçaba",
+    "fonte": "portaria"
+   }
+  ],
+  "JOINVILLE": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Joinville",
+    "fonte": "portaria"
+   }
+  ],
+  "LAGES": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira da Cidade de Lages",
+    "fonte": "portaria"
+   }
+  ],
+  "MAFRA": [
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Mafra",
+    "fonte": "portaria"
+   }
+  ],
+  "NAVEGANTES": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira da Cidade de Navegantes",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-26",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Navegantes",
+    "fonte": "portaria"
+   }
+  ],
+  "PALHOÇA": [
+   {
+    "data": "2026-04-24",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Palhoça",
+    "fonte": "portaria"
+   }
+  ],
+  "RIO DO SUL": [
+   {
+    "data": "2026-04-15",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Rio do Sul",
+    "fonte": "portaria"
+   }
+  ],
+  "SÃO BENTO DO SUL": [
+   {
+    "data": "2026-09-23",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de São Bento do Sul",
+    "fonte": "portaria"
+   }
+  ],
+  "SÃO JOSÉ": [
+   {
+    "data": "2026-03-21",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira da Cidade de São José",
+    "fonte": "portaria"
+   }
+  ],
+  "SÃO MIGUEL DO OESTE": [
+   {
+    "data": "2026-02-15",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de São Miguel do Oeste",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-09-29",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira da Cidade de São Miguel do Oeste",
+    "fonte": "portaria"
+   }
+  ],
+  "TIMBÓ": [
+   {
+    "data": "2026-04-06",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário da Cidade de Timbó (Transferido para “Segunda-feira após domingo de Páscoa” conforme Lei n° 754/1980)",
+    "fonte": "portaria"
+   }
+  ],
+  "TUBARÃO": [
+   {
+    "data": "2026-05-27",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Tubarão",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira da Cidade de Tubarão",
+    "fonte": "portaria"
+   }
+  ],
+  "VIDEIRA": [
+   {
+    "data": "2026-03-01",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Município de Videira",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeira das Cidades de Curitibanos, Videira, Imbituba e Fraiburgo",
+    "fonte": "portaria"
+   }
+  ],
+  "XANXERÊ": [
+   {
+    "data": "2026-02-27",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Xanxerê (alterada pela Portaria SEAP n. 57, de 16 de maio de 2025)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-03-06",
+    "tipo": "sem_expediente",
+    "motivo": "Fundação da Cidade de Xanxerê (alterada pela Portaria SEAP n. 57, de 16 de maio de 2025)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro da Cidade de Xanxerê",
+    "fonte": "portaria"
+   }
+  ]
+ }
+}

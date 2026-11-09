@@ -1,0 +1,486 @@
+{
+ "tribunal": "TJAC",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:04:53Z",
+ "fontes": [
+  {
+   "id": "portaria",
+   "url": "https://webdev.tjac.jus.br/wp-content/uploads/2025/12/Portaria_PRESI_TJAC_6569_2025.pdf",
+   "descricao": "Portaria PRESI nº 6569/2025 (calendário 2026: feriados, pontos facultativos e suspensão de expediente), DJe 7.950, de 3.2.2026, p. 18-19"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "sem_expediente",
+   "motivo": "Confraternização Universal",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-01-23",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Evangélico",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-02-16",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-02-18",
+   "tipo": "sem_expediente",
+   "motivo": "Quarta-feira de Cinzas",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-03-08",
+   "tipo": "sem_expediente",
+   "motivo": "Dia Internacional da Mulher",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-02",
+   "tipo": "sem_expediente",
+   "motivo": "Quinta-feira Santa",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "Sexta-feira da Paixão",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Trabalho",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-06-15",
+   "tipo": "sem_expediente",
+   "motivo": "Aniversário do Estado do Acre",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-08-11",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Advogado",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-09-05",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Amazônia",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "Independência do Brasil",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "Nossa Senhora de Aparecida",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Finados",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-11-15",
+   "tipo": "sem_expediente",
+   "motivo": "Proclamação da República",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Consciência Negra",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Justiça",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "sem_expediente",
+   "motivo": "Natal",
+   "fonte": "portaria"
+  }
+ ],
+ "locais": {
+  "ACRELÂNDIA": [
+   {
+    "data": "2026-04-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário dos Municípios de Acrelândia, Bujari, Capixaba, Epitaciolândia, Jordão, Marechal Thaumaturgo, Santa Rosa do Purus e Porto Acre",
+    "fonte": "portaria"
+   }
+  ],
+  "ASSIS BRASIL": [
+   {
+    "data": "2026-05-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Senador Guiomard, Assis Brasil e Manoel Urbano",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-05-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora de Perpétuo Socorro",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora da Glória Dia de Santa Raimunda do Bonsucesso",
+    "fonte": "portaria"
+   }
+  ],
+  "BRASILÉIA": [
+   {
+    "data": "2026-07-03",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Brasileia",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Nossa Senhora das Dores",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-04",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Francisco",
+    "fonte": "portaria"
+   }
+  ],
+  "BUJARI": [
+   {
+    "data": "2026-04-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário dos Municípios de Acrelândia, Bujari, Capixaba, Epitaciolândia, Jordão, Marechal Thaumaturgo, Santa Rosa do Purus e Porto Acre",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São João Batista",
+    "fonte": "portaria"
+   }
+  ],
+  "CAPIXABA": [
+   {
+    "data": "2026-04-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário dos Municípios de Acrelândia, Bujari, Capixaba, Epitaciolândia, Jordão, Marechal Thaumaturgo, Santa Rosa do Purus e Porto Acre",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santo Antônio",
+    "fonte": "portaria"
+   }
+  ],
+  "CRUZEIRO DO SUL": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora da Glória Dia de Santa Raimunda do Bonsucesso",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-09-27",
+    "tipo": "sem_expediente",
+    "motivo": "Marcha para Jesus",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-09-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Cruzeiro do Sul",
+    "fonte": "portaria"
+   }
+  ],
+  "EPITACIOLÂNDIA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Sebastião",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-04-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário dos Municípios de Acrelândia, Bujari, Capixaba, Epitaciolândia, Jordão, Marechal Thaumaturgo, Santa Rosa do Purus e Porto Acre",
+    "fonte": "portaria"
+   }
+  ],
+  "FEIJÓ": [
+   {
+    "data": "2026-06-27",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora do Perpétuo do Socorro",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-21",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Feijó",
+    "fonte": "portaria"
+   }
+  ],
+  "JORDÃO": [
+   {
+    "data": "2026-04-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário dos Municípios de Acrelândia, Bujari, Capixaba, Epitaciolândia, Jordão, Marechal Thaumaturgo, Santa Rosa do Purus e Porto Acre",
+    "fonte": "portaria"
+   }
+  ],
+  "MANOEL URBANO": [
+   {
+    "data": "2026-05-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Senador Guiomard, Assis Brasil e Manoel Urbano",
+    "fonte": "portaria"
+   }
+  ],
+  "MARECHAL THAUMATURGO": [
+   {
+    "data": "2026-04-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário dos Municípios de Acrelândia, Bujari, Capixaba, Epitaciolândia, Jordão, Marechal Thaumaturgo, Santa Rosa do Purus e Porto Acre",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-11-05",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Marechal Thaumaturgo",
+    "fonte": "portaria"
+   }
+  ],
+  "MÂNCIO LIMA": [
+   {
+    "data": "2026-05-30",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Mâncio Lima",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-04",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Francisco",
+    "fonte": "portaria"
+   }
+  ],
+  "PLÁCIDO DE CASTRO": [
+   {
+    "data": "2026-03-30",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Plácido de Castro",
+    "fonte": "portaria"
+   }
+  ],
+  "PORTO ACRE": [
+   {
+    "data": "2026-01-24",
+    "tipo": "sem_expediente",
+    "motivo": "Término da Revolução Acreana",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-04-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário dos Municípios de Acrelândia, Bujari, Capixaba, Epitaciolândia, Jordão, Marechal Thaumaturgo, Santa Rosa do Purus e Porto Acre",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-14",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Proclamação do Estado Independente do Acre",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-14",
+    "tipo": "sem_expediente",
+    "motivo": "Limagem da corrente",
+    "fonte": "portaria"
+   }
+  ],
+  "PORTO WALTER": [
+   {
+    "data": "2026-06-25",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Porto Walter",
+    "fonte": "portaria"
+   }
+  ],
+  "RIO BRANCO": [
+   {
+    "data": "2026-12-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Rio Branco",
+    "fonte": "portaria"
+   }
+  ],
+  "RODRIGUES ALVES": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São José",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do município de Rodrigues Alves",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Evangélico",
+    "fonte": "portaria"
+   }
+  ],
+  "SANTA ROSA DO PURUS": [
+   {
+    "data": "2026-04-28",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário dos Municípios de Acrelândia, Bujari, Capixaba, Epitaciolândia, Jordão, Marechal Thaumaturgo, Santa Rosa do Purus e Porto Acre",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-30",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Santa Rosa de Lima",
+    "fonte": "portaria"
+   }
+  ],
+  "SENA MADUREIRA": [
+   {
+    "data": "2026-04-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do falecimento do Padre Paolino Baldassari",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-08",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Nossa Senhora da Conceição",
+    "fonte": "portaria"
+   }
+  ],
+  "SENADOR GUIOMARD": [
+   {
+    "data": "2026-05-14",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Senador Guiomard, Assis Brasil e Manoel Urbano",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-05-31",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora de Perpétuo Socorro",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-07-28",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Produtor Rural (Senador Guiomard)",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-26",
+    "tipo": "sem_expediente",
+    "motivo": "Dia da Família Guiomarense",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Professor",
+    "fonte": "portaria"
+   }
+  ],
+  "TARAUACÁ": [
+   {
+    "data": "2026-04-24",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Tarauacá",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora da Glória Dia de Santa Raimunda do Bonsucesso",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-04",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Francisco",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-10-15",
+    "tipo": "sem_expediente",
+    "motivo": "Dia do Professor",
+    "fonte": "portaria"
+   }
+  ],
+  "XAPURI": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São Sebastião",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-03-22",
+    "tipo": "sem_expediente",
+    "motivo": "Aniversário do Município de Xapuri",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de São João do Guarani",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-12-22",
+    "tipo": "sem_expediente",
+    "motivo": "Morte de Chico Mendes",
+    "fonte": "portaria"
+   }
+  ]
+ }
+}

@@ -1,0 +1,288 @@
+{
+ "tribunal": "TJPE",
+ "ano": 2026,
+ "gerado_em": "2026-11-09T13:07:28Z",
+ "fontes": [
+  {
+   "id": "ato-conjunto-43",
+   "url": "https://portal.tjpe.jus.br/documents/d/portal/feriados-2026-pdf",
+   "descricao": "Ato Conjunto nº 43, de 13/10/2025 (Presidência e Corregedoria-Geral do TJPE), DJe Edição 304/2025, de 14/10/2025: calendário de feriados forenses de 2026"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "sem_expediente",
+   "motivo": "Confraternização Universal",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-01-02",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-01-03",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-01-04",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-01-05",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-01-06",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-02-16",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-02-18",
+   "tipo": "sem_expediente",
+   "motivo": "Cinzas",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-03-06",
+   "tipo": "sem_expediente",
+   "motivo": "Data Magna de Pernambuco (Lei nº 16.241, de 14 de dezembro de 2017)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-04-02",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa (Paixão de Cristo)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa (Paixão de Cristo)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-04-05",
+   "tipo": "sem_expediente",
+   "motivo": "Páscoa",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Trabalho",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-06-22",
+   "tipo": "sem_expediente",
+   "motivo": "Corpus Christi (transferido do dia 04 de junho, quinta-feira)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-06-23",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-06-24",
+   "tipo": "sem_expediente",
+   "motivo": "São João",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-06-25",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-06-26",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-06-27",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-06-28",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-06-29",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-06-30",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-08-10",
+   "tipo": "sem_expediente",
+   "motivo": "Dia dos Cursos Jurídicos (Código de Organização Judiciária – COJE - LC Nº 100/2007, art. 94) - (antecipado do dia 11 de agosto, terça-feira)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "Independência do Brasil",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "Nossa Senhora Aparecida, Padroeira do Brasil",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-10-30",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Servidor Público (transferido do dia 28 de outubro, quarta-feira)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Dia de Finados",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-11-15",
+   "tipo": "sem_expediente",
+   "motivo": "Proclamação da República",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "Dia Nacional de Zumbi e da Consciência Negra (Lei nº 14.759, de 21 de dezembro de 2023)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "sem_expediente",
+   "motivo": "Nossa Senhora da Conceição e Dia da Justiça (Decreto-Lei nº 8.292/1945, art.1º c/c Decreto-Lei nº 1.408/1951, art.5º)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-12-20",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-12-21",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-12-22",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-12-23",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-12-24",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "sem_expediente",
+   "motivo": "Natal",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-12-29",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-12-30",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Art. 1º, parágrafo único)",
+   "fonte": "ato-conjunto-43"
+  }
+ ],
+ "locais": {
+  "RECIFE": [
+   {
+    "data": "2026-07-16",
+    "tipo": "sem_expediente",
+    "motivo": "Dia de Nossa Senhora do Carmo (feriado municipal)",
+    "fonte": "ato-conjunto-43"
+   }
+  ]
+ }
+}
