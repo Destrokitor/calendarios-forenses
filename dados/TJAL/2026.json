@@ -1,0 +1,74 @@
+{
+ "tribunal": "TJAL",
+ "ano": 2026,
+ "gerado_em": "2026-11-10T12:03:36Z",
+ "fontes": [
+  {
+   "id": "ato03",
+   "url": "https://documentos.tjal.jus.br/api/documentos/detalhes/34801",
+   "descricao": "Ato Normativo TJAL nº 03/2026 (feriados de 2026: suspensões com compensação de horas)"
+  },
+  {
+   "id": "ato22",
+   "url": "https://documentos.tjal.jus.br/api/documentos/detalhes/34091",
+   "descricao": "Ato Normativo TJAL nº 22/2025 (suspensão de 02/01/2026 e recesso de 20/12/2025 a 04/01/2026)"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-01-01",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Ato 22/2025, §2º)",
+   "fonte": "ato22"
+  },
+  {
+   "data": "2026-01-02",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Ato 22/2025, §2º)",
+   "fonte": "ato22"
+  },
+  {
+   "data": "2026-01-02",
+   "tipo": "suspensao_prazo",
+   "motivo": "Dia Mundial da Paz e encerramento do recesso (Ato 22/2025, art. 1º)",
+   "fonte": "ato22"
+  },
+  {
+   "data": "2026-01-03",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Ato 22/2025, §2º)",
+   "fonte": "ato22"
+  },
+  {
+   "data": "2026-01-04",
+   "tipo": "recesso",
+   "motivo": "Recesso forense (Ato 22/2025, §2º)",
+   "fonte": "ato22"
+  },
+  {
+   "data": "2026-04-20",
+   "tipo": "suspensao_prazo",
+   "motivo": "Feriado de Tiradentes (suspensão com compensação, Ato 03/2026, art. 1º)",
+   "fonte": "ato03"
+  },
+  {
+   "data": "2026-06-05",
+   "tipo": "suspensao_prazo",
+   "motivo": "Feriado de Corpus Christi (suspensão com compensação, Ato 03/2026, art. 2º)",
+   "fonte": "ato03"
+  },
+  {
+   "data": "2026-08-10",
+   "tipo": "suspensao_prazo",
+   "motivo": "Dia do Jurista (suspensão com compensação, Ato 03/2026, art. 3º)",
+   "fonte": "ato03"
+  },
+  {
+   "data": "2026-12-07",
+   "tipo": "suspensao_prazo",
+   "motivo": "Dia da Justiça (suspensão com compensação, Ato 03/2026, art. 5º)",
+   "fonte": "ato03"
+  }
+ ],
+ "locais": {}
+}
