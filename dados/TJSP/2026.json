@@ -1,7 +1,7 @@
 {
  "tribunal": "TJSP",
  "ano": 2026,
- "gerado_em": "2026-11-11T12:02:15Z",
+ "gerado_em": "2026-11-12T12:29:01Z",
  "fontes": [
   {
    "id": "portal",
@@ -965,12 +965,6 @@
     "data": "2026-09-15",
     "tipo": "sem_expediente",
     "motivo": "PADROEIRA DA CIDADE",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-10-25",
-    "tipo": "sem_expediente",
-    "motivo": "ANIVERSÁRIO DA CIDADE",
     "fonte": "portal"
    }
   ],
@@ -2947,7 +2941,27 @@
     "fonte": "portal"
    }
   ],
+  "PIRAJU": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   }
+  ],
   "PIRAJUÍ": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-03-29",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA E SÃO JONAS",
+    "fonte": "portal"
+   },
    {
     "data": "2026-06-13",
     "tipo": "sem_expediente",
@@ -3288,6 +3302,20 @@
     "fonte": "portal"
    }
   ],
+  "ROSANA": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - NOSSA SENHORA DOS NAVEGANTES",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-11-05",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
   "ROSEIRA": [
    {
     "data": "2026-03-21",
@@ -3461,6 +3489,12 @@
    }
   ],
   "SANTO ANASTÁCIO": [
+   {
+    "data": "2026-01-22",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO DO MUNICÍPIO",
+    "fonte": "portal"
+   },
    {
     "data": "2026-11-19",
     "tipo": "sem_expediente",
