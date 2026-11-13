@@ -1,20 +1,20 @@
 {
- "gerado_em": "2026-11-12T12:06:15Z",
+ "gerado_em": "2026-11-13T11:48:28Z",
  "tribunais": {
   "STF": {
    "nome": "Supremo Tribunal Federal",
    "justica": "superior",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:06:15Z",
-     "ultima_ok": "2026-11-12T12:06:29Z",
+     "ultima_tentativa": "2026-11-13T11:48:28Z",
+     "ultima_ok": "2026-11-13T11:48:44Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 97,
      "locais": 1
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:06:29Z",
+     "ultima_tentativa": "2026-11-13T11:48:44Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -27,15 +27,15 @@
    "justica": "superior",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:06:29Z",
+     "ultima_tentativa": "2026-11-13T11:48:44Z",
      "erro": null,
-     "ultima_ok": "2026-11-12T12:06:29Z",
+     "ultima_ok": "2026-11-13T11:48:44Z",
      "nao_publicado": false,
      "dias_gerais": 40,
      "locais": 1
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:06:29Z",
+     "ultima_tentativa": "2026-11-13T11:48:44Z",
      "erro": null,
      "nao_publicado": true
     }
@@ -64,15 +64,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:06:31Z",
-     "ultima_ok": "2026-11-12T12:06:36Z",
+     "ultima_tentativa": "2026-11-13T11:48:46Z",
+     "ultima_ok": "2026-11-13T11:48:52Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 20,
      "locais": 22
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:06:36Z",
+     "ultima_tentativa": "2026-11-13T11:48:52Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -85,15 +85,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:06:36Z",
+     "ultima_tentativa": "2026-11-13T11:48:52Z",
      "erro": null,
-     "ultima_ok": "2026-11-12T12:06:39Z",
+     "ultima_ok": "2026-11-13T11:48:55Z",
      "nao_publicado": false,
      "dias_gerais": 9,
      "locais": 0
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:06:39Z",
+     "ultima_tentativa": "2026-11-13T11:48:55Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -122,15 +122,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:06:39Z",
-     "ultima_ok": "2026-11-12T12:06:42Z",
+     "ultima_tentativa": "2026-11-13T11:48:55Z",
+     "ultima_ok": "2026-11-13T11:48:57Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 48,
      "locais": 1
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:06:42Z",
+     "ultima_tentativa": "2026-11-13T11:48:57Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -143,15 +143,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:06:42Z",
-     "ultima_ok": "2026-11-12T12:06:45Z",
+     "ultima_tentativa": "2026-11-13T11:48:57Z",
+     "ultima_ok": "2026-11-13T11:49:00Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 34,
      "locais": 0
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:06:45Z",
+     "ultima_tentativa": "2026-11-13T11:49:00Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -164,15 +164,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:06:45Z",
-     "ultima_ok": "2026-11-12T12:06:46Z",
+     "ultima_tentativa": "2026-11-13T11:49:00Z",
+     "ultima_ok": "2026-11-13T11:49:02Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 43,
      "locais": 1
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:06:46Z",
+     "ultima_tentativa": "2026-11-13T11:49:02Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -193,15 +193,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:06:48Z",
-     "ultima_ok": "2026-11-12T12:06:49Z",
+     "ultima_tentativa": "2026-11-13T11:49:04Z",
+     "ultima_ok": "2026-11-13T11:49:04Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 32,
      "locais": 4
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:06:49Z",
+     "ultima_tentativa": "2026-11-13T11:49:04Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -214,15 +214,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:06:49Z",
-     "ultima_ok": "2026-11-12T12:06:51Z",
+     "ultima_tentativa": "2026-11-13T11:49:04Z",
+     "ultima_ok": "2026-11-13T11:49:07Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 17,
      "locais": 1
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:06:51Z",
+     "ultima_tentativa": "2026-11-13T11:49:07Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -235,15 +235,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:06:51Z",
-     "ultima_ok": "2026-11-12T12:07:01Z",
+     "ultima_tentativa": "2026-11-13T11:49:07Z",
+     "ultima_ok": "2026-11-13T11:49:22Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 24,
      "locais": 79
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:07:01Z",
+     "ultima_tentativa": "2026-11-13T11:49:22Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -264,20 +264,20 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:07:01Z",
+     "ultima_tentativa": "2026-11-13T11:49:22Z",
      "ultima_ok": "2026-11-12T12:07:05Z",
-     "erro": null,
+     "erro": "ErroDeFonte: robots.txt de https://www8.tjmg.jus.br indisponível (HTTP Error 503: Service Temporarily Unavailable): por precaução não acesso",
      "nao_publicado": false,
      "dias_gerais": 51,
      "locais": 298
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:07:05Z",
+     "ultima_tentativa": "2026-11-13T11:49:27Z",
      "nao_publicado": true,
      "erro": null
     }
    },
-   "status": "parcial",
+   "status": "desatualizado",
    "observacao": "Feriados municipais das comarcas do interior só até o que o Anexo Único da portaria lista: o Diretor do Foro de cada comarca ainda pode complementar com portaria local (Resolução da Corte Superior 458/2004, art. 6º), e essas portarias avulsas não são lidas. Também ficam de fora suspensões de expediente por portaria posterior à compilação (ex.: jogos da Copa) e a consulta 'Feriados Locais' do Guia Judiciário (por comarca). Só vale o primeiro Anexo Único do PDF (Port. 1.860); se sair nova alteração, o PDF compilado precisa ser relido."
   },
   "TJPA": {
@@ -301,15 +301,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:07:05Z",
-     "ultima_ok": "2026-11-12T12:07:07Z",
+     "ultima_tentativa": "2026-11-13T11:49:27Z",
+     "ultima_ok": "2026-11-13T11:49:49Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 20,
      "locais": 162
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:07:07Z",
+     "ultima_tentativa": "2026-11-13T11:49:49Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -322,15 +322,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:07:07Z",
-     "ultima_ok": "2026-11-12T12:07:08Z",
+     "ultima_tentativa": "2026-11-13T11:49:49Z",
+     "ultima_ok": "2026-11-13T11:49:52Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 44,
      "locais": 1
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:07:08Z",
+     "ultima_tentativa": "2026-11-13T11:49:52Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -383,15 +383,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:07:08Z",
-     "ultima_ok": "2026-11-12T12:07:13Z",
+     "ultima_tentativa": "2026-11-13T11:49:52Z",
+     "ultima_ok": "2026-11-13T11:49:56Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 44,
      "locais": 9
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:07:13Z",
+     "ultima_tentativa": "2026-11-13T11:49:56Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -404,20 +404,20 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:07:13Z",
-     "ultima_ok": "2026-11-11T11:40:54Z",
-     "erro": "ErroDeFonte: robots.txt de https://busca.tjsc.jus.br indisponível (<urlopen error [Errno -3] Temporary failure in name resolution>): por precaução não acesso",
+     "ultima_tentativa": "2026-11-13T11:49:56Z",
+     "ultima_ok": "2026-11-13T11:50:01Z",
+     "erro": null,
      "nao_publicado": false,
      "dias_gerais": 16,
      "locais": 110
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:07:37Z",
+     "ultima_tentativa": "2026-11-13T11:50:01Z",
      "nao_publicado": true,
      "erro": null
     }
    },
-   "status": "desatualizado",
+   "status": "parcial",
    "observacao": "Lê só a Resolução GP n. 1/2026 (feriados para efeitos forenses). Ficam de fora: (a) o recesso forense, que o Art. 1º, parágrafo único, manda regulamentar por resolução própria (a de 2025/26 foi a Resolução TJ n. 30/2025; a de 2026/27 não foi localizada), então este calendário não tem dia de recesso; (b) os ajustes pontuais de feriado municipal previstos no Art. 2º, que sairiam em norma nova não lida (não verificado); (c) comarca que não tem feriado municipal nesta resolução: o ato só lista os municípios com feriado, então ela não aparece em `locais`; (d) o calendário de 2027, que tem outro ato e não foi localizado (ver `ATOS`)."
   },
   "TJSP": {
@@ -425,15 +425,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:07:37Z",
-     "ultima_ok": "2026-11-12T12:29:01Z",
+     "ultima_tentativa": "2026-11-13T11:50:01Z",
+     "ultima_ok": "2026-11-13T12:11:24Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 51,
-     "locais": 320
+     "locais": 319
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:29:01Z",
+     "ultima_tentativa": "2026-11-13T12:11:24Z",
      "erro": "ErroDeFonte: consulta sem dados para 320 comarcas (ex.: Arujá, Barueri, Carapicuiba, Cotia, Diadema): o nome ou o formato mudou"
     }
    },
@@ -445,7 +445,7 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:39:44Z",
+     "ultima_tentativa": "2026-11-13T12:22:07Z",
      "ultima_ok": "2026-11-10T12:37:09Z",
      "erro": "ErroDeFonte: robots.txt de https://www.tjse.jus.br indisponível (<urlopen error timed out>): por precaução não acesso",
      "nao_publicado": false,
@@ -453,7 +453,7 @@
      "locais": 51
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:41:48Z",
+     "ultima_tentativa": "2026-11-13T12:24:11Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -466,11 +466,11 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:41:48Z",
+     "ultima_tentativa": "2026-11-13T12:24:11Z",
      "erro": "ErroDeFonte: robots.txt de https://diario.tjto.jus.br indisponível (<urlopen error [Errno 111] Connection refused>): por precaução não acesso"
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:41:53Z",
+     "ultima_tentativa": "2026-11-13T12:24:16Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -557,11 +557,11 @@
    "justica": "trabalho",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:41:53Z",
+     "ultima_tentativa": "2026-11-13T12:24:16Z",
      "erro": "ErroDeFonte: evento não reconhecido na agenda do TRT2: 'Unidade Administrativa III'"
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:41:59Z",
+     "ultima_tentativa": "2026-11-13T12:24:20Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -574,11 +574,11 @@
    "justica": "trabalho",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:42:03Z",
+     "ultima_tentativa": "2026-11-13T12:24:23Z",
      "erro": "ErroDeFonte: robots.txt não permite baixar https://portal.trt3.jus.br/internet/institucional/calendario/calendario-2026"
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:42:04Z",
+     "ultima_tentativa": "2026-11-13T12:24:23Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -631,15 +631,15 @@
    "justica": "trabalho",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:42:04Z",
-     "ultima_ok": "2026-11-12T12:42:06Z",
+     "ultima_tentativa": "2026-11-13T12:24:23Z",
+     "ultima_ok": "2026-11-13T12:24:25Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 61,
      "locais": 45
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:42:06Z",
+     "ultima_tentativa": "2026-11-13T12:24:25Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -660,15 +660,15 @@
    "justica": "trabalho",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:42:07Z",
-     "ultima_ok": "2026-11-12T12:42:11Z",
+     "ultima_tentativa": "2026-11-13T12:24:26Z",
+     "ultima_ok": "2026-11-13T12:24:31Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 17,
      "locais": 0
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:42:11Z",
+     "ultima_tentativa": "2026-11-13T12:24:31Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -681,15 +681,15 @@
    "justica": "trabalho",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:42:12Z",
-     "ultima_ok": "2026-11-12T12:42:14Z",
+     "ultima_tentativa": "2026-11-13T12:24:32Z",
+     "ultima_ok": "2026-11-13T12:24:34Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 42,
      "locais": 31
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:42:14Z",
+     "ultima_tentativa": "2026-11-13T12:24:34Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -744,15 +744,15 @@
    "justica": "trabalho",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:42:16Z",
-     "ultima_ok": "2026-11-12T12:42:18Z",
+     "ultima_tentativa": "2026-11-13T12:24:36Z",
+     "ultima_ok": "2026-11-13T12:24:38Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 39,
      "locais": 0
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:42:18Z",
+     "ultima_tentativa": "2026-11-13T12:24:38Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -797,15 +797,15 @@
    "justica": "trabalho",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-12T12:42:18Z",
-     "ultima_ok": "2026-11-12T12:42:20Z",
+     "ultima_tentativa": "2026-11-13T12:24:38Z",
+     "ultima_ok": "2026-11-13T12:24:40Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 47,
      "locais": 22
     },
     "2027": {
-     "ultima_tentativa": "2026-11-12T12:42:20Z",
+     "ultima_tentativa": "2026-11-13T12:24:40Z",
      "nao_publicado": true,
      "erro": null
     }

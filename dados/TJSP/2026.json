@@ -1,7 +1,7 @@
 {
  "tribunal": "TJSP",
  "ano": 2026,
- "gerado_em": "2026-11-12T12:29:01Z",
+ "gerado_em": "2026-11-13T12:11:24Z",
  "fontes": [
   {
    "id": "portal",
@@ -498,20 +498,6 @@
     "fonte": "portal"
    }
   ],
-  "ARUJÁ": [
-   {
-    "data": "2026-06-08",
-    "tipo": "sem_expediente",
-    "motivo": "ANIVERSÁRIO DA CIDADE",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-08-06",
-    "tipo": "sem_expediente",
-    "motivo": "SENHOR BOM JESUS DE ARUJÁ - PADROEIRO",
-    "fonte": "portal"
-   }
-  ],
   "ASSIS": [
    {
     "data": "2026-07-01",
@@ -581,14 +567,7 @@
     "fonte": "portal"
    }
   ],
-  "BARUERI": [
-   {
-    "data": "2026-06-24",
-    "tipo": "sem_expediente",
-    "motivo": "SÃO JOÃO BATISTA",
-    "fonte": "portal"
-   }
-  ],
+  "BARUERI": [],
   "BASTOS": [
    {
     "data": "2026-06-18",
@@ -965,6 +944,12 @@
     "data": "2026-09-15",
     "tipo": "sem_expediente",
     "motivo": "PADROEIRA DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-25",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
     "fonte": "portal"
    }
   ],
@@ -1451,12 +1436,6 @@
   ],
   "GUAÍRA": [
    {
-    "data": "2026-01-20",
-    "tipo": "sem_expediente",
-    "motivo": "SÃO SEBASTIÃO",
-    "fonte": "portal"
-   },
-   {
     "data": "2026-05-18",
     "tipo": "sem_expediente",
     "motivo": "ANIVERSÁRIO DA CIDADE",
@@ -1630,12 +1609,6 @@
    }
   ],
   "INDAIATUBA": [
-   {
-    "data": "2026-02-02",
-    "tipo": "sem_expediente",
-    "motivo": "DIA DO PADROEIRO(A)",
-    "fonte": "portal"
-   },
    {
     "data": "2026-12-09",
     "tipo": "sem_expediente",
