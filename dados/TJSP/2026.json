@@ -1,7 +1,7 @@
 {
  "tribunal": "TJSP",
  "ano": 2026,
- "gerado_em": "2026-11-13T12:11:24Z",
+ "gerado_em": "2026-11-14T11:33:03Z",
  "fontes": [
   {
    "id": "portal",
@@ -498,6 +498,20 @@
     "fonte": "portal"
    }
   ],
+  "ARUJÁ": [
+   {
+    "data": "2026-06-08",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "SENHOR BOM JESUS DE ARUJÁ - PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
   "ASSIS": [
    {
     "data": "2026-07-01",
@@ -567,7 +581,14 @@
     "fonte": "portal"
    }
   ],
-  "BARUERI": [],
+  "BARUERI": [
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO JOÃO BATISTA",
+    "fonte": "portal"
+   }
+  ],
   "BASTOS": [
    {
     "data": "2026-06-18",
@@ -1257,20 +1278,7 @@
     "fonte": "portal"
    }
   ],
-  "FARTURA": [
-   {
-    "data": "2026-03-31",
-    "tipo": "sem_expediente",
-    "motivo": "DIA DA CIDADE",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-09-15",
-    "tipo": "sem_expediente",
-    "motivo": "DIA DO PADROEIRO(A)",
-    "fonte": "portal"
-   }
-  ],
+  "FARTURA": [],
   "FERNANDÓPOLIS": [
    {
     "data": "2026-05-22",
@@ -1435,6 +1443,12 @@
    }
   ],
   "GUAÍRA": [
+   {
+    "data": "2026-01-20",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
    {
     "data": "2026-05-18",
     "tipo": "sem_expediente",
@@ -1609,6 +1623,12 @@
    }
   ],
   "INDAIATUBA": [
+   {
+    "data": "2026-02-02",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   },
    {
     "data": "2026-12-09",
     "tipo": "sem_expediente",
@@ -2650,14 +2670,7 @@
     "fonte": "portal"
    }
   ],
-  "PANORAMA": [
-   {
-    "data": "2026-03-19",
-    "tipo": "sem_expediente",
-    "motivo": "PADROEIRO(A) - SÃO JOSÉ",
-    "fonte": "portal"
-   }
-  ],
+  "PANORAMA": [],
   "PARAGUAÇU PAULISTA": [
    {
     "data": "2026-03-12",

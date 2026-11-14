@@ -1,20 +1,20 @@
 {
- "gerado_em": "2026-11-13T11:48:28Z",
+ "gerado_em": "2026-11-14T11:09:58Z",
  "tribunais": {
   "STF": {
    "nome": "Supremo Tribunal Federal",
    "justica": "superior",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T11:48:28Z",
-     "ultima_ok": "2026-11-13T11:48:44Z",
+     "ultima_tentativa": "2026-11-14T11:09:58Z",
+     "ultima_ok": "2026-11-14T11:10:12Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 97,
      "locais": 1
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T11:48:44Z",
+     "ultima_tentativa": "2026-11-14T11:10:12Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -27,15 +27,15 @@
    "justica": "superior",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T11:48:44Z",
+     "ultima_tentativa": "2026-11-14T11:10:12Z",
      "erro": null,
-     "ultima_ok": "2026-11-13T11:48:44Z",
+     "ultima_ok": "2026-11-14T11:10:12Z",
      "nao_publicado": false,
      "dias_gerais": 40,
      "locais": 1
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T11:48:44Z",
+     "ultima_tentativa": "2026-11-14T11:10:12Z",
      "erro": null,
      "nao_publicado": true
     }
@@ -64,15 +64,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T11:48:46Z",
-     "ultima_ok": "2026-11-13T11:48:52Z",
+     "ultima_tentativa": "2026-11-14T11:10:14Z",
+     "ultima_ok": "2026-11-14T11:10:19Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 20,
      "locais": 22
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T11:48:52Z",
+     "ultima_tentativa": "2026-11-14T11:10:19Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -85,15 +85,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T11:48:52Z",
+     "ultima_tentativa": "2026-11-14T11:10:19Z",
      "erro": null,
-     "ultima_ok": "2026-11-13T11:48:55Z",
+     "ultima_ok": "2026-11-14T11:10:22Z",
      "nao_publicado": false,
      "dias_gerais": 9,
      "locais": 0
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T11:48:55Z",
+     "ultima_tentativa": "2026-11-14T11:10:22Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -122,15 +122,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T11:48:55Z",
-     "ultima_ok": "2026-11-13T11:48:57Z",
+     "ultima_tentativa": "2026-11-14T11:10:22Z",
+     "ultima_ok": "2026-11-14T11:10:25Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 48,
      "locais": 1
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T11:48:57Z",
+     "ultima_tentativa": "2026-11-14T11:10:25Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -143,15 +143,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T11:48:57Z",
-     "ultima_ok": "2026-11-13T11:49:00Z",
+     "ultima_tentativa": "2026-11-14T11:10:25Z",
+     "ultima_ok": "2026-11-14T11:10:28Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 34,
      "locais": 0
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T11:49:00Z",
+     "ultima_tentativa": "2026-11-14T11:10:28Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -164,15 +164,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T11:49:00Z",
-     "ultima_ok": "2026-11-13T11:49:02Z",
+     "ultima_tentativa": "2026-11-14T11:10:28Z",
+     "ultima_ok": "2026-11-14T11:10:29Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 43,
      "locais": 1
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T11:49:02Z",
+     "ultima_tentativa": "2026-11-14T11:10:29Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -193,15 +193,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T11:49:04Z",
-     "ultima_ok": "2026-11-13T11:49:04Z",
+     "ultima_tentativa": "2026-11-14T11:10:31Z",
+     "ultima_ok": "2026-11-14T11:10:32Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 32,
      "locais": 4
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T11:49:04Z",
+     "ultima_tentativa": "2026-11-14T11:10:32Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -214,15 +214,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T11:49:04Z",
-     "ultima_ok": "2026-11-13T11:49:07Z",
+     "ultima_tentativa": "2026-11-14T11:10:32Z",
+     "ultima_ok": "2026-11-14T11:10:34Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 17,
      "locais": 1
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T11:49:07Z",
+     "ultima_tentativa": "2026-11-14T11:10:34Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -235,15 +235,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T11:49:07Z",
-     "ultima_ok": "2026-11-13T11:49:22Z",
+     "ultima_tentativa": "2026-11-14T11:10:34Z",
+     "ultima_ok": "2026-11-14T11:10:44Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 24,
      "locais": 79
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T11:49:22Z",
+     "ultima_tentativa": "2026-11-14T11:10:44Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -264,7 +264,7 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T11:49:22Z",
+     "ultima_tentativa": "2026-11-14T11:10:44Z",
      "ultima_ok": "2026-11-12T12:07:05Z",
      "erro": "ErroDeFonte: robots.txt de https://www8.tjmg.jus.br indisponível (HTTP Error 503: Service Temporarily Unavailable): por precaução não acesso",
      "nao_publicado": false,
@@ -272,7 +272,7 @@
      "locais": 298
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T11:49:27Z",
+     "ultima_tentativa": "2026-11-14T11:10:50Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -301,15 +301,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T11:49:27Z",
-     "ultima_ok": "2026-11-13T11:49:49Z",
+     "ultima_tentativa": "2026-11-14T11:10:50Z",
+     "ultima_ok": "2026-11-14T11:11:11Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 20,
      "locais": 162
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T11:49:49Z",
+     "ultima_tentativa": "2026-11-14T11:11:11Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -322,15 +322,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T11:49:49Z",
-     "ultima_ok": "2026-11-13T11:49:52Z",
+     "ultima_tentativa": "2026-11-14T11:11:11Z",
+     "ultima_ok": "2026-11-14T11:11:13Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 44,
      "locais": 1
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T11:49:52Z",
+     "ultima_tentativa": "2026-11-14T11:11:13Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -383,15 +383,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T11:49:52Z",
-     "ultima_ok": "2026-11-13T11:49:56Z",
+     "ultima_tentativa": "2026-11-14T11:11:13Z",
+     "ultima_ok": "2026-11-14T11:11:34Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 44,
      "locais": 9
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T11:49:56Z",
+     "ultima_tentativa": "2026-11-14T11:11:34Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -404,15 +404,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T11:49:56Z",
-     "ultima_ok": "2026-11-13T11:50:01Z",
+     "ultima_tentativa": "2026-11-14T11:11:34Z",
+     "ultima_ok": "2026-11-14T11:11:38Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 16,
      "locais": 110
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T11:50:01Z",
+     "ultima_tentativa": "2026-11-14T11:11:38Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -425,15 +425,15 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T11:50:01Z",
-     "ultima_ok": "2026-11-13T12:11:24Z",
+     "ultima_tentativa": "2026-11-14T11:11:38Z",
+     "ultima_ok": "2026-11-14T11:33:03Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 51,
-     "locais": 319
+     "locais": 320
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T12:11:24Z",
+     "ultima_tentativa": "2026-11-14T11:33:03Z",
      "erro": "ErroDeFonte: consulta sem dados para 320 comarcas (ex.: Arujá, Barueri, Carapicuiba, Cotia, Diadema): o nome ou o formato mudou"
     }
    },
@@ -445,7 +445,7 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T12:22:07Z",
+     "ultima_tentativa": "2026-11-14T11:43:45Z",
      "ultima_ok": "2026-11-10T12:37:09Z",
      "erro": "ErroDeFonte: robots.txt de https://www.tjse.jus.br indisponível (<urlopen error timed out>): por precaução não acesso",
      "nao_publicado": false,
@@ -453,7 +453,7 @@
      "locais": 51
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T12:24:11Z",
+     "ultima_tentativa": "2026-11-14T11:45:50Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -466,11 +466,11 @@
    "justica": "estadual",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T12:24:11Z",
+     "ultima_tentativa": "2026-11-14T11:45:50Z",
      "erro": "ErroDeFonte: robots.txt de https://diario.tjto.jus.br indisponível (<urlopen error [Errno 111] Connection refused>): por precaução não acesso"
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T12:24:16Z",
+     "ultima_tentativa": "2026-11-14T11:45:55Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -557,11 +557,11 @@
    "justica": "trabalho",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T12:24:16Z",
+     "ultima_tentativa": "2026-11-14T11:45:55Z",
      "erro": "ErroDeFonte: evento não reconhecido na agenda do TRT2: 'Unidade Administrativa III'"
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T12:24:20Z",
+     "ultima_tentativa": "2026-11-14T11:46:01Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -574,11 +574,11 @@
    "justica": "trabalho",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T12:24:23Z",
+     "ultima_tentativa": "2026-11-14T11:46:05Z",
      "erro": "ErroDeFonte: robots.txt não permite baixar https://portal.trt3.jus.br/internet/institucional/calendario/calendario-2026"
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T12:24:23Z",
+     "ultima_tentativa": "2026-11-14T11:46:05Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -631,15 +631,15 @@
    "justica": "trabalho",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T12:24:23Z",
-     "ultima_ok": "2026-11-13T12:24:25Z",
+     "ultima_tentativa": "2026-11-14T11:46:05Z",
+     "ultima_ok": "2026-11-14T11:46:07Z",
      "erro": null,
      "nao_publicado": false,
-     "dias_gerais": 61,
+     "dias_gerais": 62,
      "locais": 45
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T12:24:25Z",
+     "ultima_tentativa": "2026-11-14T11:46:07Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -660,15 +660,15 @@
    "justica": "trabalho",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T12:24:26Z",
-     "ultima_ok": "2026-11-13T12:24:31Z",
+     "ultima_tentativa": "2026-11-14T11:46:09Z",
+     "ultima_ok": "2026-11-14T11:46:12Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 17,
      "locais": 0
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T12:24:31Z",
+     "ultima_tentativa": "2026-11-14T11:46:12Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -681,15 +681,15 @@
    "justica": "trabalho",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T12:24:32Z",
-     "ultima_ok": "2026-11-13T12:24:34Z",
+     "ultima_tentativa": "2026-11-14T11:46:14Z",
+     "ultima_ok": "2026-11-14T11:46:16Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 42,
      "locais": 31
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T12:24:34Z",
+     "ultima_tentativa": "2026-11-14T11:46:16Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -744,15 +744,15 @@
    "justica": "trabalho",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T12:24:36Z",
-     "ultima_ok": "2026-11-13T12:24:38Z",
+     "ultima_tentativa": "2026-11-14T11:46:17Z",
+     "ultima_ok": "2026-11-14T11:46:19Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 39,
      "locais": 0
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T12:24:38Z",
+     "ultima_tentativa": "2026-11-14T11:46:19Z",
      "nao_publicado": true,
      "erro": null
     }
@@ -797,15 +797,15 @@
    "justica": "trabalho",
    "anos": {
     "2026": {
-     "ultima_tentativa": "2026-11-13T12:24:38Z",
-     "ultima_ok": "2026-11-13T12:24:40Z",
+     "ultima_tentativa": "2026-11-14T11:46:19Z",
+     "ultima_ok": "2026-11-14T11:46:21Z",
      "erro": null,
      "nao_publicado": false,
      "dias_gerais": 47,
      "locais": 22
     },
     "2027": {
-     "ultima_tentativa": "2026-11-13T12:24:40Z",
+     "ultima_tentativa": "2026-11-14T11:46:21Z",
      "nao_publicado": true,
      "erro": null
     }

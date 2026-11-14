@@ -1,7 +1,7 @@
 {
  "tribunal": "TRT9",
  "ano": 2026,
- "gerado_em": "2026-11-09T13:40:02Z",
+ "gerado_em": "2026-11-14T11:46:07Z",
  "fontes": [
   {
    "id": "calendario",
@@ -278,6 +278,12 @@
    "data": "2026-11-02",
    "tipo": "sem_expediente",
    "motivo": "Finados",
+   "fonte": "calendario"
+  },
+  {
+   "data": "2026-11-13",
+   "tipo": "suspensao_prazo",
+   "motivo": "Suspensão de prazos processuais no dia 13/11/2026",
    "fonte": "calendario"
   },
   {
@@ -718,7 +724,7 @@
    {
     "data": "2026-08-15",
     "tipo": "sem_expediente",
-    "motivo": "Padroeira Maringá",
+    "motivo": "Padroeira do município de Maringá",
     "fonte": "calendario"
    },
    {
