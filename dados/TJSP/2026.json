@@ -1,7 +1,7 @@
 {
  "tribunal": "TJSP",
  "ano": 2026,
- "gerado_em": "2026-11-14T11:33:03Z",
+ "gerado_em": "2026-11-15T12:05:59Z",
  "fontes": [
   {
    "id": "portal",
@@ -659,20 +659,6 @@
     "fonte": "portal"
    }
   ],
-  "BILAC": [
-   {
-    "data": "2026-04-18",
-    "tipo": "sem_expediente",
-    "motivo": "FUNDAÇÃO DA CIDADE",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-09-08",
-    "tipo": "sem_expediente",
-    "motivo": "DIA DO PADROEIRO",
-    "fonte": "portal"
-   }
-  ],
   "BIRIGUI": [],
   "BOITUVA": [
    {
@@ -1278,7 +1264,20 @@
     "fonte": "portal"
    }
   ],
-  "FARTURA": [],
+  "FARTURA": [
+   {
+    "data": "2026-03-31",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-15",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   }
+  ],
   "FERNANDÓPOLIS": [
    {
     "data": "2026-05-22",
@@ -2670,7 +2669,14 @@
     "fonte": "portal"
    }
   ],
-  "PANORAMA": [],
+  "PANORAMA": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SÃO JOSÉ",
+    "fonte": "portal"
+   }
+  ],
   "PARAGUAÇU PAULISTA": [
    {
     "data": "2026-03-12",
@@ -4085,14 +4091,6 @@
     "data": "2026-11-27",
     "tipo": "sem_expediente",
     "motivo": "EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA",
-    "fonte": "portal"
-   }
-  ],
-  "VINHEDO": [
-   {
-    "data": "2026-07-26",
-    "tipo": "sem_expediente",
-    "motivo": "SANT'ANA - PADROEIRA",
     "fonte": "portal"
    }
   ],
