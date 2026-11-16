@@ -1,7 +1,7 @@
 {
  "tribunal": "TJSP",
  "ano": 2026,
- "gerado_em": "2026-11-15T12:05:59Z",
+ "gerado_em": "2026-11-16T12:45:46Z",
  "fontes": [
   {
    "id": "portal",
@@ -656,6 +656,20 @@
     "data": "2026-10-28",
     "tipo": "sem_expediente",
     "motivo": "DIA DO SERVIDOR PÚBLICO",
+    "fonte": "portal"
+   }
+  ],
+  "BILAC": [
+   {
+    "data": "2026-04-18",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO PADROEIRO",
     "fonte": "portal"
    }
   ],
@@ -1368,14 +1382,7 @@
     "fonte": "portal"
    }
   ],
-  "GUARARAPES": [
-   {
-    "data": "2026-06-29",
-    "tipo": "sem_expediente",
-    "motivo": "SÃO PEDRO",
-    "fonte": "portal"
-   }
-  ],
+  "GUARARAPES": [],
   "GUARAREMA": [
    {
     "data": "2026-09-19",
@@ -4091,6 +4098,14 @@
     "data": "2026-11-27",
     "tipo": "sem_expediente",
     "motivo": "EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA",
+    "fonte": "portal"
+   }
+  ],
+  "VINHEDO": [
+   {
+    "data": "2026-07-26",
+    "tipo": "sem_expediente",
+    "motivo": "SANT'ANA - PADROEIRA",
     "fonte": "portal"
    }
   ],
