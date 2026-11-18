@@ -1,7 +1,7 @@
 {
  "tribunal": "TJSP",
  "ano": 2026,
- "gerado_em": "2026-11-16T12:45:46Z",
+ "gerado_em": "2026-11-18T12:57:36Z",
  "fontes": [
   {
    "id": "portal",
@@ -1382,7 +1382,14 @@
     "fonte": "portal"
    }
   ],
-  "GUARARAPES": [],
+  "GUARARAPES": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO PEDRO",
+    "fonte": "portal"
+   }
+  ],
   "GUARAREMA": [
    {
     "data": "2026-09-19",
@@ -2359,20 +2366,7 @@
     "fonte": "portal"
    }
   ],
-  "MOGI MIRIM": [
-   {
-    "data": "2026-03-19",
-    "tipo": "sem_expediente",
-    "motivo": "PADROEIRO(A) - SÃO JOSÉ",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-10-22",
-    "tipo": "sem_expediente",
-    "motivo": "SANTA MARIA SALOMÉ E FUNDAÇÃO DA CIDADE",
-    "fonte": "portal"
-   }
-  ],
+  "MOGI MIRIM": [],
   "MONGAGUÁ": [],
   "MONTE ALTO": [
    {
@@ -2427,20 +2421,6 @@
     "data": "2026-08-15",
     "tipo": "sem_expediente",
     "motivo": "NOSSA SENHORA DO PATROCÍNIO",
-    "fonte": "portal"
-   }
-  ],
-  "MORRO AGUDO": [
-   {
-    "data": "2026-01-06",
-    "tipo": "sem_expediente",
-    "motivo": "ANIVERSÁRIO DA CIDADE",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-03-19",
-    "tipo": "sem_expediente",
-    "motivo": "PADROEIRO(A) - SÃO JOSÉ",
     "fonte": "portal"
    }
   ],
@@ -2530,21 +2510,9 @@
   ],
   "NUPORANGA": [
    {
-    "data": "2026-05-03",
-    "tipo": "sem_expediente",
-    "motivo": "DIA DE SANTA CRUZ DA VAL",
-    "fonte": "portal"
-   },
-   {
     "data": "2026-08-15",
     "tipo": "sem_expediente",
     "motivo": "ASSUNÇÃO DE NOSSA SENHORA",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-09-09",
-    "tipo": "sem_expediente",
-    "motivo": "ANIVERSÁRIO DA CIDADE E SANTO HOMERO",
     "fonte": "portal"
    }
   ],
