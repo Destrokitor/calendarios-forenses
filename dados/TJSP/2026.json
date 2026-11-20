@@ -1,7 +1,7 @@
 {
  "tribunal": "TJSP",
  "ano": 2026,
- "gerado_em": "2026-11-18T12:57:36Z",
+ "gerado_em": "2026-11-20T12:49:12Z",
  "fontes": [
   {
    "id": "portal",
@@ -603,20 +603,6 @@
     "fonte": "portal"
    }
   ],
-  "BATATAIS": [
-   {
-    "data": "2026-03-14",
-    "tipo": "sem_expediente",
-    "motivo": "FUNDAÇÃO DA CIDADE",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-08-06",
-    "tipo": "sem_expediente",
-    "motivo": "SENHOR BOM JESUS DA CANA VERDE - PADROEIRO",
-    "fonte": "portal"
-   }
-  ],
   "BAURU": [
    {
     "data": "2026-08-01",
@@ -811,31 +797,11 @@
     "fonte": "portal"
    }
   ],
-  "CAIEIRAS": [
-   {
-    "data": "2026-06-13",
-    "tipo": "sem_expediente",
-    "motivo": "SANTO ANTÔNIO",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-12-14",
-    "tipo": "sem_expediente",
-    "motivo": "STO ANGELO E EMANCIPAÇÃO POL ADM DO MUNICÍPIO",
-    "fonte": "portal"
-   }
-  ],
   "CAJAMAR": [
    {
     "data": "2026-01-20",
     "tipo": "sem_expediente",
     "motivo": "SÃO SEBASTIÃO",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-02-18",
-    "tipo": "sem_expediente",
-    "motivo": "DIA DO MUNICÍPIO",
     "fonte": "portal"
    }
   ],
@@ -2366,7 +2332,20 @@
     "fonte": "portal"
    }
   ],
-  "MOGI MIRIM": [],
+  "MOGI MIRIM": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SÃO JOSÉ",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-22",
+    "tipo": "sem_expediente",
+    "motivo": "SANTA MARIA SALOMÉ E FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
   "MONGAGUÁ": [],
   "MONTE ALTO": [
    {
@@ -2421,6 +2400,20 @@
     "data": "2026-08-15",
     "tipo": "sem_expediente",
     "motivo": "NOSSA SENHORA DO PATROCÍNIO",
+    "fonte": "portal"
+   }
+  ],
+  "MORRO AGUDO": [
+   {
+    "data": "2026-01-06",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO(A) - SÃO JOSÉ",
     "fonte": "portal"
    }
   ],
@@ -2510,9 +2503,21 @@
   ],
   "NUPORANGA": [
    {
+    "data": "2026-05-03",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SANTA CRUZ DA VAL",
+    "fonte": "portal"
+   },
+   {
     "data": "2026-08-15",
     "tipo": "sem_expediente",
     "motivo": "ASSUNÇÃO DE NOSSA SENHORA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-09",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE E SANTO HOMERO",
     "fonte": "portal"
    }
   ],

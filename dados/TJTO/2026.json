@@ -1,0 +1,144 @@
+{
+ "tribunal": "TJTO",
+ "ano": 2026,
+ "gerado_em": "2026-11-20T13:02:04Z",
+ "fontes": [
+  {
+   "id": "portaria",
+   "url": "https://diario.tjto.jus.br/api/diario/03512a628c56487e9b4d0ebba3c0e9c4",
+   "descricao": "Portaria nº 3741, de 10/11/2025 (Presidência), calendário de feriados e pontos facultativos de 2026, Diário da Justiça nº 5995, de 10/11/2025, pp. 39 e 40"
+  }
+ ],
+ "geral": [
+  {
+   "data": "2026-02-16",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval (art. 110, parágrafo único, Lcp nº 10/1996)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-02-17",
+   "tipo": "sem_expediente",
+   "motivo": "Carnaval (art. 110, parágrafo único, Lcp nº 10/1996)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-01",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa (art. 110, Lcp nº 10/1996)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-02",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa (art. 110, Lcp nº 10/1996)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-03",
+   "tipo": "sem_expediente",
+   "motivo": "Semana Santa (art. 110, Lcp nº 10/1996)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-04-21",
+   "tipo": "sem_expediente",
+   "motivo": "Tiradentes",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Trabalhador",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-06-04",
+   "tipo": "sem_expediente",
+   "motivo": "Corpus Christi",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-08-11",
+   "tipo": "sem_expediente",
+   "motivo": "Instituição dos Cursos Jurídicos no Brasil",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-08-15",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Senhor do Bonfim (Lei nº 4.509/2024)",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-09-07",
+   "tipo": "sem_expediente",
+   "motivo": "Independência do Brasil",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-09-08",
+   "tipo": "sem_expediente",
+   "motivo": "Nossa Senhora da Natividade – Padroeira do Tocantins",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-10-05",
+   "tipo": "sem_expediente",
+   "motivo": "Criação do Estado do Tocantins",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-10-12",
+   "tipo": "sem_expediente",
+   "motivo": "Nossa Senhora Aparecida – Padroeira do Brasil",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-10-30",
+   "tipo": "sem_expediente",
+   "motivo": "Dia do Servidor Público",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "sem_expediente",
+   "motivo": "Finados",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-11-15",
+   "tipo": "sem_expediente",
+   "motivo": "Proclamação da República",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Consciência Negra",
+   "fonte": "portaria"
+  },
+  {
+   "data": "2026-12-18",
+   "tipo": "sem_expediente",
+   "motivo": "Dia da Justiça",
+   "fonte": "portaria"
+  }
+ ],
+ "locais": {
+  "PALMAS": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "Padroeiro de Palmas",
+    "fonte": "portaria"
+   },
+   {
+    "data": "2026-05-20",
+    "tipo": "sem_expediente",
+    "motivo": "aniversário da cidade",
+    "fonte": "portaria"
+   }
+  ]
+ }
+}
