@@ -1,7 +1,7 @@
 {
  "tribunal": "TJSP",
  "ano": 2026,
- "gerado_em": "2026-11-20T12:49:12Z",
+ "gerado_em": "2026-11-21T12:23:13Z",
  "fontes": [
   {
    "id": "portal",
@@ -603,6 +603,20 @@
     "fonte": "portal"
    }
   ],
+  "BATATAIS": [
+   {
+    "data": "2026-03-14",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-06",
+    "tipo": "sem_expediente",
+    "motivo": "SENHOR BOM JESUS DA CANA VERDE - PADROEIRO",
+    "fonte": "portal"
+   }
+  ],
   "BAURU": [
    {
     "data": "2026-08-01",
@@ -797,11 +811,31 @@
     "fonte": "portal"
    }
   ],
+  "CAIEIRAS": [
+   {
+    "data": "2026-06-13",
+    "tipo": "sem_expediente",
+    "motivo": "SANTO ANTÔNIO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-12-14",
+    "tipo": "sem_expediente",
+    "motivo": "STO ANGELO E EMANCIPAÇÃO POL ADM DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
   "CAJAMAR": [
    {
     "data": "2026-01-20",
     "tipo": "sem_expediente",
     "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-02-18",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
     "fonte": "portal"
    }
   ],
@@ -1004,14 +1038,6 @@
     "fonte": "portal"
    }
   ],
-  "CHAVANTES": [
-   {
-    "data": "2026-12-04",
-    "tipo": "sem_expediente",
-    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
-    "fonte": "portal"
-   }
-  ],
   "COLINA": [
    {
     "data": "2026-03-19",
@@ -1035,12 +1061,6 @@
    }
   ],
   "CONCHAS": [
-   {
-    "data": "2026-06-13",
-    "tipo": "sem_expediente",
-    "motivo": "SANTO ANTONIO E ANIVERSÁRIO DE INSTALAÇÃO DA COMARCA",
-    "fonte": "portal"
-   },
    {
     "data": "2026-08-06",
     "tipo": "sem_expediente",
