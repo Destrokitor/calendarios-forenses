@@ -1,7 +1,7 @@
 {
  "tribunal": "TJSP",
  "ano": 2026,
- "gerado_em": "2026-11-22T12:36:50Z",
+ "gerado_em": "2026-11-23T14:20:45Z",
  "fontes": [
   {
    "id": "portal",
@@ -1743,20 +1743,7 @@
     "fonte": "portal"
    }
   ],
-  "ITAPEVI": [
-   {
-    "data": "2026-02-18",
-    "tipo": "sem_expediente",
-    "motivo": "EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-10-28",
-    "tipo": "sem_expediente",
-    "motivo": "PADROEIRO DA CIDADE",
-    "fonte": "portal"
-   }
-  ],
+  "ITAPEVI": [],
   "ITAPIRA": [
    {
     "data": "2026-05-13",
@@ -2526,12 +2513,6 @@
     "data": "2026-03-19",
     "tipo": "sem_expediente",
     "motivo": "DIA DO PADROEIRO(A)",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-10-28",
-    "tipo": "sem_expediente",
-    "motivo": "DIA DO MUNICÍPIO",
     "fonte": "portal"
    }
   ],
@@ -3669,6 +3650,12 @@
    }
   ],
   "SÃO JOSÉ DO RIO PARDO": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "ANIVERSÁRIO DA CIDADE",
+    "fonte": "portal"
+   },
    {
     "data": "2026-08-15",
     "tipo": "sem_expediente",
