@@ -1,7 +1,7 @@
 {
  "tribunal": "TJSP",
  "ano": 2026,
- "gerado_em": "2026-11-23T14:20:45Z",
+ "gerado_em": "2026-11-24T14:52:44Z",
  "fontes": [
   {
    "id": "portal",
@@ -1743,7 +1743,20 @@
     "fonte": "portal"
    }
   ],
-  "ITAPEVI": [],
+  "ITAPEVI": [
+   {
+    "data": "2026-02-18",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO-ADMINISTRATIVA",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-28",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
   "ITAPIRA": [
    {
     "data": "2026-05-13",
@@ -1991,14 +2004,6 @@
     "data": "2026-07-16",
     "tipo": "sem_expediente",
     "motivo": "PADROEIRA DO MUNICÍPIO",
-    "fonte": "portal"
-   }
-  ],
-  "JAÚ": [
-   {
-    "data": "2026-08-15",
-    "tipo": "sem_expediente",
-    "motivo": "DIA DA CIDADE",
     "fonte": "portal"
    }
   ],
@@ -2513,6 +2518,12 @@
     "data": "2026-03-19",
     "tipo": "sem_expediente",
     "motivo": "DIA DO PADROEIRO(A)",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-10-28",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DO MUNICÍPIO",
     "fonte": "portal"
    }
   ],
@@ -3114,7 +3125,6 @@
     "fonte": "portal"
    }
   ],
-  "PRESIDENTE BERNARDES": [],
   "PRESIDENTE EPITÁCIO": [
    {
     "data": "2026-03-27",
@@ -3126,12 +3136,6 @@
     "data": "2026-06-29",
     "tipo": "sem_expediente",
     "motivo": "SÃO PEDRO - PATRONO",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-08-15",
-    "tipo": "sem_expediente",
-    "motivo": "NOSSA SENHORA DOS NAVEGANTES",
     "fonte": "portal"
    }
   ],
