@@ -1,7 +1,7 @@
 {
  "tribunal": "TJSP",
  "ano": 2026,
- "gerado_em": "2026-11-24T14:52:44Z",
+ "gerado_em": "2026-11-25T14:11:07Z",
  "fontes": [
   {
    "id": "portal",
@@ -1807,12 +1807,6 @@
   ],
   "ITARARÉ": [
    {
-    "data": "2026-06-29",
-    "tipo": "sem_expediente",
-    "motivo": "SÃO PEDRO",
-    "fonte": "portal"
-   },
-   {
     "data": "2026-08-28",
     "tipo": "sem_expediente",
     "motivo": "SANTO AGOSTINHO",
@@ -2004,6 +1998,14 @@
     "data": "2026-07-16",
     "tipo": "sem_expediente",
     "motivo": "PADROEIRA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
+  "JAÚ": [
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DA CIDADE",
     "fonte": "portal"
    }
   ],
@@ -2308,20 +2310,6 @@
     "fonte": "portal"
    }
   ],
-  "MIRASSOL": [
-   {
-    "data": "2026-06-29",
-    "tipo": "sem_expediente",
-    "motivo": "PADROEIRO SÃO PEDRO",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-09-08",
-    "tipo": "sem_expediente",
-    "motivo": "FUNDAÇÃO DA CIDADE E CONSAGRAÇÃO À NATIVIDADE DE NOSSA SENHORA",
-    "fonte": "portal"
-   }
-  ],
   "MOCOCA": [
    {
     "data": "2026-01-20",
@@ -2388,12 +2376,6 @@
    }
   ],
   "MONTE APRAZÍVEL": [
-   {
-    "data": "2026-03-10",
-    "tipo": "sem_expediente",
-    "motivo": "DIA DE SANTO ANASTÁCIO",
-    "fonte": "portal"
-   },
    {
     "data": "2026-08-06",
     "tipo": "sem_expediente",
@@ -3125,6 +3107,7 @@
     "fonte": "portal"
    }
   ],
+  "PRESIDENTE BERNARDES": [],
   "PRESIDENTE EPITÁCIO": [
    {
     "data": "2026-03-27",
@@ -3136,6 +3119,12 @@
     "data": "2026-06-29",
     "tipo": "sem_expediente",
     "motivo": "SÃO PEDRO - PATRONO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-08-15",
+    "tipo": "sem_expediente",
+    "motivo": "NOSSA SENHORA DOS NAVEGANTES",
     "fonte": "portal"
    }
   ],
