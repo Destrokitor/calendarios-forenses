@@ -1,7 +1,7 @@
 {
  "tribunal": "TRT9",
  "ano": 2026,
- "gerado_em": "2026-11-14T11:46:07Z",
+ "gerado_em": "2026-11-26T14:13:30Z",
  "fontes": [
   {
    "id": "calendario",
@@ -765,6 +765,12 @@
     "data": "2026-08-06",
     "tipo": "sem_expediente",
     "motivo": "Dia do Padroeiro do Município de Palmas",
+    "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-25",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão dos prazos processuais no dia 25/11/2026, em razão dos temporais",
     "fonte": "calendario"
    }
   ],

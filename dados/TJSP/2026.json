@@ -1,7 +1,7 @@
 {
  "tribunal": "TJSP",
  "ano": 2026,
- "gerado_em": "2026-11-25T14:11:07Z",
+ "gerado_em": "2026-11-26T13:51:53Z",
  "fontes": [
   {
    "id": "portal",
@@ -452,12 +452,6 @@
     "tipo": "sem_expediente",
     "motivo": "SANTO ANTÔNIO",
     "fonte": "portal"
-   },
-   {
-    "data": "2026-08-14",
-    "tipo": "sem_expediente",
-    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
-    "fonte": "portal"
    }
   ],
   "ARARAQUARA": [
@@ -625,20 +619,7 @@
     "fonte": "portal"
    }
   ],
-  "BEBEDOURO": [
-   {
-    "data": "2026-05-03",
-    "tipo": "sem_expediente",
-    "motivo": "FESTA DA SANTA CRUZ",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-06-24",
-    "tipo": "sem_expediente",
-    "motivo": "PADROEIRO DA CIDADE",
-    "fonte": "portal"
-   }
-  ],
+  "BEBEDOURO": [],
   "BERTIOGA": [
    {
     "data": "2026-05-19",
@@ -1807,6 +1788,12 @@
   ],
   "ITARARÉ": [
    {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO PEDRO",
+    "fonte": "portal"
+   },
+   {
     "data": "2026-08-28",
     "tipo": "sem_expediente",
     "motivo": "SANTO AGOSTINHO",
@@ -2310,6 +2297,20 @@
     "fonte": "portal"
    }
   ],
+  "MIRASSOL": [
+   {
+    "data": "2026-06-29",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO SÃO PEDRO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "FUNDAÇÃO DA CIDADE E CONSAGRAÇÃO À NATIVIDADE DE NOSSA SENHORA",
+    "fonte": "portal"
+   }
+  ],
   "MOCOCA": [
    {
     "data": "2026-01-20",
@@ -2376,6 +2377,12 @@
    }
   ],
   "MONTE APRAZÍVEL": [
+   {
+    "data": "2026-03-10",
+    "tipo": "sem_expediente",
+    "motivo": "DIA DE SANTO ANASTÁCIO",
+    "fonte": "portal"
+   },
    {
     "data": "2026-08-06",
     "tipo": "sem_expediente",
