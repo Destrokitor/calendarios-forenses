@@ -1,7 +1,7 @@
 {
  "tribunal": "TRT9",
  "ano": 2026,
- "gerado_em": "2026-11-26T14:13:30Z",
+ "gerado_em": "2026-11-27T14:15:25Z",
  "fontes": [
   {
    "id": "calendario",
@@ -384,6 +384,14 @@
   }
  ],
  "locais": {
+  "AMPERE-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Francisco Beltrão)",
+    "fonte": "calendario"
+   }
+  ],
   "APUCARANA-PR": [
    {
     "data": "2026-01-28",
@@ -458,6 +466,38 @@
     "fonte": "calendario"
    }
   ],
+  "BARRACAO-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Francisco Beltrão)",
+    "fonte": "calendario"
+   }
+  ],
+  "BOA ESPERANCA DO IGUACU-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Dois Vizinhos)",
+    "fonte": "calendario"
+   }
+  ],
+  "BOM JESUS DO SUL-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Francisco Beltrão)",
+    "fonte": "calendario"
+   }
+  ],
+  "BOM SUCESSO DO SUL-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Pato Branco)",
+    "fonte": "calendario"
+   }
+  ],
   "CAMBE-PR": [
    {
     "data": "2026-06-13",
@@ -494,6 +534,14 @@
     "fonte": "calendario"
    }
   ],
+  "CAPANEMA-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Francisco Beltrão)",
+    "fonte": "calendario"
+   }
+  ],
   "CASCAVEL-PR": [
    {
     "data": "2026-11-14",
@@ -513,6 +561,14 @@
     "data": "2026-07-26",
     "tipo": "sem_expediente",
     "motivo": "Padroeira do Município de Castro (Senhora de Sant'Ana)",
+    "fonte": "calendario"
+   }
+  ],
+  "CHOPINZINHO-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Pato Branco)",
     "fonte": "calendario"
    }
   ],
@@ -552,6 +608,22 @@
     "fonte": "calendario"
    }
   ],
+  "CORONEL VIVIDA-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Pato Branco)",
+    "fonte": "calendario"
+   }
+  ],
+  "CRUZEIRO DO SUL-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Dois Vizinhos)",
+    "fonte": "calendario"
+   }
+  ],
   "CURITIBA-PR": [
    {
     "data": "2026-09-08",
@@ -568,9 +640,23 @@
     "fonte": "calendario"
    },
    {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026",
+    "fonte": "calendario"
+   },
+   {
     "data": "2026-11-28",
     "tipo": "sem_expediente",
     "motivo": "Emancipação Política do Município",
+    "fonte": "calendario"
+   }
+  ],
+  "ENEAS MARQUES-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Francisco Beltrão)",
     "fonte": "calendario"
    }
   ],
@@ -600,6 +686,12 @@
     "tipo": "sem_expediente",
     "motivo": "ANIVERSÁRIO DO MUNICÍPIO",
     "fonte": "calendario"
+   },
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Francisco Beltrão)",
+    "fonte": "calendario"
    }
   ],
   "GUARAPUAVA-PR": [
@@ -627,6 +719,14 @@
     "data": "2026-09-08",
     "tipo": "sem_expediente",
     "motivo": "Padroeira do Município de Irati",
+    "fonte": "calendario"
+   }
+  ],
+  "ITAPEJARA D'OESTE-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Pato Branco)",
     "fonte": "calendario"
    }
   ],
@@ -706,6 +806,14 @@
     "fonte": "calendario"
    }
   ],
+  "MANFRINOPOLIS-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Francisco Beltrão)",
+    "fonte": "calendario"
+   }
+  ],
   "MARECHAL CANDIDO RONDON-PR": [
    {
     "data": "2026-07-25",
@@ -746,11 +854,43 @@
     "fonte": "calendario"
    }
   ],
+  "MARIOPOLIS-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Pato Branco)",
+    "fonte": "calendario"
+   }
+  ],
+  "MARMELEIRO-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Francisco Beltrão)",
+    "fonte": "calendario"
+   }
+  ],
+  "NOVA ESPERANCA DO SUDOESTE-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Francisco Beltrão)",
+    "fonte": "calendario"
+   }
+  ],
   "NOVA ESPERANCA-PR": [
    {
     "data": "2026-06-12",
     "tipo": "sem_expediente",
     "motivo": "Sagrado Coração de Jesus (Padroeiro do Município)",
+    "fonte": "calendario"
+   }
+  ],
+  "NOVA PRATA DO IGUACU-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Dois Vizinhos)",
     "fonte": "calendario"
    }
   ],
@@ -810,9 +950,23 @@
     "fonte": "calendario"
    },
    {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026",
+    "fonte": "calendario"
+   },
+   {
     "data": "2026-12-14",
     "tipo": "sem_expediente",
     "motivo": "EMANCIPAÇÃO POLITICA",
+    "fonte": "calendario"
+   }
+  ],
+  "PEROLA D'OESTE-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Francisco Beltrão)",
     "fonte": "calendario"
    }
   ],
@@ -874,6 +1028,22 @@
     "fonte": "calendario"
    }
   ],
+  "REALEZA-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Dois Vizinhos)",
+    "fonte": "calendario"
+   }
+  ],
+  "RENASCENCA-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Francisco Beltrão)",
+    "fonte": "calendario"
+   }
+  ],
   "ROLANDIA-PR": [
    {
     "data": "2026-01-28",
@@ -885,6 +1055,30 @@
     "data": "2026-03-19",
     "tipo": "sem_expediente",
     "motivo": "Padroeiro do Município",
+    "fonte": "calendario"
+   }
+  ],
+  "SALGADO FILHO-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Francisco Beltrão)",
+    "fonte": "calendario"
+   }
+  ],
+  "SALTO DO LONTRA-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Francisco Beltrão)",
+    "fonte": "calendario"
+   }
+  ],
+  "SANTA IZABEL DO OESTE-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Dois Vizinhos)",
     "fonte": "calendario"
    }
   ],
@@ -902,11 +1096,43 @@
     "fonte": "calendario"
    }
   ],
+  "SANTO ANTONIO DO SUDOESTE-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Francisco Beltrão)",
+    "fonte": "calendario"
+   }
+  ],
+  "SAO JOAO-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Dois Vizinhos)",
+    "fonte": "calendario"
+   }
+  ],
+  "SAO JORGE D'OESTE-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Dois Vizinhos)",
+    "fonte": "calendario"
+   }
+  ],
   "SAO JOSE DOS PINHAIS-PR": [
    {
     "data": "2026-03-19",
     "tipo": "sem_expediente",
     "motivo": "Dia do Padroeiro de São José",
+    "fonte": "calendario"
+   }
+  ],
+  "SULINA-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Pato Branco)",
     "fonte": "calendario"
    }
   ],
@@ -1003,6 +1229,22 @@
     "data": "2026-10-29",
     "tipo": "suspensao_prazo",
     "motivo": "Suspensão de prazos processuais nos dias 27 a 29/10/2026 na Vara do Trabalho de Palmas",
+    "fonte": "calendario"
+   }
+  ],
+  "VERE-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Pato Branco)",
+    "fonte": "calendario"
+   }
+  ],
+  "VITORINO-PR": [
+   {
+    "data": "2026-11-26",
+    "tipo": "suspensao_prazo",
+    "motivo": "Suspensão de prazos processuais no dia 26/11/2026 (jurisdição de Pato Branco)",
     "fonte": "calendario"
    }
   ],

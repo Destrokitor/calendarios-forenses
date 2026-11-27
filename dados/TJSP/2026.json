@@ -1,7 +1,7 @@
 {
  "tribunal": "TJSP",
  "ano": 2026,
- "gerado_em": "2026-11-26T13:51:53Z",
+ "gerado_em": "2026-11-27T13:48:49Z",
  "fontes": [
   {
    "id": "portal",
@@ -452,6 +452,12 @@
     "tipo": "sem_expediente",
     "motivo": "SANTO ANTÔNIO",
     "fonte": "portal"
+   },
+   {
+    "data": "2026-08-14",
+    "tipo": "sem_expediente",
+    "motivo": "EMANCIPAÇÃO POLÍTICO ADMINISTRATIVA",
+    "fonte": "portal"
    }
   ],
   "ARARAQUARA": [
@@ -619,7 +625,20 @@
     "fonte": "portal"
    }
   ],
-  "BEBEDOURO": [],
+  "BEBEDOURO": [
+   {
+    "data": "2026-05-03",
+    "tipo": "sem_expediente",
+    "motivo": "FESTA DA SANTA CRUZ",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-06-24",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRO DA CIDADE",
+    "fonte": "portal"
+   }
+  ],
   "BERTIOGA": [
    {
     "data": "2026-05-19",
@@ -1093,14 +1112,6 @@
     "fonte": "portal"
    }
   ],
-  "CRAVINHOS": [
-   {
-    "data": "2026-03-19",
-    "tipo": "sem_expediente",
-    "motivo": "SÃO JOSÉ E DIA DO MUNICÍPIO",
-    "fonte": "portal"
-   }
-  ],
   "CRUZEIRO": [
    {
     "data": "2026-10-02",
@@ -1156,12 +1167,6 @@
     "data": "2026-01-20",
     "tipo": "sem_expediente",
     "motivo": "SÃO SEBASTIÃO",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-09-08",
-    "tipo": "sem_expediente",
-    "motivo": "PADROEIRA",
     "fonte": "portal"
    }
   ],
