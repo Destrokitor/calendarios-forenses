@@ -1,7 +1,7 @@
 {
  "tribunal": "TJSP",
  "ano": 2026,
- "gerado_em": "2026-11-27T13:48:49Z",
+ "gerado_em": "2026-11-28T13:02:07Z",
  "fontes": [
   {
    "id": "portal",
@@ -1112,6 +1112,14 @@
     "fonte": "portal"
    }
   ],
+  "CRAVINHOS": [
+   {
+    "data": "2026-03-19",
+    "tipo": "sem_expediente",
+    "motivo": "SÃO JOSÉ E DIA DO MUNICÍPIO",
+    "fonte": "portal"
+   }
+  ],
   "CRUZEIRO": [
    {
     "data": "2026-10-02",
@@ -1167,6 +1175,12 @@
     "data": "2026-01-20",
     "tipo": "sem_expediente",
     "motivo": "SÃO SEBASTIÃO",
+    "fonte": "portal"
+   },
+   {
+    "data": "2026-09-08",
+    "tipo": "sem_expediente",
+    "motivo": "PADROEIRA",
     "fonte": "portal"
    }
   ],
@@ -3718,20 +3732,7 @@
     "fonte": "portal"
    }
   ],
-  "SÃO MANUEL": [
-   {
-    "data": "2026-06-17",
-    "tipo": "sem_expediente",
-    "motivo": "LEI MUNICIPAL Nº 1043/1975",
-    "fonte": "portal"
-   },
-   {
-    "data": "2026-08-15",
-    "tipo": "sem_expediente",
-    "motivo": "LEI MUNICIPAL Nº 86/1966",
-    "fonte": "portal"
-   }
-  ],
+  "SÃO MANUEL": [],
   "SÃO MIGUEL ARCANJO": [
    {
     "data": "2026-04-01",
